@@ -1,0 +1,12 @@
+int thisInt = 0;
+bool thisBool = false;
+float thisFloat = 3.0;
+
+for(;thisInt < 10; thisInt = thisInt + 1)
+{
+	OUTPUT(thisFloat);
+	thisFloat = thisFloat*thisInt;
+}
+
+thisBool = true;
+

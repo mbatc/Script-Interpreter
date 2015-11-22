@@ -1,0 +1,4 @@
+
+! myString STRING "This is a String that is bad! that is bad! that is bad! that is bad! that is bad! that is bad! that is bad!"
+
+! myINT INT 86

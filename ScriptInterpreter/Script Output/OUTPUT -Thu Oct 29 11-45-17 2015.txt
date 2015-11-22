@@ -1,0 +1,3 @@
+Saving myString: This is a String that is bad!  - to file
+myString changed to: I have been changed
+Loaded - This is a String that is bad!From save.txt

@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{8F5582A6-6155-451B-A893-11CBBF566A39}</ProjectGuid>
+    <RootNamespace>ScriptInterpreter</RootNamespace>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v120</PlatformToolset>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v120</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup />
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+    </ClCompile>
+    <Link>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="CCharacter.cpp" />
+    <ClCompile Include="CDebugLog.cpp" />
+    <ClCompile Include="CFileTree.cpp" />
+    <ClCompile Include="CFunctionParser.cpp" />
+    <ClCompile Include="CInterpreter.cpp" />
+    <ClCompile Include="CLexer.cpp" />
+    <ClCompile Include="CParser.cpp" />
+    <ClCompile Include="CScanner.cpp" />
+    <ClCompile Include="CScriptFile.cpp" />
+    <ClCompile Include="CScriptFunctionTree.cpp" />
+    <ClCompile Include="CScriptVariable.cpp" />
+    <ClCompile Include="CScriptVariableList.cpp" />
+    <ClCompile Include="CScriptVariableLoader.cpp" />
+    <ClCompile Include="CSystem.cpp" />
+    <ClCompile Include="CToken.cpp" />
+    <ClCompile Include="ErrorHelper.cpp" />
+    <ClCompile Include="LanguageDefinitionHelper.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="OperatorFunctions.cpp" />
+    <ClCompile Include="ScriptTreeFunctions.cpp" />
+    <ClCompile Include="String.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CCharacter.h" />
+    <ClInclude Include="CDebugLog.h" />
+    <ClInclude Include="CFileTree.h" />
+    <ClInclude Include="CFunctionParser.h" />
+    <ClInclude Include="CInterpreter.h" />
+    <ClInclude Include="CLexer.h" />
+    <ClInclude Include="CParser.h" />
+    <ClInclude Include="CScanner.h" />
+    <ClInclude Include="CScriptFile.h" />
+    <ClInclude Include="CScriptFunctionTree.h" />
+    <ClInclude Include="CScriptVariable.h" />
+    <ClInclude Include="CScriptVariableList.h" />
+    <ClInclude Include="CScriptVariableLoader.h" />
+    <ClInclude Include="CSystem.h" />
+    <ClInclude Include="CToken.h" />
+    <ClInclude Include="DataTypeDefinitions.h" />
+    <ClInclude Include="ErrorDefinitions.h" />
+    <ClInclude Include="main.h" />
+    <ClInclude Include="MemoryHelper.h" />
+    <ClInclude Include="OperatorFunctions.h" />
+    <ClInclude Include="ScriptHelper.h" />
+    <ClInclude Include="ScriptLanguageDefinition.h" />
+    <ClInclude Include="ScriptTreeFunctions.h" />
+    <ClInclude Include="String.h" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>
