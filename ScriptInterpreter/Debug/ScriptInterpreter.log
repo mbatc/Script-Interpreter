@@ -1,34 +1,5 @@
-﻿Build started 9/11/2015 12:43:11 PM.
-     1>Project "D:\mbatc13\My Documents\Visual Studio 2013\Projects\ScriptInterpreter\ScriptInterpreter\ScriptInterpreter.vcxproj" on node 2 (Build target(s)).
-     1>ClCompile:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt CScanner.cpp
-         CScanner.cpp
-     1>d:\mbatc13\my documents\visual studio 2013\projects\scriptinterpreter\scriptinterpreter\string.h(50): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
-       Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\mbatc13\My Documents\Visual Studio 2013\Projects\ScriptInterpreter\Debug\ScriptInterpreter.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\mbatc13\My Documents\Visual Studio 2013\Projects\ScriptInterpreter\Debug\ScriptInterpreter.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\mbatc13\My Documents\Visual Studio 2013\Projects\ScriptInterpreter\Debug\ScriptInterpreter.lib" /MACHINE:X86 Debug\CCharacter.obj
-         Debug\CDebugLog.obj
-         Debug\CFileTree.obj
-         Debug\CFunctionParser.obj
-         Debug\CInterpreter.obj
-         Debug\CLexer.obj
-         Debug\CParser.obj
-         Debug\CScanner.obj
-         Debug\CScriptFile.obj
-         Debug\CScriptFunctionTree.obj
-         Debug\CScriptVariable.obj
-         Debug\CScriptVariableList.obj
-         Debug\CScriptVariableLoader.obj
-         Debug\CSystem.obj
-         Debug\CToken.obj
-         Debug\ErrorHelper.obj
-         Debug\LanguageDefinitionHelper.obj
-         Debug\main.obj
-         Debug\OperatorFunctions.obj
-         Debug\ScriptTreeFunctions.obj
-         Debug\String.obj
-         ScriptInterpreter.vcxproj -> D:\mbatc13\My Documents\Visual Studio 2013\Projects\ScriptInterpreter\Debug\ScriptInterpreter.exe
-     1>Done Building Project "D:\mbatc13\My Documents\Visual Studio 2013\Projects\ScriptInterpreter\ScriptInterpreter\ScriptInterpreter.vcxproj" (Build target(s)).
-
-Build succeeded.
-
-Time Elapsed 00:00:08.36
+﻿  CSystem.cpp
+e:\programming projects\script interpreter\script-interpreter\scriptinterpreter\string.h(50): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+e:\programming projects\script interpreter\script-interpreter\scriptinterpreter\csystem.cpp(279): warning C4172: returning address of local variable or temporary: ret
+e:\programming projects\script interpreter\script-interpreter\scriptinterpreter\csystem.cpp(350): warning C4172: returning address of local variable or temporary: ret
+  ScriptInterpreter.vcxproj -> E:\Programming Projects\Script Interpreter\Script-Interpreter\Debug\ScriptInterpreter.exe

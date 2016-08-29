@@ -8,5 +8,3 @@ for(;thisInt < 10; thisInt = thisInt + 1)
 	thisFloat = thisFloat*thisInt;
 }
 
-thisBool = true;
-

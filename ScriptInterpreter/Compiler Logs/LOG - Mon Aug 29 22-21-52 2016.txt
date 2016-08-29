@@ -1,0 +1,5381 @@
+0 : 1 : 1 : SPACE
+1 : 2 : 1 : /
+2 : 3 : 1 : /
+3 : 4 : 1 : I
+4 : 5 : 1 : SPACE
+5 : 6 : 1 : A
+6 : 7 : 1 : m
+7 : 8 : 1 : SPACE
+8 : 9 : 1 : A
+9 : 10 : 1 : SPACE
+10 : 11 : 1 : C
+11 : 12 : 1 : O
+12 : 13 : 1 : M
+13 : 14 : 1 : M
+14 : 15 : 1 : E
+15 : 16 : 1 : N
+16 : 17 : 1 : T
+17 : 18 : 1 : 
+18 : 19 : 1 : NEW_LINE
+19 : 1 : 2 : /
+20 : 2 : 2 : *
+21 : 3 : 2 : S
+22 : 4 : 2 : O
+23 : 5 : 2 : SPACE
+24 : 6 : 2 : a
+25 : 7 : 2 : m
+26 : 8 : 2 : SPACE
+27 : 9 : 2 : I
+28 : 10 : 2 : *
+29 : 11 : 2 : /
+30 : 12 : 2 : 
+31 : 13 : 2 : NEW_LINE
+32 : 1 : 3 : 
+33 : 2 : 3 : NEW_LINE
+34 : 1 : 4 : P
+35 : 2 : 4 : E
+36 : 3 : 4 : R
+37 : 4 : 4 : S
+38 : 5 : 4 : I
+39 : 6 : 4 : S
+40 : 7 : 4 : T
+41 : 8 : 4 : A
+42 : 9 : 4 : N
+43 : 10 : 4 : T
+44 : 11 : 4 : _
+45 : 12 : 4 : V
+46 : 13 : 4 : A
+47 : 14 : 4 : R
+48 : 15 : 4 : I
+49 : 16 : 4 : A
+50 : 17 : 4 : B
+51 : 18 : 4 : L
+52 : 19 : 4 : E
+53 : 20 : 4 : S
+54 : 21 : 4 : 
+55 : 22 : 4 : NEW_LINE
+56 : 1 : 5 : {
+57 : 2 : 5 : 
+58 : 3 : 5 : NEW_LINE
+59 : 1 : 6 : TAB
+60 : 2 : 6 : /
+61 : 3 : 6 : /
+62 : 4 : 6 : T
+63 : 5 : 6 : Y
+64 : 6 : 6 : P
+65 : 7 : 6 : E
+66 : 8 : 6 : SPACE
+67 : 9 : 6 : |
+68 : 10 : 6 : SPACE
+69 : 11 : 6 : I
+70 : 12 : 6 : D
+71 : 13 : 6 : E
+72 : 14 : 6 : N
+73 : 15 : 6 : T
+74 : 16 : 6 : I
+75 : 17 : 6 : F
+76 : 18 : 6 : I
+77 : 19 : 6 : E
+78 : 20 : 6 : R
+79 : 21 : 6 : SPACE
+80 : 22 : 6 : |
+81 : 23 : 6 : SPACE
+82 : 24 : 6 : S
+83 : 25 : 6 : E
+84 : 26 : 6 : M
+85 : 27 : 6 : I
+86 : 28 : 6 : C
+87 : 29 : 6 : O
+88 : 30 : 6 : L
+89 : 31 : 6 : O
+90 : 32 : 6 : N
+91 : 33 : 6 : (
+92 : 34 : 6 : U
+93 : 35 : 6 : n
+94 : 36 : 6 : i
+95 : 37 : 6 : n
+96 : 38 : 6 : i
+97 : 39 : 6 : t
+98 : 40 : 6 : i
+99 : 41 : 6 : a
+100 : 42 : 6 : l
+101 : 43 : 6 : i
+102 : 44 : 6 : z
+103 : 45 : 6 : e
+104 : 46 : 6 : d
+105 : 47 : 6 : )
+106 : 48 : 6 : SPACE
+107 : 49 : 6 : o
+108 : 50 : 6 : r
+109 : 51 : 6 : SPACE
+110 : 52 : 6 : =
+111 : 53 : 6 : SPACE
+112 : 54 : 6 : V
+113 : 55 : 6 : A
+114 : 56 : 6 : L
+115 : 57 : 6 : U
+116 : 58 : 6 : E
+117 : 59 : 6 : 
+118 : 60 : 6 : NEW_LINE
+119 : 1 : 7 : TAB
+120 : 2 : 7 : i
+121 : 3 : 7 : n
+122 : 4 : 7 : t
+123 : 5 : 7 : SPACE
+124 : 6 : 7 : m
+125 : 7 : 7 : y
+126 : 8 : 7 : I
+127 : 9 : 7 : N
+128 : 10 : 7 : T
+129 : 11 : 7 : SPACE
+130 : 12 : 7 : =
+131 : 13 : 7 : SPACE
+132 : 14 : 7 : SPACE
+133 : 15 : 7 : 7
+134 : 16 : 7 : 9
+135 : 17 : 7 : ;
+136 : 18 : 7 : 
+137 : 19 : 7 : NEW_LINE
+138 : 1 : 8 : TAB
+139 : 2 : 8 : f
+140 : 3 : 8 : l
+141 : 4 : 8 : o
+142 : 5 : 8 : a
+143 : 6 : 8 : t
+144 : 7 : 8 : SPACE
+145 : 8 : 8 : m
+146 : 9 : 8 : y
+147 : 10 : 8 : F
+148 : 11 : 8 : l
+149 : 12 : 8 : o
+150 : 13 : 8 : a
+151 : 14 : 8 : t
+152 : 15 : 8 : SPACE
+153 : 16 : 8 : =
+154 : 17 : 8 : SPACE
+155 : 18 : 8 : SPACE
+156 : 19 : 8 : 3
+157 : 20 : 8 : .
+158 : 21 : 8 : 0
+159 : 22 : 8 : ;
+160 : 23 : 8 : 
+161 : 24 : 8 : NEW_LINE
+162 : 1 : 9 : TAB
+163 : 2 : 9 : b
+164 : 3 : 9 : o
+165 : 4 : 9 : o
+166 : 5 : 9 : l
+167 : 6 : 9 : SPACE
+168 : 7 : 9 : m
+169 : 8 : 9 : y
+170 : 9 : 9 : B
+171 : 10 : 9 : o
+172 : 11 : 9 : o
+173 : 12 : 9 : l
+174 : 13 : 9 : SPACE
+175 : 14 : 9 : =
+176 : 15 : 9 : SPACE
+177 : 16 : 9 : t
+178 : 17 : 9 : r
+179 : 18 : 9 : u
+180 : 19 : 9 : e
+181 : 20 : 9 : ;
+182 : 21 : 9 : 
+183 : 22 : 9 : NEW_LINE
+184 : 1 : 10 : TAB
+185 : 2 : 10 : s
+186 : 3 : 10 : t
+187 : 4 : 10 : r
+188 : 5 : 10 : i
+189 : 6 : 10 : n
+190 : 7 : 10 : g
+191 : 8 : 10 : SPACE
+192 : 9 : 10 : m
+193 : 10 : 10 : y
+194 : 11 : 10 : S
+195 : 12 : 10 : t
+196 : 13 : 10 : r
+197 : 14 : 10 : i
+198 : 15 : 10 : n
+199 : 16 : 10 : g
+200 : 17 : 10 : SPACE
+201 : 18 : 10 : SPACE
+202 : 19 : 10 : =
+203 : 20 : 10 : "
+204 : 21 : 10 : T
+205 : 22 : 10 : h
+206 : 23 : 10 : i
+207 : 24 : 10 : s
+208 : 25 : 10 : SPACE
+209 : 26 : 10 : i
+210 : 27 : 10 : s
+211 : 28 : 10 : SPACE
+212 : 29 : 10 : a
+213 : 30 : 10 : SPACE
+214 : 31 : 10 : S
+215 : 32 : 10 : t
+216 : 33 : 10 : r
+217 : 34 : 10 : i
+218 : 35 : 10 : n
+219 : 36 : 10 : g
+220 : 37 : 10 : "
+221 : 38 : 10 : ;
+222 : 39 : 10 : 
+223 : 40 : 10 : NEW_LINE
+224 : 1 : 11 : TAB
+225 : 2 : 11 : i
+226 : 3 : 11 : n
+227 : 4 : 11 : t
+228 : 5 : 11 : SPACE
+229 : 6 : 11 : t
+230 : 7 : 11 : h
+231 : 8 : 11 : i
+232 : 9 : 11 : s
+233 : 10 : 11 : I
+234 : 11 : 11 : n
+235 : 12 : 11 : t
+236 : 13 : 11 : SPACE
+237 : 14 : 11 : =
+238 : 15 : 11 : SPACE
+239 : 16 : 11 : 0
+240 : 17 : 11 : ;
+241 : 18 : 11 : 
+242 : 19 : 11 : NEW_LINE
+243 : 1 : 12 : }
+244 : 2 : 12 : 
+245 : 3 : 12 : NEW_LINE
+246 : 1 : 13 : 
+247 : 2 : 13 : NEW_LINE
+248 : 1 : 14 : m
+249 : 2 : 14 : y
+250 : 3 : 14 : I
+251 : 4 : 14 : N
+252 : 5 : 14 : T
+253 : 6 : 14 : SPACE
+254 : 7 : 14 : =
+255 : 8 : 14 : SPACE
+256 : 9 : 14 : m
+257 : 10 : 14 : y
+258 : 11 : 14 : I
+259 : 12 : 14 : N
+260 : 13 : 14 : T
+261 : 14 : 14 : SPACE
+262 : 15 : 14 : +
+263 : 16 : 14 : SPACE
+264 : 17 : 14 : 1
+265 : 18 : 14 : SPACE
+266 : 19 : 14 : +
+267 : 20 : 14 : SPACE
+268 : 21 : 14 : m
+269 : 22 : 14 : y
+270 : 23 : 14 : F
+271 : 24 : 14 : l
+272 : 25 : 14 : o
+273 : 26 : 14 : a
+274 : 27 : 14 : t
+275 : 28 : 14 : ;
+276 : 29 : 14 : 
+277 : 30 : 14 : NEW_LINE
+278 : 1 : 15 : 
+279 : 2 : 15 : NEW_LINE
+280 : 1 : 16 : m
+281 : 2 : 16 : y
+282 : 3 : 16 : S
+283 : 4 : 16 : t
+284 : 5 : 16 : r
+285 : 6 : 16 : i
+286 : 7 : 16 : n
+287 : 8 : 16 : g
+288 : 9 : 16 : SPACE
+289 : 10 : 16 : =
+290 : 11 : 16 : SPACE
+291 : 12 : 16 : m
+292 : 13 : 16 : y
+293 : 14 : 16 : S
+294 : 15 : 16 : t
+295 : 16 : 16 : r
+296 : 17 : 16 : i
+297 : 18 : 16 : n
+298 : 19 : 16 : g
+299 : 20 : 16 : SPACE
+300 : 21 : 16 : +
+301 : 22 : 16 : SPACE
+302 : 23 : 16 : "
+303 : 24 : 16 : SPACE
+304 : 25 : 16 : t
+305 : 26 : 16 : h
+306 : 27 : 16 : a
+307 : 28 : 16 : t
+308 : 29 : 16 : SPACE
+309 : 30 : 16 : i
+310 : 31 : 16 : s
+311 : 32 : 16 : SPACE
+312 : 33 : 16 : b
+313 : 34 : 16 : a
+314 : 35 : 16 : d
+315 : 36 : 16 : !
+316 : 37 : 16 : "
+317 : 38 : 16 : ;
+318 : 39 : 16 : 
+319 : 40 : 16 : NEW_LINE
+320 : 1 : 17 : 
+321 : 2 : 17 : NEW_LINE
+322 : 1 : 18 : i
+323 : 2 : 18 : f
+324 : 3 : 18 : (
+325 : 4 : 18 : m
+326 : 5 : 18 : y
+327 : 6 : 18 : I
+328 : 7 : 18 : N
+329 : 8 : 18 : T
+330 : 9 : 18 : SPACE
+331 : 10 : 18 : <
+332 : 11 : 18 : SPACE
+333 : 12 : 18 : 8
+334 : 13 : 18 : 0
+335 : 14 : 18 : )
+336 : 15 : 18 : 
+337 : 16 : 18 : NEW_LINE
+338 : 1 : 19 : {
+339 : 2 : 19 : 
+340 : 3 : 19 : NEW_LINE
+341 : 1 : 20 : TAB
+342 : 2 : 20 : m
+343 : 3 : 20 : y
+344 : 4 : 20 : I
+345 : 5 : 20 : N
+346 : 6 : 20 : T
+347 : 7 : 20 : SPACE
+348 : 8 : 20 : =
+349 : 9 : 20 : SPACE
+350 : 10 : 20 : m
+351 : 11 : 20 : y
+352 : 12 : 20 : I
+353 : 13 : 20 : N
+354 : 14 : 20 : T
+355 : 15 : 20 : SPACE
+356 : 16 : 20 : *
+357 : 17 : 20 : SPACE
+358 : 18 : 20 : m
+359 : 19 : 20 : y
+360 : 20 : 20 : F
+361 : 21 : 20 : l
+362 : 22 : 20 : o
+363 : 23 : 20 : a
+364 : 24 : 20 : t
+365 : 25 : 20 : ;
+366 : 26 : 20 : 
+367 : 27 : 20 : NEW_LINE
+368 : 1 : 21 : }
+369 : 2 : 21 : 
+370 : 3 : 21 : NEW_LINE
+371 : 1 : 22 : 
+372 : 2 : 22 : NEW_LINE
+373 : 1 : 23 : m
+374 : 2 : 23 : y
+375 : 3 : 23 : I
+376 : 4 : 23 : N
+377 : 5 : 23 : T
+378 : 6 : 23 : SPACE
+379 : 7 : 23 : =
+380 : 8 : 23 : SPACE
+381 : 9 : 23 : m
+382 : 10 : 23 : y
+383 : 11 : 23 : F
+384 : 12 : 23 : l
+385 : 13 : 23 : o
+386 : 14 : 23 : a
+387 : 15 : 23 : t
+388 : 16 : 23 : SPACE
+389 : 17 : 23 : +
+390 : 18 : 23 : SPACE
+391 : 19 : 23 : m
+392 : 20 : 23 : y
+393 : 21 : 23 : I
+394 : 22 : 23 : N
+395 : 23 : 23 : T
+396 : 24 : 23 : ;
+397 : 25 : 23 : 
+398 : 26 : 23 : NEW_LINE
+399 : 1 : 24 : 
+400 : 2 : 24 : NEW_LINE
+401 : 1 : 25 : i
+402 : 2 : 25 : f
+403 : 3 : 25 : (
+404 : 4 : 25 : m
+405 : 5 : 25 : y
+406 : 6 : 25 : F
+407 : 7 : 25 : l
+408 : 8 : 25 : o
+409 : 9 : 25 : a
+410 : 10 : 25 : t
+411 : 11 : 25 : SPACE
+412 : 12 : 25 : =
+413 : 13 : 25 : =
+414 : 14 : 25 : SPACE
+415 : 15 : 25 : 3
+416 : 16 : 25 : )
+417 : 17 : 25 : 
+418 : 18 : 25 : NEW_LINE
+419 : 1 : 26 : {
+420 : 2 : 26 : 
+421 : 3 : 26 : NEW_LINE
+422 : 1 : 27 : TAB
+423 : 2 : 27 : i
+424 : 3 : 27 : f
+425 : 4 : 27 : (
+426 : 5 : 27 : m
+427 : 6 : 27 : y
+428 : 7 : 27 : B
+429 : 8 : 27 : o
+430 : 9 : 27 : o
+431 : 10 : 27 : l
+432 : 11 : 27 : SPACE
+433 : 12 : 27 : =
+434 : 13 : 27 : =
+435 : 14 : 27 : SPACE
+436 : 15 : 27 : t
+437 : 16 : 27 : r
+438 : 17 : 27 : u
+439 : 18 : 27 : e
+440 : 19 : 27 : )
+441 : 20 : 27 : 
+442 : 21 : 27 : NEW_LINE
+443 : 1 : 28 : TAB
+444 : 2 : 28 : {
+445 : 3 : 28 : 
+446 : 4 : 28 : NEW_LINE
+447 : 1 : 29 : TAB
+448 : 2 : 29 : TAB
+449 : 3 : 29 : m
+450 : 4 : 29 : y
+451 : 5 : 29 : B
+452 : 6 : 29 : o
+453 : 7 : 29 : o
+454 : 8 : 29 : l
+455 : 9 : 29 : SPACE
+456 : 10 : 29 : =
+457 : 11 : 29 : SPACE
+458 : 12 : 29 : f
+459 : 13 : 29 : a
+460 : 14 : 29 : l
+461 : 15 : 29 : s
+462 : 16 : 29 : e
+463 : 17 : 29 : ;
+464 : 18 : 29 : 
+465 : 19 : 29 : NEW_LINE
+466 : 1 : 30 : TAB
+467 : 2 : 30 : }
+468 : 3 : 30 : 
+469 : 4 : 30 : NEW_LINE
+470 : 1 : 31 : }
+471 : 2 : 31 : 
+472 : 3 : 31 : NEW_LINE
+473 : 1 : 32 : 
+474 : 2 : 32 : NEW_LINE
+475 : 1 : 33 : O
+476 : 2 : 33 : U
+477 : 3 : 33 : T
+478 : 4 : 33 : P
+479 : 5 : 33 : U
+480 : 6 : 33 : T
+481 : 7 : 33 : (
+482 : 8 : 33 : "
+483 : 9 : 33 : S
+484 : 10 : 33 : a
+485 : 11 : 33 : v
+486 : 12 : 33 : i
+487 : 13 : 33 : n
+488 : 14 : 33 : g
+489 : 15 : 33 : SPACE
+490 : 16 : 33 : m
+491 : 17 : 33 : y
+492 : 18 : 33 : S
+493 : 19 : 33 : t
+494 : 20 : 33 : r
+495 : 21 : 33 : i
+496 : 22 : 33 : n
+497 : 23 : 33 : g
+498 : 24 : 33 : :
+499 : 25 : 33 : SPACE
+500 : 26 : 33 : "
+501 : 27 : 33 : SPACE
+502 : 28 : 33 : +
+503 : 29 : 33 : SPACE
+504 : 30 : 33 : m
+505 : 31 : 33 : y
+506 : 32 : 33 : S
+507 : 33 : 33 : t
+508 : 34 : 33 : r
+509 : 35 : 33 : i
+510 : 36 : 33 : n
+511 : 37 : 33 : g
+512 : 38 : 33 : SPACE
+513 : 39 : 33 : SPACE
+514 : 40 : 33 : +
+515 : 41 : 33 : SPACE
+516 : 42 : 33 : "
+517 : 43 : 33 : SPACE
+518 : 44 : 33 : SPACE
+519 : 45 : 33 : -
+520 : 46 : 33 : SPACE
+521 : 47 : 33 : t
+522 : 48 : 33 : o
+523 : 49 : 33 : SPACE
+524 : 50 : 33 : f
+525 : 51 : 33 : i
+526 : 52 : 33 : l
+527 : 53 : 33 : e
+528 : 54 : 33 : "
+529 : 55 : 33 : )
+530 : 56 : 33 : ;
+531 : 57 : 33 : 
+532 : 58 : 33 : NEW_LINE
+533 : 1 : 34 : S
+534 : 2 : 34 : a
+535 : 3 : 34 : v
+536 : 4 : 34 : e
+537 : 5 : 34 : T
+538 : 6 : 34 : o
+539 : 7 : 34 : F
+540 : 8 : 34 : i
+541 : 9 : 34 : l
+542 : 10 : 34 : e
+543 : 11 : 34 : (
+544 : 12 : 34 : m
+545 : 13 : 34 : y
+546 : 14 : 34 : S
+547 : 15 : 34 : t
+548 : 16 : 34 : r
+549 : 17 : 34 : i
+550 : 18 : 34 : n
+551 : 19 : 34 : g
+552 : 20 : 34 : ,
+553 : 21 : 34 : "
+554 : 22 : 34 : s
+555 : 23 : 34 : a
+556 : 24 : 34 : v
+557 : 25 : 34 : e
+558 : 26 : 34 : .
+559 : 27 : 34 : t
+560 : 28 : 34 : x
+561 : 29 : 34 : t
+562 : 30 : 34 : "
+563 : 31 : 34 : )
+564 : 32 : 34 : ;
+565 : 33 : 34 : 
+566 : 34 : 34 : NEW_LINE
+567 : 1 : 35 : 
+568 : 2 : 35 : NEW_LINE
+569 : 1 : 36 : m
+570 : 2 : 36 : y
+571 : 3 : 36 : S
+572 : 4 : 36 : t
+573 : 5 : 36 : r
+574 : 6 : 36 : i
+575 : 7 : 36 : n
+576 : 8 : 36 : g
+577 : 9 : 36 : SPACE
+578 : 10 : 36 : =
+579 : 11 : 36 : SPACE
+580 : 12 : 36 : "
+581 : 13 : 36 : I
+582 : 14 : 36 : SPACE
+583 : 15 : 36 : h
+584 : 16 : 36 : a
+585 : 17 : 36 : v
+586 : 18 : 36 : e
+587 : 19 : 36 : SPACE
+588 : 20 : 36 : b
+589 : 21 : 36 : e
+590 : 22 : 36 : e
+591 : 23 : 36 : n
+592 : 24 : 36 : SPACE
+593 : 25 : 36 : c
+594 : 26 : 36 : h
+595 : 27 : 36 : a
+596 : 28 : 36 : n
+597 : 29 : 36 : g
+598 : 30 : 36 : e
+599 : 31 : 36 : d
+600 : 32 : 36 : "
+601 : 33 : 36 : ;
+602 : 34 : 36 : 
+603 : 35 : 36 : NEW_LINE
+604 : 1 : 37 : O
+605 : 2 : 37 : U
+606 : 3 : 37 : T
+607 : 4 : 37 : P
+608 : 5 : 37 : U
+609 : 6 : 37 : T
+610 : 7 : 37 : (
+611 : 8 : 37 : "
+612 : 9 : 37 : m
+613 : 10 : 37 : y
+614 : 11 : 37 : S
+615 : 12 : 37 : t
+616 : 13 : 37 : r
+617 : 14 : 37 : i
+618 : 15 : 37 : n
+619 : 16 : 37 : g
+620 : 17 : 37 : SPACE
+621 : 18 : 37 : c
+622 : 19 : 37 : h
+623 : 20 : 37 : a
+624 : 21 : 37 : n
+625 : 22 : 37 : g
+626 : 23 : 37 : e
+627 : 24 : 37 : d
+628 : 25 : 37 : SPACE
+629 : 26 : 37 : t
+630 : 27 : 37 : o
+631 : 28 : 37 : :
+632 : 29 : 37 : SPACE
+633 : 30 : 37 : "
+634 : 31 : 37 : SPACE
+635 : 32 : 37 : +
+636 : 33 : 37 : SPACE
+637 : 34 : 37 : m
+638 : 35 : 37 : y
+639 : 36 : 37 : S
+640 : 37 : 37 : t
+641 : 38 : 37 : r
+642 : 39 : 37 : i
+643 : 40 : 37 : n
+644 : 41 : 37 : g
+645 : 42 : 37 : )
+646 : 43 : 37 : ;
+647 : 44 : 37 : 
+648 : 45 : 37 : NEW_LINE
+649 : 1 : 38 : 
+650 : 2 : 38 : NEW_LINE
+651 : 1 : 39 : R
+652 : 2 : 39 : e
+653 : 3 : 39 : a
+654 : 4 : 39 : d
+655 : 5 : 39 : F
+656 : 6 : 39 : r
+657 : 7 : 39 : o
+658 : 8 : 39 : m
+659 : 9 : 39 : F
+660 : 10 : 39 : i
+661 : 11 : 39 : l
+662 : 12 : 39 : e
+663 : 13 : 39 : (
+664 : 14 : 39 : "
+665 : 15 : 39 : s
+666 : 16 : 39 : a
+667 : 17 : 39 : v
+668 : 18 : 39 : e
+669 : 19 : 39 : .
+670 : 20 : 39 : t
+671 : 21 : 39 : x
+672 : 22 : 39 : t
+673 : 23 : 39 : "
+674 : 24 : 39 : ,
+675 : 25 : 39 : "
+676 : 26 : 39 : m
+677 : 27 : 39 : y
+678 : 28 : 39 : S
+679 : 29 : 39 : t
+680 : 30 : 39 : r
+681 : 31 : 39 : i
+682 : 32 : 39 : n
+683 : 33 : 39 : g
+684 : 34 : 39 : "
+685 : 35 : 39 : ,
+686 : 36 : 39 : m
+687 : 37 : 39 : y
+688 : 38 : 39 : S
+689 : 39 : 39 : t
+690 : 40 : 39 : r
+691 : 41 : 39 : i
+692 : 42 : 39 : n
+693 : 43 : 39 : g
+694 : 44 : 39 : )
+695 : 45 : 39 : ;
+696 : 46 : 39 : 
+697 : 47 : 39 : NEW_LINE
+698 : 1 : 40 : O
+699 : 2 : 40 : U
+700 : 3 : 40 : T
+701 : 4 : 40 : P
+702 : 5 : 40 : U
+703 : 6 : 40 : T
+704 : 7 : 40 : (
+705 : 8 : 40 : "
+706 : 9 : 40 : L
+707 : 10 : 40 : o
+708 : 11 : 40 : a
+709 : 12 : 40 : d
+710 : 13 : 40 : e
+711 : 14 : 40 : d
+712 : 15 : 40 : SPACE
+713 : 16 : 40 : -
+714 : 17 : 40 : SPACE
+715 : 18 : 40 : "
+716 : 19 : 40 : SPACE
+717 : 20 : 40 : +
+718 : 21 : 40 : SPACE
+719 : 22 : 40 : m
+720 : 23 : 40 : y
+721 : 24 : 40 : S
+722 : 25 : 40 : t
+723 : 26 : 40 : r
+724 : 27 : 40 : i
+725 : 28 : 40 : n
+726 : 29 : 40 : g
+727 : 30 : 40 : SPACE
+728 : 31 : 40 : +
+729 : 32 : 40 : SPACE
+730 : 33 : 40 : "
+731 : 34 : 40 : F
+732 : 35 : 40 : r
+733 : 36 : 40 : o
+734 : 37 : 40 : m
+735 : 38 : 40 : SPACE
+736 : 39 : 40 : s
+737 : 40 : 40 : a
+738 : 41 : 40 : v
+739 : 42 : 40 : e
+740 : 43 : 40 : .
+741 : 44 : 40 : t
+742 : 45 : 40 : x
+743 : 46 : 40 : t
+744 : 47 : 40 : "
+745 : 48 : 40 : )
+746 : 49 : 40 : ;
+747 : 50 : 40 : 
+748 : 51 : 40 : NEW_LINE
+749 : 1 : 41 : 
+750 : 2 : 41 : NEW_LINE
+751 : 1 : 42 : m
+752 : 2 : 42 : y
+753 : 3 : 42 : I
+754 : 4 : 42 : N
+755 : 5 : 42 : T
+756 : 6 : 42 : SPACE
+757 : 7 : 42 : =
+758 : 8 : 42 : SPACE
+759 : 9 : 42 : m
+760 : 10 : 42 : y
+761 : 11 : 42 : I
+762 : 12 : 42 : N
+763 : 13 : 42 : T
+764 : 14 : 42 : SPACE
+765 : 15 : 42 : +
+766 : 16 : 42 : SPACE
+767 : 17 : 42 : 1
+768 : 18 : 42 : ;
+769 : 19 : 42 : 
+770 : 20 : 42 : NEW_LINE
+771 : 1 : 43 : 
+772 : 2 : 43 : NEW_LINE
+773 : 1 : 44 : i
+774 : 2 : 44 : f
+775 : 3 : 44 : (
+776 : 4 : 44 : m
+777 : 5 : 44 : y
+778 : 6 : 44 : S
+779 : 7 : 44 : t
+780 : 8 : 44 : r
+781 : 9 : 44 : i
+782 : 10 : 44 : n
+783 : 11 : 44 : g
+784 : 12 : 44 : SPACE
+785 : 13 : 44 : =
+786 : 14 : 44 : =
+787 : 15 : 44 : SPACE
+788 : 16 : 44 : "
+789 : 17 : 44 : T
+790 : 18 : 44 : h
+791 : 19 : 44 : i
+792 : 20 : 44 : s
+793 : 21 : 44 : SPACE
+794 : 22 : 44 : i
+795 : 23 : 44 : s
+796 : 24 : 44 : SPACE
+797 : 25 : 44 : a
+798 : 26 : 44 : SPACE
+799 : 27 : 44 : S
+800 : 28 : 44 : t
+801 : 29 : 44 : r
+802 : 30 : 44 : i
+803 : 31 : 44 : n
+804 : 32 : 44 : g
+805 : 33 : 44 : SPACE
+806 : 34 : 44 : t
+807 : 35 : 44 : h
+808 : 36 : 44 : a
+809 : 37 : 44 : t
+810 : 38 : 44 : SPACE
+811 : 39 : 44 : i
+812 : 40 : 44 : s
+813 : 41 : 44 : SPACE
+814 : 42 : 44 : s
+815 : 43 : 44 : h
+816 : 44 : 44 : i
+817 : 45 : 44 : t
+818 : 46 : 44 : !
+819 : 47 : 44 : "
+820 : 48 : 44 : )
+821 : 49 : 44 : 
+822 : 50 : 44 : NEW_LINE
+823 : 1 : 45 : {
+824 : 2 : 45 : 
+825 : 3 : 45 : NEW_LINE
+826 : 1 : 46 : TAB
+827 : 2 : 46 : b
+828 : 3 : 46 : o
+829 : 4 : 46 : o
+830 : 5 : 46 : l
+831 : 6 : 46 : SPACE
+832 : 7 : 46 : t
+833 : 8 : 46 : h
+834 : 9 : 46 : i
+835 : 10 : 46 : s
+836 : 11 : 46 : I
+837 : 12 : 46 : s
+838 : 13 : 46 : A
+839 : 14 : 46 : B
+840 : 15 : 46 : o
+841 : 16 : 46 : o
+842 : 17 : 46 : l
+843 : 18 : 46 : SPACE
+844 : 19 : 46 : =
+845 : 20 : 46 : SPACE
+846 : 21 : 46 : f
+847 : 22 : 46 : a
+848 : 23 : 46 : l
+849 : 24 : 46 : s
+850 : 25 : 46 : e
+851 : 26 : 46 : ;
+852 : 27 : 46 : 
+853 : 28 : 46 : NEW_LINE
+854 : 1 : 47 : TAB
+855 : 2 : 47 : 
+856 : 3 : 47 : NEW_LINE
+857 : 1 : 48 : TAB
+858 : 2 : 48 : m
+859 : 3 : 48 : y
+860 : 4 : 48 : B
+861 : 5 : 48 : o
+862 : 6 : 48 : o
+863 : 7 : 48 : l
+864 : 8 : 48 : SPACE
+865 : 9 : 48 : =
+866 : 10 : 48 : SPACE
+867 : 11 : 48 : t
+868 : 12 : 48 : r
+869 : 13 : 48 : u
+870 : 14 : 48 : e
+871 : 15 : 48 : ;
+872 : 16 : 48 : 
+873 : 17 : 48 : NEW_LINE
+874 : 1 : 49 : TAB
+875 : 2 : 49 : m
+876 : 3 : 49 : y
+877 : 4 : 49 : S
+878 : 5 : 49 : t
+879 : 6 : 49 : r
+880 : 7 : 49 : i
+881 : 8 : 49 : n
+882 : 9 : 49 : g
+883 : 10 : 49 : SPACE
+884 : 11 : 49 : =
+885 : 12 : 49 : SPACE
+886 : 13 : 49 : m
+887 : 14 : 49 : y
+888 : 15 : 49 : S
+889 : 16 : 49 : t
+890 : 17 : 49 : r
+891 : 18 : 49 : i
+892 : 19 : 49 : n
+893 : 20 : 49 : g
+894 : 21 : 49 : SPACE
+895 : 22 : 49 : +
+896 : 23 : 49 : SPACE
+897 : 24 : 49 : "
+898 : 25 : 49 : SPACE
+899 : 26 : 49 : :
+900 : 27 : 49 : SPACE
+901 : 28 : 49 : "
+902 : 29 : 49 : SPACE
+903 : 30 : 49 : +
+904 : 31 : 49 : SPACE
+905 : 32 : 49 : m
+906 : 33 : 49 : y
+907 : 34 : 49 : B
+908 : 35 : 49 : o
+909 : 36 : 49 : o
+910 : 37 : 49 : l
+911 : 38 : 49 : ;
+912 : 39 : 49 : 
+913 : 40 : 49 : NEW_LINE
+914 : 1 : 50 : 
+915 : 2 : 50 : NEW_LINE
+916 : 1 : 51 : TAB
+917 : 2 : 51 : i
+918 : 3 : 51 : n
+919 : 4 : 51 : t
+920 : 5 : 51 : SPACE
+921 : 6 : 51 : i
+922 : 7 : 51 : SPACE
+923 : 8 : 51 : =
+924 : 9 : 51 : SPACE
+925 : 10 : 51 : 0
+926 : 11 : 51 : ;
+927 : 12 : 51 : 
+928 : 13 : 51 : NEW_LINE
+929 : 1 : 52 : 
+930 : 2 : 52 : NEW_LINE
+931 : 1 : 53 : TAB
+932 : 2 : 53 : f
+933 : 3 : 53 : o
+934 : 4 : 53 : r
+935 : 5 : 53 : (
+936 : 6 : 53 : SPACE
+937 : 7 : 53 : ;
+938 : 8 : 53 : i
+939 : 9 : 53 : SPACE
+940 : 10 : 53 : <
+941 : 11 : 53 : SPACE
+942 : 12 : 53 : 1
+943 : 13 : 53 : 0
+944 : 14 : 53 : ;
+945 : 15 : 53 : SPACE
+946 : 16 : 53 : i
+947 : 17 : 53 : SPACE
+948 : 18 : 53 : =
+949 : 19 : 53 : SPACE
+950 : 20 : 53 : i
+951 : 21 : 53 : SPACE
+952 : 22 : 53 : +
+953 : 23 : 53 : SPACE
+954 : 24 : 53 : 1
+955 : 25 : 53 : )
+956 : 26 : 53 : 
+957 : 27 : 53 : NEW_LINE
+958 : 1 : 54 : TAB
+959 : 2 : 54 : {
+960 : 3 : 54 : 
+961 : 4 : 54 : NEW_LINE
+962 : 1 : 55 : TAB
+963 : 2 : 55 : TAB
+964 : 3 : 55 : O
+965 : 4 : 55 : U
+966 : 5 : 55 : T
+967 : 6 : 55 : P
+968 : 7 : 55 : U
+969 : 8 : 55 : T
+970 : 9 : 55 : (
+971 : 10 : 55 : i
+972 : 11 : 55 : )
+973 : 12 : 55 : ;
+974 : 13 : 55 : 
+975 : 14 : 55 : NEW_LINE
+976 : 1 : 56 : TAB
+977 : 2 : 56 : }
+978 : 3 : 56 : TAB
+979 : 4 : 56 : 
+980 : 5 : 56 : NEW_LINE
+981 : 1 : 57 : }
+982 : 2 : 57 : 
+983 : 3 : 57 : NEW_LINE
+984 : 1 : 58 : 
+985 : 2 : 58 : NEW_LINE
+986 : 1 : 59 : END_MARK
+987 : 2 : 59 : END_MARK
+0 : 4 : 1 : IDENTIFIER : PERSISTANT_VARIABLES
+1 : 5 : 1 : SYMBOL : {
+2 : 7 : 2 : TYPE : int
+3 : 7 : 6 : IDENTIFIER : myINT
+4 : 7 : 12 : SYMBOL : =
+5 : 7 : 15 : NUMBER : 79
+6 : 7 : 17 : SYMBOL : ;
+7 : 8 : 2 : TYPE : float
+8 : 8 : 8 : IDENTIFIER : myFloat
+9 : 8 : 16 : SYMBOL : =
+10 : 8 : 19 : DECIMAL : 3.0
+11 : 8 : 22 : SYMBOL : ;
+12 : 9 : 2 : TYPE : bool
+13 : 9 : 7 : IDENTIFIER : myBool
+14 : 9 : 14 : SYMBOL : =
+15 : 9 : 16 : BOOL : true
+16 : 9 : 20 : SYMBOL : ;
+17 : 10 : 2 : TYPE : string
+18 : 10 : 9 : IDENTIFIER : myString
+19 : 10 : 19 : SYMBOL : =
+20 : 10 : 21 : STRING : This is a String
+21 : 10 : 38 : SYMBOL : ;
+22 : 11 : 2 : TYPE : int
+23 : 11 : 6 : IDENTIFIER : thisInt
+24 : 11 : 14 : SYMBOL : =
+25 : 11 : 16 : NUMBER : 0
+26 : 11 : 17 : SYMBOL : ;
+27 : 12 : 1 : SYMBOL : }
+28 : 14 : 1 : IDENTIFIER : myINT
+29 : 14 : 7 : SYMBOL : =
+30 : 14 : 9 : IDENTIFIER : myINT
+31 : 14 : 15 : SYMBOL : +
+32 : 14 : 17 : NUMBER : 1
+33 : 14 : 19 : SYMBOL : +
+34 : 14 : 21 : IDENTIFIER : myFloat
+35 : 14 : 28 : SYMBOL : ;
+36 : 16 : 1 : IDENTIFIER : myString
+37 : 16 : 10 : SYMBOL : =
+38 : 16 : 12 : IDENTIFIER : myString
+39 : 16 : 21 : SYMBOL : +
+40 : 16 : 24 : STRING :  that is bad!
+41 : 16 : 38 : SYMBOL : ;
+42 : 18 : 1 : KEYWORD : if
+43 : 18 : 3 : SYMBOL : (
+44 : 18 : 4 : IDENTIFIER : myINT
+45 : 18 : 10 : IDENTIFIER : <
+46 : 18 : 12 : NUMBER : 80
+47 : 18 : 14 : SYMBOL : )
+48 : 19 : 1 : SYMBOL : {
+49 : 20 : 2 : IDENTIFIER : myINT
+50 : 20 : 8 : SYMBOL : =
+51 : 20 : 10 : IDENTIFIER : myINT
+52 : 20 : 16 : SYMBOL : *
+53 : 20 : 18 : IDENTIFIER : myFloat
+54 : 20 : 25 : SYMBOL : ;
+55 : 21 : 1 : SYMBOL : }
+56 : 23 : 1 : IDENTIFIER : myINT
+57 : 23 : 7 : SYMBOL : =
+58 : 23 : 9 : IDENTIFIER : myFloat
+59 : 23 : 17 : SYMBOL : +
+60 : 23 : 19 : IDENTIFIER : myINT
+61 : 23 : 24 : SYMBOL : ;
+62 : 25 : 1 : KEYWORD : if
+63 : 25 : 3 : SYMBOL : (
+64 : 25 : 4 : IDENTIFIER : myFloat
+65 : 25 : 12 : SYMBOL : =
+66 : 25 : 13 : SYMBOL : =
+67 : 25 : 15 : NUMBER : 3
+68 : 25 : 16 : SYMBOL : )
+69 : 26 : 1 : SYMBOL : {
+70 : 27 : 2 : KEYWORD : if
+71 : 27 : 4 : SYMBOL : (
+72 : 27 : 5 : IDENTIFIER : myBool
+73 : 27 : 12 : SYMBOL : =
+74 : 27 : 13 : SYMBOL : =
+75 : 27 : 15 : BOOL : true
+76 : 27 : 19 : SYMBOL : )
+77 : 28 : 2 : SYMBOL : {
+78 : 29 : 3 : IDENTIFIER : myBool
+79 : 29 : 10 : SYMBOL : =
+80 : 29 : 12 : BOOL : false
+81 : 29 : 17 : SYMBOL : ;
+82 : 30 : 2 : SYMBOL : }
+83 : 31 : 1 : SYMBOL : }
+84 : 33 : 1 : FUNCTION : OUTPUT
+85 : 33 : 7 : SYMBOL : (
+86 : 33 : 9 : STRING : Saving myString: 
+87 : 33 : 28 : SYMBOL : +
+88 : 33 : 30 : IDENTIFIER : myString
+89 : 33 : 40 : SYMBOL : +
+90 : 33 : 43 : STRING :   - to file
+91 : 33 : 55 : SYMBOL : )
+92 : 33 : 56 : SYMBOL : ;
+93 : 34 : 1 : FUNCTION : SaveToFile
+94 : 34 : 11 : SYMBOL : (
+95 : 34 : 12 : IDENTIFIER : myString
+96 : 34 : 20 : SYMBOL : ,
+97 : 34 : 22 : STRING : save.txt
+98 : 34 : 31 : SYMBOL : )
+99 : 34 : 32 : SYMBOL : ;
+100 : 36 : 1 : IDENTIFIER : myString
+101 : 36 : 10 : SYMBOL : =
+102 : 36 : 13 : STRING : I have been changed
+103 : 36 : 33 : SYMBOL : ;
+104 : 37 : 1 : FUNCTION : OUTPUT
+105 : 37 : 7 : SYMBOL : (
+106 : 37 : 9 : STRING : myString changed to: 
+107 : 37 : 32 : SYMBOL : +
+108 : 37 : 34 : IDENTIFIER : myString
+109 : 37 : 42 : SYMBOL : )
+110 : 37 : 43 : SYMBOL : ;
+111 : 39 : 1 : FUNCTION : ReadFromFile
+112 : 39 : 13 : SYMBOL : (
+113 : 39 : 15 : STRING : save.txt
+114 : 39 : 24 : SYMBOL : ,
+115 : 39 : 26 : STRING : myString
+116 : 39 : 35 : SYMBOL : ,
+117 : 39 : 36 : IDENTIFIER : myString
+118 : 39 : 44 : SYMBOL : )
+119 : 39 : 45 : SYMBOL : ;
+120 : 40 : 1 : FUNCTION : OUTPUT
+121 : 40 : 7 : SYMBOL : (
+122 : 40 : 9 : STRING : Loaded - 
+123 : 40 : 20 : SYMBOL : +
+124 : 40 : 22 : IDENTIFIER : myString
+125 : 40 : 31 : SYMBOL : +
+126 : 40 : 34 : STRING : From save.txt
+127 : 40 : 48 : SYMBOL : )
+128 : 40 : 49 : SYMBOL : ;
+129 : 42 : 1 : IDENTIFIER : myINT
+130 : 42 : 7 : SYMBOL : =
+131 : 42 : 9 : IDENTIFIER : myINT
+132 : 42 : 15 : SYMBOL : +
+133 : 42 : 17 : NUMBER : 1
+134 : 42 : 18 : SYMBOL : ;
+135 : 44 : 1 : KEYWORD : if
+136 : 44 : 3 : SYMBOL : (
+137 : 44 : 4 : IDENTIFIER : myString
+138 : 44 : 13 : SYMBOL : =
+139 : 44 : 14 : SYMBOL : =
+140 : 44 : 17 : STRING : This is a String that is shit!
+141 : 44 : 48 : SYMBOL : )
+142 : 45 : 1 : SYMBOL : {
+143 : 46 : 2 : TYPE : bool
+144 : 46 : 7 : IDENTIFIER : thisIsABool
+145 : 46 : 19 : SYMBOL : =
+146 : 46 : 21 : BOOL : false
+147 : 46 : 26 : SYMBOL : ;
+148 : 48 : 2 : IDENTIFIER : myBool
+149 : 48 : 9 : SYMBOL : =
+150 : 48 : 11 : BOOL : true
+151 : 48 : 15 : SYMBOL : ;
+152 : 49 : 2 : IDENTIFIER : myString
+153 : 49 : 11 : SYMBOL : =
+154 : 49 : 13 : IDENTIFIER : myString
+155 : 49 : 22 : SYMBOL : +
+156 : 49 : 25 : STRING :  : 
+157 : 49 : 30 : SYMBOL : +
+158 : 49 : 32 : IDENTIFIER : myBool
+159 : 49 : 38 : SYMBOL : ;
+160 : 51 : 2 : TYPE : int
+161 : 51 : 6 : IDENTIFIER : i
+162 : 51 : 8 : SYMBOL : =
+163 : 51 : 10 : NUMBER : 0
+164 : 51 : 11 : SYMBOL : ;
+165 : 53 : 2 : KEYWORD : for
+166 : 53 : 5 : SYMBOL : (
+167 : 53 : 7 : SYMBOL : ;
+168 : 53 : 8 : IDENTIFIER : i
+169 : 53 : 10 : IDENTIFIER : <
+170 : 53 : 12 : NUMBER : 10
+171 : 53 : 14 : SYMBOL : ;
+172 : 53 : 16 : IDENTIFIER : i
+173 : 53 : 18 : SYMBOL : =
+174 : 53 : 20 : IDENTIFIER : i
+175 : 53 : 22 : SYMBOL : +
+176 : 53 : 24 : NUMBER : 1
+177 : 53 : 25 : SYMBOL : )
+178 : 54 : 2 : SYMBOL : {
+179 : 55 : 3 : FUNCTION : OUTPUT
+180 : 55 : 9 : SYMBOL : (
+181 : 55 : 10 : IDENTIFIER : i
+182 : 55 : 11 : SYMBOL : )
+183 : 55 : 12 : SYMBOL : ;
+184 : 56 : 2 : SYMBOL : }
+185 : 57 : 1 : SYMBOL : }
+186 : 59 : 1 : ENDMARK : END_MARK
+ASSIGN : myINT : TEMP_VAR |
+ASSIGN : myFloat : TEMP_VAR |
+ASSIGN : myBool : TEMP_VAR |
+ASSIGN : myString : TEMP_VAR |
+ASSIGN : thisInt : TEMP_VAR |
+____________________
+SCRIPT: ExampleScript.txt
+VARIABLE LIST - 
+
+Variable Count: 5
+0x13f9530	: myINT	: 79	: INT
+0x13f9710	: myFloat	: 3.00	: FLOAT
+0x13f9620	: myBool	: true	: BOOL
+0x13f94a0	: myString	: This is a String	: STRING
+0x13f9800	: thisInt	: 0	: INT
+END OF LIST 
+
+
+|***********************************************|
+|              BEGINNING OF SCRIPT              |
+____________________
+STEP: 0
+
+DATA FOR STEP:
+funcData[0]: 0x13f99e0	: TEMP_VAR	: 1	: INT
+funcData[1]: 0x13f97a0	: TEMP_VAR	: 1	: INT
+funcData[2]: 0x13f9710	: myFloat	: 3.00	: FLOAT
+
+
+ADD : TEMP_VAR : TEMP_VAR : myFloat |
+STEP COMPLETED: NO_ERROR
+0x13f99e0	: TEMP_VAR	: 4	: INT
+0x13f97a0	: TEMP_VAR	: 1	: INT
+0x13f9710	: myFloat	: 3.00	: FLOAT
+
+
+____________________
+STEP: 1
+
+DATA FOR STEP:
+funcData[0]: 0x13f9a10	: TEMP_VAR	: 79	: INT
+funcData[1]: 0x13f9530	: myINT	: 79	: INT
+funcData[2]: 0x13f99e0	: TEMP_VAR	: 4	: INT
+
+
+ADD : TEMP_VAR : myINT : TEMP_VAR |
+STEP COMPLETED: NO_ERROR
+0x13f9a10	: TEMP_VAR	: 83	: INT
+0x13f9530	: myINT	: 79	: INT
+0x13f99e0	: TEMP_VAR	: 4	: INT
+
+
+____________________
+STEP: 2
+
+DATA FOR STEP:
+funcData[0]: 0x13f9530	: myINT	: 79	: INT
+funcData[1]: 0x13f9a10	: TEMP_VAR	: 83	: INT
+
+
+ASSIGN : myINT : TEMP_VAR |
+STEP COMPLETED: NO_ERROR
+0x13f9530	: myINT	: 83	: INT
+0x13f9a10	: TEMP_VAR	: 83	: INT
+
+
+____________________
+STEP: 3
+
+DATA FOR STEP:
+funcData[0]: 0x13f9740	: TEMP_VAR	: This is a String	: STRING
+funcData[1]: 0x13f94a0	: myString	: This is a String	: STRING
+funcData[2]: 0x13f9860	: TEMP_VAR	:  that is bad!	: STRING
+
+
+ADD : TEMP_VAR : myString : TEMP_VAR |
+STEP COMPLETED: NO_ERROR
+0x13f9740	: TEMP_VAR	: This is a String that is bad!	: STRING
+0x13f94a0	: myString	: This is a String	: STRING
+0x13f9860	: TEMP_VAR	:  that is bad!	: STRING
+
+
+____________________
+STEP: 4
+
+DATA FOR STEP:
+funcData[0]: 0x13f94a0	: myString	: This is a String	: STRING
+funcData[1]: 0x13f9740	: TEMP_VAR	: This is a String that is bad!	: STRING
+
+
+ASSIGN : myString : TEMP_VAR |
+STEP COMPLETED: NO_ERROR
+0x13f94a0	: myString	: This is a String that is bad!	: STRING
+0x13f9740	: TEMP_VAR	: This is a String that is bad!	: STRING
+
+
+____________________
+STEP: 5
+
+DATA FOR STEP:
+funcData[0]: 0x13f9a40	: TEMP_BOOL	: false	: BOOL
+funcData[1]: 0x13f9530	: myINT	: 83	: INT
+funcData[2]: 0x13f9aa0	: TEMP_VAR	: 80	: INT
+
+
+LESSTHAN : TEMP_BOOL : myINT |
+STEP COMPLETED: NO_ERROR
+0x13f9a40	: TEMP_BOOL	: false	: BOOL
+0x13f9530	: myINT	: 83	: INT
+0x13f9aa0	: TEMP_VAR	: 80	: INT
+
+
+____________________
+STEP: 6
+
+DATA FOR STEP:
+funcData[0]: 0x13f9a40	: TEMP_BOOL	: false	: BOOL
+
+
+IF : TEMP_BOOL |
+EXITING SCOPE
+STEP COMPLETED: NO_ERROR
+0x13f9a40	: TEMP_BOOL	: false	: BOOL
+
+
+SKIPPING STEP
+SKIPPING STEP
+____________________
+STEP: 9
+
+DATA FOR STEP:
+funcData[0]: 0x13f9b90	: TEMP_VAR	: 3.00	: FLOAT
+funcData[1]: 0x13f9710	: myFloat	: 3.00	: FLOAT
+funcData[2]: 0x13f9530	: myINT	: 83	: INT
+
+
+ADD : TEMP_VAR : myFloat : myINT |
+STEP COMPLETED: NO_ERROR
+0x13f9b90	: TEMP_VAR	: 86.00	: FLOAT
+0x13f9710	: myFloat	: 3.00	: FLOAT
+0x13f9530	: myINT	: 83	: INT
+
+
+____________________
+STEP: 10
+
+DATA FOR STEP:
+funcData[0]: 0x13f9530	: myINT	: 83	: INT
+funcData[1]: 0x13f9b90	: TEMP_VAR	: 86.00	: FLOAT
+
+
+ASSIGN : myINT : TEMP_VAR |
+STEP COMPLETED: NO_ERROR
+0x13f9530	: myINT	: 86	: INT
+0x13f9b90	: TEMP_VAR	: 86.00	: FLOAT
+
+
+____________________
+STEP: 11
+
+DATA FOR STEP:
+funcData[0]: 0x13f9bc0	: TEMP_BOOL	: false	: BOOL
+funcData[1]: 0x13f9710	: myFloat	: 3.00	: FLOAT
+funcData[2]: 0x13f9b30	: TEMP_VAR	: 3	: INT
+
+
+EQUALS : TEMP_BOOL : myFloat |
+STEP COMPLETED: NO_ERROR
+0x13f9bc0	: TEMP_BOOL	: true	: BOOL
+0x13f9710	: myFloat	: 3.00	: FLOAT
+0x13f9b30	: TEMP_VAR	: 3	: INT
+
+
+____________________
+STEP: 12
+
+DATA FOR STEP:
+funcData[0]: 0x13f9bc0	: TEMP_BOOL	: true	: BOOL
+
+
+IF : TEMP_BOOL |
+STEP COMPLETED: NO_ERROR
+0x13f9bc0	: TEMP_BOOL	: true	: BOOL
+
+
+____________________
+STEP: 13
+
+DATA FOR STEP:
+funcData[0]: 0x13f8e70	: TEMP_BOOL	: false	: BOOL
+funcData[1]: 0x13f9620	: myBool	: true	: BOOL
+funcData[2]: 0x13f8d80	: TEMP_VAR	: true	: BOOL
+
+
+EQUALS : TEMP_BOOL : myBool |
+STEP COMPLETED: NO_ERROR
+0x13f8e70	: TEMP_BOOL	: true	: BOOL
+0x13f9620	: myBool	: true	: BOOL
+0x13f8d80	: TEMP_VAR	: true	: BOOL
+
+
+____________________
+STEP: 14
+
+DATA FOR STEP:
+funcData[0]: 0x13f8e70	: TEMP_BOOL	: true	: BOOL
+
+
+IF : TEMP_BOOL |
+STEP COMPLETED: NO_ERROR
+0x13f8e70	: TEMP_BOOL	: true	: BOOL
+
+
+____________________
+STEP: 15
+
+DATA FOR STEP:
+funcData[0]: 0x13f9620	: myBool	: true	: BOOL
+funcData[1]: 0x13f8c60	: TEMP_VAR	: false	: BOOL
+
+
+ASSIGN : myBool : TEMP_VAR |
+STEP COMPLETED: NO_ERROR
+0x13f9620	: myBool	: false	: BOOL
+0x13f8c60	: TEMP_VAR	: false	: BOOL
+
+
+____________________
+STEP: 16
+
+DATA FOR STEP:
+funcData[0]: 0x13f8b70	: TEMP_VAR	: This is a String	: STRING
+funcData[1]: 0x13f94a0	: myString	: This is a String that is bad!	: STRING
+funcData[2]: 0x13f8f00	: TEMP_VAR	:   - to file	: STRING
+
+
+ADD : TEMP_VAR : myString : TEMP_VAR |
+STEP COMPLETED: NO_ERROR
+0x13f8b70	: TEMP_VAR	: This is a String that is bad!  - to file	: STRING
+0x13f94a0	: myString	: This is a String that is bad!	: STRING
+0x13f8f00	: TEMP_VAR	:   - to file	: STRING
+
+
+____________________
+STEP: 17
+
+DATA FOR STEP:
+funcData[0]: 0x13f8c90	: TEMP_VAR	: Saving myString: 	: STRING
+funcData[1]: 0x13f89c0	: TEMP_VAR	: Saving myString: 	: STRING
+funcData[2]: 0x13f8b70	: TEMP_VAR	: This is a String that is bad!  - to file	: STRING
+
+
+ADD : TEMP_VAR : TEMP_VAR : TEMP_VAR |
+STEP COMPLETED: NO_ERROR
+0x13f8c90	: TEMP_VAR	: Saving myString: This is a String that is bad!  - to file	: STRING
+0x13f89c0	: TEMP_VAR	: Saving myString: 	: STRING
+0x13f8b70	: TEMP_VAR	: This is a String that is bad!  - to file	: STRING
+
+
+____________________
+STEP: 18
+
+DATA FOR STEP:
+funcData[0]: 0x13f8c90	: TEMP_VAR	: Saving myString: This is a String that is bad!  - to file	: STRING
+funcData[1]: 0x13f8db0	: RETURN_VAR	: false	: BOOL
+
+
+OUTPUT : TEMP_VAR : RETURN_VAR |
+STEP COMPLETED: NO_ERROR
+0x13f8c90	: TEMP_VAR	: Saving myString: This is a String that is bad!  - to file	: STRING
+0x13f8db0	: RETURN_VAR	: false	: BOOL
+
+
+____________________
+STEP: 19
+
+DATA FOR STEP:
+funcData[0]: 0x13f94a0	: myString	: This is a String that is bad!	: STRING
+funcData[1]: 0x13f8cc0	: TEMP_VAR	: save.txt	: STRING
+funcData[2]: 0x13f8c00	: RETURN_VAR	: false	: BOOL
+
+
+SAVETOFILE : myString : TEMP_VAR |
+STEP COMPLETED: NO_ERROR
+0x13f94a0	: myString	: This is a String that is bad!	: STRING
+0x13f8cc0	: TEMP_VAR	: save.txt	: STRING
+0x13f8c00	: RETURN_VAR	: false	: BOOL
+
+
+____________________
+STEP: 20
+
+DATA FOR STEP:
+funcData[0]: 0x13f94a0	: myString	: This is a String that is bad!	: STRING
+funcData[1]: 0x13f8ed0	: TEMP_VAR	: I have been changed	: STRING
+
+
+ASSIGN : myString : TEMP_VAR |
+STEP COMPLETED: NO_ERROR
+0x13f94a0	: myString	: I have been changed	: STRING
+0x13f8ed0	: TEMP_VAR	: I have been changed	: STRING
+
+
+____________________
+STEP: 21
+
+DATA FOR STEP:
+funcData[0]: 0x13f8ae0	: TEMP_VAR	: myString changed to: 	: STRING
+funcData[1]: 0x13f8ab0	: TEMP_VAR	: myString changed to: 	: STRING
+funcData[2]: 0x13f94a0	: myString	: I have been changed	: STRING
+
+
+ADD : TEMP_VAR : TEMP_VAR : myString |
+STEP COMPLETED: NO_ERROR
+0x13f8ae0	: TEMP_VAR	: myString changed to: I have been changed	: STRING
+0x13f8ab0	: TEMP_VAR	: myString changed to: 	: STRING
+0x13f94a0	: myString	: I have been changed	: STRING
+
+
+____________________
+STEP: 22
+
+DATA FOR STEP:
+funcData[0]: 0x13f8ae0	: TEMP_VAR	: myString changed to: I have been changed	: STRING
+funcData[1]: 0x13f8960	: RETURN_VAR	: false	: BOOL
+
+
+OUTPUT : TEMP_VAR : RETURN_VAR |
+STEP COMPLETED: NO_ERROR
+0x13f8ae0	: TEMP_VAR	: myString changed to: I have been changed	: STRING
+0x13f8960	: RETURN_VAR	: false	: BOOL
+
+
+____________________
+STEP: 23
+
+DATA FOR STEP:
+funcData[0]: 0x13f8ea0	: TEMP_VAR	: save.txt	: STRING
+funcData[1]: 0x13f8b10	: TEMP_VAR	: myString	: STRING
+funcData[2]: 0x13f94a0	: myString	: I have been changed	: STRING
+funcData[3]: 0x13f8ba0	: RETURN_VAR	: false	: BOOL
+
+
+READFROMFILE : TEMP_VAR : TEMP_VAR |
+STEP COMPLETED: NO_ERROR
+0x13f8ea0	: TEMP_VAR	: save.txt	: STRING
+0x13f8b10	: TEMP_VAR	: myString	: STRING
+0x13f94a0	: myString	: This is a String that is bad!	: STRING
+0x13f8ba0	: RETURN_VAR	: false	: BOOL
+
+
+____________________
+STEP: 24
+
+DATA FOR STEP:
+funcData[0]: 0x13f8de0	: TEMP_VAR	: This is a String	: STRING
+funcData[1]: 0x13f94a0	: myString	: This is a String that is bad!	: STRING
+funcData[2]: 0x13f8f30	: TEMP_VAR	: From save.txt	: STRING
+
+
+ADD : TEMP_VAR : myString : TEMP_VAR |
+STEP COMPLETED: NO_ERROR
+0x13f8de0	: TEMP_VAR	: This is a String that is bad!From save.txt	: STRING
+0x13f94a0	: myString	: This is a String that is bad!	: STRING
+0x13f8f30	: TEMP_VAR	: From save.txt	: STRING
+
+
+____________________
+STEP: 25
+
+DATA FOR STEP:
+funcData[0]: 0x13f8b40	: TEMP_VAR	: Loaded - 	: STRING
+funcData[1]: 0x13f8cf0	: TEMP_VAR	: Loaded - 	: STRING
+funcData[2]: 0x13f8de0	: TEMP_VAR	: This is a String that is bad!From save.txt	: STRING
+
+
+ADD : TEMP_VAR : TEMP_VAR : TEMP_VAR |
+STEP COMPLETED: NO_ERROR
+0x13f8b40	: TEMP_VAR	: Loaded - This is a String that is bad!From save.txt	: STRING
+0x13f8cf0	: TEMP_VAR	: Loaded - 	: STRING
+0x13f8de0	: TEMP_VAR	: This is a String that is bad!From save.txt	: STRING
+
+
+____________________
+STEP: 26
+
+DATA FOR STEP:
+funcData[0]: 0x13f8b40	: TEMP_VAR	: Loaded - This is a String that is bad!From save.txt	: STRING
+funcData[1]: 0x13f8990	: RETURN_VAR	: false	: BOOL
+
+
+OUTPUT : TEMP_VAR : RETURN_VAR |
+STEP COMPLETED: NO_ERROR
+0x13f8b40	: TEMP_VAR	: Loaded - This is a String that is bad!From save.txt	: STRING
+0x13f8990	: RETURN_VAR	: false	: BOOL
+
+
+____________________
+STEP: 27
+
+DATA FOR STEP:
+funcData[0]: 0x13f8d20	: TEMP_VAR	: 79	: INT
+funcData[1]: 0x13f9530	: myINT	: 86	: INT
+funcData[2]: 0x13f8e10	: TEMP_VAR	: 1	: INT
+
+
+ADD : TEMP_VAR : myINT : TEMP_VAR |
+STEP COMPLETED: NO_ERROR
+0x13f8d20	: TEMP_VAR	: 87	: INT
+0x13f9530	: myINT	: 86	: INT
+0x13f8e10	: TEMP_VAR	: 1	: INT
+
+
+____________________
+STEP: 28
+
+DATA FOR STEP:
+funcData[0]: 0x13f9530	: myINT	: 86	: INT
+funcData[1]: 0x13f8d20	: TEMP_VAR	: 87	: INT
+
+
+ASSIGN : myINT : TEMP_VAR |
+STEP COMPLETED: NO_ERROR
+0x13f9530	: myINT	: 87	: INT
+0x13f8d20	: TEMP_VAR	: 87	: INT
+
+
+____________________
+STEP: 29
+
+DATA FOR STEP:
+funcData[0]: 0x13f89f0	: TEMP_BOOL	: false	: BOOL
+funcData[1]: 0x13f94a0	: myString	: This is a String that is bad!	: STRING
+funcData[2]: 0x13f8a20	: TEMP_VAR	: This is a String that is shit!	: STRING
+
+
+EQUALS : TEMP_BOOL : myString |
+STEP COMPLETED: NO_ERROR
+0x13f89f0	: TEMP_BOOL	: false	: BOOL
+0x13f94a0	: myString	: This is a String that is bad!	: STRING
+0x13f8a20	: TEMP_VAR	: This is a String that is shit!	: STRING
+
+
+____________________
+STEP: 30
+
+DATA FOR STEP:
+funcData[0]: 0x13f89f0	: TEMP_BOOL	: false	: BOOL
+
+
+IF : TEMP_BOOL |
+EXITING SCOPE
+STEP COMPLETED: NO_ERROR
+0x13f89f0	: TEMP_BOOL	: false	: BOOL
+
+
+SKIPPING STEP
+SKIPPING STEP
+SKIPPING STEP
+SKIPPING STEP
+SKIPPING STEP
+SKIPPING STEP
+SKIPPING STEP
+SKIPPING STEP
+SKIPPING STEP
+SKIPPING STEP
+SKIPPING STEP
+SKIPPING STEP
+SKIPPING STEP
+SKIPPING STEP
+SKIPPING STEP
+SKIPPING STEP
+|                 END OF SCRIPT                 |
+|***********************************************|
+
+
+____________________
+SCRIPT: ExampleScript.txt
+VARIABLE LIST - 
+
+Variable Count: 5
+0x13f9530	: myINT	: 87	: INT
+0x13f9710	: myFloat	: 3.00	: FLOAT
+0x13f9620	: myBool	: false	: BOOL
+0x13f94a0	: myString	: This is a String that is bad!	: STRING
+0x13f9800	: thisInt	: 0	: INT
+END OF LIST 
+
+
+____________________
+SCRIPT: ExampleScript.txt
+VARIABLE LIST - 
+
+Variable Count: 5
+0x13f9530	: myINT	: 87	: INT
+0x13f9710	: myFloat	: 3.00	: FLOAT
+0x13f9620	: myBool	: false	: BOOL
+0x13f94a0	: myString	: This is a String that is bad!	: STRING
+0x13f9800	: thisInt	: 0	: INT
+END OF LIST 
+
+
+0 : 1 : 1 : i
+1 : 2 : 1 : n
+2 : 3 : 1 : t
+3 : 4 : 1 : SPACE
+4 : 5 : 1 : t
+5 : 6 : 1 : h
+6 : 7 : 1 : i
+7 : 8 : 1 : s
+8 : 9 : 1 : I
+9 : 10 : 1 : n
+10 : 11 : 1 : t
+11 : 12 : 1 : SPACE
+12 : 13 : 1 : =
+13 : 14 : 1 : SPACE
+14 : 15 : 1 : 0
+15 : 16 : 1 : ;
+16 : 17 : 1 : 
+17 : 18 : 1 : NEW_LINE
+18 : 1 : 2 : b
+19 : 2 : 2 : o
+20 : 3 : 2 : o
+21 : 4 : 2 : l
+22 : 5 : 2 : SPACE
+23 : 6 : 2 : t
+24 : 7 : 2 : h
+25 : 8 : 2 : i
+26 : 9 : 2 : s
+27 : 10 : 2 : B
+28 : 11 : 2 : o
+29 : 12 : 2 : o
+30 : 13 : 2 : l
+31 : 14 : 2 : SPACE
+32 : 15 : 2 : =
+33 : 16 : 2 : SPACE
+34 : 17 : 2 : f
+35 : 18 : 2 : a
+36 : 19 : 2 : l
+37 : 20 : 2 : s
+38 : 21 : 2 : e
+39 : 22 : 2 : ;
+40 : 23 : 2 : 
+41 : 24 : 2 : NEW_LINE
+42 : 1 : 3 : f
+43 : 2 : 3 : l
+44 : 3 : 3 : o
+45 : 4 : 3 : a
+46 : 5 : 3 : t
+47 : 6 : 3 : SPACE
+48 : 7 : 3 : t
+49 : 8 : 3 : h
+50 : 9 : 3 : i
+51 : 10 : 3 : s
+52 : 11 : 3 : F
+53 : 12 : 3 : l
+54 : 13 : 3 : o
+55 : 14 : 3 : a
+56 : 15 : 3 : t
+57 : 16 : 3 : SPACE
+58 : 17 : 3 : =
+59 : 18 : 3 : SPACE
+60 : 19 : 3 : 3
+61 : 20 : 3 : .
+62 : 21 : 3 : 0
+63 : 22 : 3 : ;
+64 : 23 : 3 : 
+65 : 24 : 3 : NEW_LINE
+66 : 1 : 4 : 
+67 : 2 : 4 : NEW_LINE
+68 : 1 : 5 : f
+69 : 2 : 5 : o
+70 : 3 : 5 : r
+71 : 4 : 5 : (
+72 : 5 : 5 : ;
+73 : 6 : 5 : t
+74 : 7 : 5 : h
+75 : 8 : 5 : i
+76 : 9 : 5 : s
+77 : 10 : 5 : I
+78 : 11 : 5 : n
+79 : 12 : 5 : t
+80 : 13 : 5 : SPACE
+81 : 14 : 5 : <
+82 : 15 : 5 : SPACE
+83 : 16 : 5 : 1
+84 : 17 : 5 : 0
+85 : 18 : 5 : ;
+86 : 19 : 5 : SPACE
+87 : 20 : 5 : t
+88 : 21 : 5 : h
+89 : 22 : 5 : i
+90 : 23 : 5 : s
+91 : 24 : 5 : I
+92 : 25 : 5 : n
+93 : 26 : 5 : t
+94 : 27 : 5 : SPACE
+95 : 28 : 5 : =
+96 : 29 : 5 : SPACE
+97 : 30 : 5 : t
+98 : 31 : 5 : h
+99 : 32 : 5 : i
+100 : 33 : 5 : s
+101 : 34 : 5 : I
+102 : 35 : 5 : n
+103 : 36 : 5 : t
+104 : 37 : 5 : SPACE
+105 : 38 : 5 : +
+106 : 39 : 5 : SPACE
+107 : 40 : 5 : 1
+108 : 41 : 5 : )
+109 : 42 : 5 : 
+110 : 43 : 5 : NEW_LINE
+111 : 1 : 6 : {
+112 : 2 : 6 : 
+113 : 3 : 6 : NEW_LINE
+114 : 1 : 7 : TAB
+115 : 2 : 7 : O
+116 : 3 : 7 : U
+117 : 4 : 7 : T
+118 : 5 : 7 : P
+119 : 6 : 7 : U
+120 : 7 : 7 : T
+121 : 8 : 7 : (
+122 : 9 : 7 : t
+123 : 10 : 7 : h
+124 : 11 : 7 : i
+125 : 12 : 7 : s
+126 : 13 : 7 : F
+127 : 14 : 7 : l
+128 : 15 : 7 : o
+129 : 16 : 7 : a
+130 : 17 : 7 : t
+131 : 18 : 7 : )
+132 : 19 : 7 : ;
+133 : 20 : 7 : 
+134 : 21 : 7 : NEW_LINE
+135 : 1 : 8 : TAB
+136 : 2 : 8 : t
+137 : 3 : 8 : h
+138 : 4 : 8 : i
+139 : 5 : 8 : s
+140 : 6 : 8 : F
+141 : 7 : 8 : l
+142 : 8 : 8 : o
+143 : 9 : 8 : a
+144 : 10 : 8 : t
+145 : 11 : 8 : SPACE
+146 : 12 : 8 : =
+147 : 13 : 8 : SPACE
+148 : 14 : 8 : t
+149 : 15 : 8 : h
+150 : 16 : 8 : i
+151 : 17 : 8 : s
+152 : 18 : 8 : F
+153 : 19 : 8 : l
+154 : 20 : 8 : o
+155 : 21 : 8 : a
+156 : 22 : 8 : t
+157 : 23 : 8 : *
+158 : 24 : 8 : t
+159 : 25 : 8 : h
+160 : 26 : 8 : i
+161 : 27 : 8 : s
+162 : 28 : 8 : I
+163 : 29 : 8 : n
+164 : 30 : 8 : t
+165 : 31 : 8 : ;
+166 : 32 : 8 : 
+167 : 33 : 8 : NEW_LINE
+168 : 1 : 9 : }
+169 : 2 : 9 : 
+170 : 3 : 9 : NEW_LINE
+171 : 1 : 10 : 
+172 : 2 : 10 : NEW_LINE
+173 : 1 : 11 : t
+174 : 2 : 11 : h
+175 : 3 : 11 : i
+176 : 4 : 11 : s
+177 : 5 : 11 : B
+178 : 6 : 11 : o
+179 : 7 : 11 : o
+180 : 8 : 11 : l
+181 : 9 : 11 : SPACE
+182 : 10 : 11 : =
+183 : 11 : 11 : SPACE
+184 : 12 : 11 : t
+185 : 13 : 11 : r
+186 : 14 : 11 : u
+187 : 15 : 11 : e
+188 : 16 : 11 : ;
+189 : 17 : 11 : 
+190 : 18 : 11 : NEW_LINE
+191 : 1 : 12 : 
+192 : 2 : 12 : NEW_LINE
+193 : 1 : 13 : END_MARK
+194 : 2 : 13 : END_MARK
+0 : 1 : 1 : TYPE : int
+1 : 1 : 5 : IDENTIFIER : thisInt
+2 : 1 : 13 : SYMBOL : =
+3 : 1 : 15 : NUMBER : 0
+4 : 1 : 16 : SYMBOL : ;
+5 : 2 : 1 : TYPE : bool
+6 : 2 : 6 : IDENTIFIER : thisBool
+7 : 2 : 15 : SYMBOL : =
+8 : 2 : 17 : BOOL : false
+9 : 2 : 22 : SYMBOL : ;
+10 : 3 : 1 : TYPE : float
+11 : 3 : 7 : IDENTIFIER : thisFloat
+12 : 3 : 17 : SYMBOL : =
+13 : 3 : 19 : DECIMAL : 3.0
+14 : 3 : 22 : SYMBOL : ;
+15 : 5 : 1 : KEYWORD : for
+16 : 5 : 4 : SYMBOL : (
+17 : 5 : 5 : SYMBOL : ;
+18 : 5 : 6 : IDENTIFIER : thisInt
+19 : 5 : 14 : IDENTIFIER : <
+20 : 5 : 16 : NUMBER : 10
+21 : 5 : 18 : SYMBOL : ;
+22 : 5 : 20 : IDENTIFIER : thisInt
+23 : 5 : 28 : SYMBOL : =
+24 : 5 : 30 : IDENTIFIER : thisInt
+25 : 5 : 38 : SYMBOL : +
+26 : 5 : 40 : NUMBER : 1
+27 : 5 : 41 : SYMBOL : )
+28 : 6 : 1 : SYMBOL : {
+29 : 7 : 2 : FUNCTION : OUTPUT
+30 : 7 : 8 : SYMBOL : (
+31 : 7 : 9 : IDENTIFIER : thisFloat
+32 : 7 : 18 : SYMBOL : )
+33 : 7 : 19 : SYMBOL : ;
+34 : 8 : 2 : IDENTIFIER : thisFloat
+35 : 8 : 12 : SYMBOL : =
+36 : 8 : 14 : IDENTIFIER : thisFloat
+37 : 8 : 23 : SYMBOL : *
+38 : 8 : 24 : IDENTIFIER : thisInt
+39 : 8 : 31 : SYMBOL : ;
+40 : 9 : 1 : SYMBOL : }
+41 : 11 : 1 : IDENTIFIER : thisBool
+42 : 11 : 10 : SYMBOL : =
+43 : 11 : 12 : BOOL : true
+44 : 11 : 16 : SYMBOL : ;
+45 : 13 : 1 : ENDMARK : END_MARK
+ERROR_UNEXPECTED_TOKEN : true | At col: 12 row: 11 
+0 : 1 : 1 : SPACE
+1 : 2 : 1 : /
+2 : 3 : 1 : /
+3 : 4 : 1 : I
+4 : 5 : 1 : SPACE
+5 : 6 : 1 : A
+6 : 7 : 1 : m
+7 : 8 : 1 : SPACE
+8 : 9 : 1 : A
+9 : 10 : 1 : SPACE
+10 : 11 : 1 : C
+11 : 12 : 1 : O
+12 : 13 : 1 : M
+13 : 14 : 1 : M
+14 : 15 : 1 : E
+15 : 16 : 1 : N
+16 : 17 : 1 : T
+17 : 18 : 1 : 
+18 : 19 : 1 : NEW_LINE
+19 : 1 : 2 : /
+20 : 2 : 2 : *
+21 : 3 : 2 : S
+22 : 4 : 2 : O
+23 : 5 : 2 : SPACE
+24 : 6 : 2 : a
+25 : 7 : 2 : m
+26 : 8 : 2 : SPACE
+27 : 9 : 2 : I
+28 : 10 : 2 : *
+29 : 11 : 2 : /
+30 : 12 : 2 : 
+31 : 13 : 2 : NEW_LINE
+32 : 1 : 3 : 
+33 : 2 : 3 : NEW_LINE
+34 : 1 : 4 : P
+35 : 2 : 4 : E
+36 : 3 : 4 : R
+37 : 4 : 4 : S
+38 : 5 : 4 : I
+39 : 6 : 4 : S
+40 : 7 : 4 : T
+41 : 8 : 4 : A
+42 : 9 : 4 : N
+43 : 10 : 4 : T
+44 : 11 : 4 : _
+45 : 12 : 4 : V
+46 : 13 : 4 : A
+47 : 14 : 4 : R
+48 : 15 : 4 : I
+49 : 16 : 4 : A
+50 : 17 : 4 : B
+51 : 18 : 4 : L
+52 : 19 : 4 : E
+53 : 20 : 4 : S
+54 : 21 : 4 : 
+55 : 22 : 4 : NEW_LINE
+56 : 1 : 5 : {
+57 : 2 : 5 : 
+58 : 3 : 5 : NEW_LINE
+59 : 1 : 6 : TAB
+60 : 2 : 6 : /
+61 : 3 : 6 : /
+62 : 4 : 6 : T
+63 : 5 : 6 : Y
+64 : 6 : 6 : P
+65 : 7 : 6 : E
+66 : 8 : 6 : SPACE
+67 : 9 : 6 : |
+68 : 10 : 6 : SPACE
+69 : 11 : 6 : I
+70 : 12 : 6 : D
+71 : 13 : 6 : E
+72 : 14 : 6 : N
+73 : 15 : 6 : T
+74 : 16 : 6 : I
+75 : 17 : 6 : F
+76 : 18 : 6 : I
+77 : 19 : 6 : E
+78 : 20 : 6 : R
+79 : 21 : 6 : SPACE
+80 : 22 : 6 : |
+81 : 23 : 6 : SPACE
+82 : 24 : 6 : S
+83 : 25 : 6 : E
+84 : 26 : 6 : M
+85 : 27 : 6 : I
+86 : 28 : 6 : C
+87 : 29 : 6 : O
+88 : 30 : 6 : L
+89 : 31 : 6 : O
+90 : 32 : 6 : N
+91 : 33 : 6 : (
+92 : 34 : 6 : U
+93 : 35 : 6 : n
+94 : 36 : 6 : i
+95 : 37 : 6 : n
+96 : 38 : 6 : i
+97 : 39 : 6 : t
+98 : 40 : 6 : i
+99 : 41 : 6 : a
+100 : 42 : 6 : l
+101 : 43 : 6 : i
+102 : 44 : 6 : z
+103 : 45 : 6 : e
+104 : 46 : 6 : d
+105 : 47 : 6 : )
+106 : 48 : 6 : SPACE
+107 : 49 : 6 : o
+108 : 50 : 6 : r
+109 : 51 : 6 : SPACE
+110 : 52 : 6 : =
+111 : 53 : 6 : SPACE
+112 : 54 : 6 : V
+113 : 55 : 6 : A
+114 : 56 : 6 : L
+115 : 57 : 6 : U
+116 : 58 : 6 : E
+117 : 59 : 6 : 
+118 : 60 : 6 : NEW_LINE
+119 : 1 : 7 : TAB
+120 : 2 : 7 : i
+121 : 3 : 7 : n
+122 : 4 : 7 : t
+123 : 5 : 7 : SPACE
+124 : 6 : 7 : m
+125 : 7 : 7 : y
+126 : 8 : 7 : I
+127 : 9 : 7 : N
+128 : 10 : 7 : T
+129 : 11 : 7 : SPACE
+130 : 12 : 7 : =
+131 : 13 : 7 : SPACE
+132 : 14 : 7 : SPACE
+133 : 15 : 7 : 7
+134 : 16 : 7 : 9
+135 : 17 : 7 : ;
+136 : 18 : 7 : 
+137 : 19 : 7 : NEW_LINE
+138 : 1 : 8 : TAB
+139 : 2 : 8 : f
+140 : 3 : 8 : l
+141 : 4 : 8 : o
+142 : 5 : 8 : a
+143 : 6 : 8 : t
+144 : 7 : 8 : SPACE
+145 : 8 : 8 : m
+146 : 9 : 8 : y
+147 : 10 : 8 : F
+148 : 11 : 8 : l
+149 : 12 : 8 : o
+150 : 13 : 8 : a
+151 : 14 : 8 : t
+152 : 15 : 8 : SPACE
+153 : 16 : 8 : =
+154 : 17 : 8 : SPACE
+155 : 18 : 8 : SPACE
+156 : 19 : 8 : 3
+157 : 20 : 8 : .
+158 : 21 : 8 : 0
+159 : 22 : 8 : ;
+160 : 23 : 8 : 
+161 : 24 : 8 : NEW_LINE
+162 : 1 : 9 : TAB
+163 : 2 : 9 : b
+164 : 3 : 9 : o
+165 : 4 : 9 : o
+166 : 5 : 9 : l
+167 : 6 : 9 : SPACE
+168 : 7 : 9 : m
+169 : 8 : 9 : y
+170 : 9 : 9 : B
+171 : 10 : 9 : o
+172 : 11 : 9 : o
+173 : 12 : 9 : l
+174 : 13 : 9 : SPACE
+175 : 14 : 9 : =
+176 : 15 : 9 : SPACE
+177 : 16 : 9 : t
+178 : 17 : 9 : r
+179 : 18 : 9 : u
+180 : 19 : 9 : e
+181 : 20 : 9 : ;
+182 : 21 : 9 : 
+183 : 22 : 9 : NEW_LINE
+184 : 1 : 10 : TAB
+185 : 2 : 10 : s
+186 : 3 : 10 : t
+187 : 4 : 10 : r
+188 : 5 : 10 : i
+189 : 6 : 10 : n
+190 : 7 : 10 : g
+191 : 8 : 10 : SPACE
+192 : 9 : 10 : m
+193 : 10 : 10 : y
+194 : 11 : 10 : S
+195 : 12 : 10 : t
+196 : 13 : 10 : r
+197 : 14 : 10 : i
+198 : 15 : 10 : n
+199 : 16 : 10 : g
+200 : 17 : 10 : SPACE
+201 : 18 : 10 : SPACE
+202 : 19 : 10 : =
+203 : 20 : 10 : "
+204 : 21 : 10 : T
+205 : 22 : 10 : h
+206 : 23 : 10 : i
+207 : 24 : 10 : s
+208 : 25 : 10 : SPACE
+209 : 26 : 10 : i
+210 : 27 : 10 : s
+211 : 28 : 10 : SPACE
+212 : 29 : 10 : a
+213 : 30 : 10 : SPACE
+214 : 31 : 10 : S
+215 : 32 : 10 : t
+216 : 33 : 10 : r
+217 : 34 : 10 : i
+218 : 35 : 10 : n
+219 : 36 : 10 : g
+220 : 37 : 10 : "
+221 : 38 : 10 : ;
+222 : 39 : 10 : 
+223 : 40 : 10 : NEW_LINE
+224 : 1 : 11 : TAB
+225 : 2 : 11 : i
+226 : 3 : 11 : n
+227 : 4 : 11 : t
+228 : 5 : 11 : SPACE
+229 : 6 : 11 : t
+230 : 7 : 11 : h
+231 : 8 : 11 : i
+232 : 9 : 11 : s
+233 : 10 : 11 : I
+234 : 11 : 11 : n
+235 : 12 : 11 : t
+236 : 13 : 11 : SPACE
+237 : 14 : 11 : =
+238 : 15 : 11 : SPACE
+239 : 16 : 11 : 0
+240 : 17 : 11 : ;
+241 : 18 : 11 : 
+242 : 19 : 11 : NEW_LINE
+243 : 1 : 12 : }
+244 : 2 : 12 : 
+245 : 3 : 12 : NEW_LINE
+246 : 1 : 13 : 
+247 : 2 : 13 : NEW_LINE
+248 : 1 : 14 : m
+249 : 2 : 14 : y
+250 : 3 : 14 : I
+251 : 4 : 14 : N
+252 : 5 : 14 : T
+253 : 6 : 14 : SPACE
+254 : 7 : 14 : =
+255 : 8 : 14 : SPACE
+256 : 9 : 14 : m
+257 : 10 : 14 : y
+258 : 11 : 14 : I
+259 : 12 : 14 : N
+260 : 13 : 14 : T
+261 : 14 : 14 : SPACE
+262 : 15 : 14 : +
+263 : 16 : 14 : SPACE
+264 : 17 : 14 : 1
+265 : 18 : 14 : SPACE
+266 : 19 : 14 : +
+267 : 20 : 14 : SPACE
+268 : 21 : 14 : m
+269 : 22 : 14 : y
+270 : 23 : 14 : F
+271 : 24 : 14 : l
+272 : 25 : 14 : o
+273 : 26 : 14 : a
+274 : 27 : 14 : t
+275 : 28 : 14 : ;
+276 : 29 : 14 : 
+277 : 30 : 14 : NEW_LINE
+278 : 1 : 15 : 
+279 : 2 : 15 : NEW_LINE
+280 : 1 : 16 : m
+281 : 2 : 16 : y
+282 : 3 : 16 : S
+283 : 4 : 16 : t
+284 : 5 : 16 : r
+285 : 6 : 16 : i
+286 : 7 : 16 : n
+287 : 8 : 16 : g
+288 : 9 : 16 : SPACE
+289 : 10 : 16 : =
+290 : 11 : 16 : SPACE
+291 : 12 : 16 : m
+292 : 13 : 16 : y
+293 : 14 : 16 : S
+294 : 15 : 16 : t
+295 : 16 : 16 : r
+296 : 17 : 16 : i
+297 : 18 : 16 : n
+298 : 19 : 16 : g
+299 : 20 : 16 : SPACE
+300 : 21 : 16 : +
+301 : 22 : 16 : SPACE
+302 : 23 : 16 : "
+303 : 24 : 16 : SPACE
+304 : 25 : 16 : t
+305 : 26 : 16 : h
+306 : 27 : 16 : a
+307 : 28 : 16 : t
+308 : 29 : 16 : SPACE
+309 : 30 : 16 : i
+310 : 31 : 16 : s
+311 : 32 : 16 : SPACE
+312 : 33 : 16 : b
+313 : 34 : 16 : a
+314 : 35 : 16 : d
+315 : 36 : 16 : !
+316 : 37 : 16 : "
+317 : 38 : 16 : ;
+318 : 39 : 16 : 
+319 : 40 : 16 : NEW_LINE
+320 : 1 : 17 : 
+321 : 2 : 17 : NEW_LINE
+322 : 1 : 18 : i
+323 : 2 : 18 : f
+324 : 3 : 18 : (
+325 : 4 : 18 : m
+326 : 5 : 18 : y
+327 : 6 : 18 : I
+328 : 7 : 18 : N
+329 : 8 : 18 : T
+330 : 9 : 18 : SPACE
+331 : 10 : 18 : <
+332 : 11 : 18 : SPACE
+333 : 12 : 18 : 8
+334 : 13 : 18 : 0
+335 : 14 : 18 : )
+336 : 15 : 18 : 
+337 : 16 : 18 : NEW_LINE
+338 : 1 : 19 : {
+339 : 2 : 19 : 
+340 : 3 : 19 : NEW_LINE
+341 : 1 : 20 : TAB
+342 : 2 : 20 : m
+343 : 3 : 20 : y
+344 : 4 : 20 : I
+345 : 5 : 20 : N
+346 : 6 : 20 : T
+347 : 7 : 20 : SPACE
+348 : 8 : 20 : =
+349 : 9 : 20 : SPACE
+350 : 10 : 20 : m
+351 : 11 : 20 : y
+352 : 12 : 20 : I
+353 : 13 : 20 : N
+354 : 14 : 20 : T
+355 : 15 : 20 : SPACE
+356 : 16 : 20 : *
+357 : 17 : 20 : SPACE
+358 : 18 : 20 : m
+359 : 19 : 20 : y
+360 : 20 : 20 : F
+361 : 21 : 20 : l
+362 : 22 : 20 : o
+363 : 23 : 20 : a
+364 : 24 : 20 : t
+365 : 25 : 20 : ;
+366 : 26 : 20 : 
+367 : 27 : 20 : NEW_LINE
+368 : 1 : 21 : }
+369 : 2 : 21 : 
+370 : 3 : 21 : NEW_LINE
+371 : 1 : 22 : 
+372 : 2 : 22 : NEW_LINE
+373 : 1 : 23 : m
+374 : 2 : 23 : y
+375 : 3 : 23 : I
+376 : 4 : 23 : N
+377 : 5 : 23 : T
+378 : 6 : 23 : SPACE
+379 : 7 : 23 : =
+380 : 8 : 23 : SPACE
+381 : 9 : 23 : m
+382 : 10 : 23 : y
+383 : 11 : 23 : F
+384 : 12 : 23 : l
+385 : 13 : 23 : o
+386 : 14 : 23 : a
+387 : 15 : 23 : t
+388 : 16 : 23 : SPACE
+389 : 17 : 23 : +
+390 : 18 : 23 : SPACE
+391 : 19 : 23 : m
+392 : 20 : 23 : y
+393 : 21 : 23 : I
+394 : 22 : 23 : N
+395 : 23 : 23 : T
+396 : 24 : 23 : ;
+397 : 25 : 23 : 
+398 : 26 : 23 : NEW_LINE
+399 : 1 : 24 : 
+400 : 2 : 24 : NEW_LINE
+401 : 1 : 25 : i
+402 : 2 : 25 : f
+403 : 3 : 25 : (
+404 : 4 : 25 : m
+405 : 5 : 25 : y
+406 : 6 : 25 : F
+407 : 7 : 25 : l
+408 : 8 : 25 : o
+409 : 9 : 25 : a
+410 : 10 : 25 : t
+411 : 11 : 25 : SPACE
+412 : 12 : 25 : =
+413 : 13 : 25 : =
+414 : 14 : 25 : SPACE
+415 : 15 : 25 : 3
+416 : 16 : 25 : )
+417 : 17 : 25 : 
+418 : 18 : 25 : NEW_LINE
+419 : 1 : 26 : {
+420 : 2 : 26 : 
+421 : 3 : 26 : NEW_LINE
+422 : 1 : 27 : TAB
+423 : 2 : 27 : i
+424 : 3 : 27 : f
+425 : 4 : 27 : (
+426 : 5 : 27 : m
+427 : 6 : 27 : y
+428 : 7 : 27 : B
+429 : 8 : 27 : o
+430 : 9 : 27 : o
+431 : 10 : 27 : l
+432 : 11 : 27 : SPACE
+433 : 12 : 27 : =
+434 : 13 : 27 : =
+435 : 14 : 27 : SPACE
+436 : 15 : 27 : t
+437 : 16 : 27 : r
+438 : 17 : 27 : u
+439 : 18 : 27 : e
+440 : 19 : 27 : )
+441 : 20 : 27 : 
+442 : 21 : 27 : NEW_LINE
+443 : 1 : 28 : TAB
+444 : 2 : 28 : {
+445 : 3 : 28 : 
+446 : 4 : 28 : NEW_LINE
+447 : 1 : 29 : TAB
+448 : 2 : 29 : TAB
+449 : 3 : 29 : m
+450 : 4 : 29 : y
+451 : 5 : 29 : B
+452 : 6 : 29 : o
+453 : 7 : 29 : o
+454 : 8 : 29 : l
+455 : 9 : 29 : SPACE
+456 : 10 : 29 : =
+457 : 11 : 29 : SPACE
+458 : 12 : 29 : f
+459 : 13 : 29 : a
+460 : 14 : 29 : l
+461 : 15 : 29 : s
+462 : 16 : 29 : e
+463 : 17 : 29 : ;
+464 : 18 : 29 : 
+465 : 19 : 29 : NEW_LINE
+466 : 1 : 30 : TAB
+467 : 2 : 30 : }
+468 : 3 : 30 : 
+469 : 4 : 30 : NEW_LINE
+470 : 1 : 31 : }
+471 : 2 : 31 : 
+472 : 3 : 31 : NEW_LINE
+473 : 1 : 32 : 
+474 : 2 : 32 : NEW_LINE
+475 : 1 : 33 : O
+476 : 2 : 33 : U
+477 : 3 : 33 : T
+478 : 4 : 33 : P
+479 : 5 : 33 : U
+480 : 6 : 33 : T
+481 : 7 : 33 : (
+482 : 8 : 33 : "
+483 : 9 : 33 : S
+484 : 10 : 33 : a
+485 : 11 : 33 : v
+486 : 12 : 33 : i
+487 : 13 : 33 : n
+488 : 14 : 33 : g
+489 : 15 : 33 : SPACE
+490 : 16 : 33 : m
+491 : 17 : 33 : y
+492 : 18 : 33 : S
+493 : 19 : 33 : t
+494 : 20 : 33 : r
+495 : 21 : 33 : i
+496 : 22 : 33 : n
+497 : 23 : 33 : g
+498 : 24 : 33 : :
+499 : 25 : 33 : SPACE
+500 : 26 : 33 : "
+501 : 27 : 33 : SPACE
+502 : 28 : 33 : +
+503 : 29 : 33 : SPACE
+504 : 30 : 33 : m
+505 : 31 : 33 : y
+506 : 32 : 33 : S
+507 : 33 : 33 : t
+508 : 34 : 33 : r
+509 : 35 : 33 : i
+510 : 36 : 33 : n
+511 : 37 : 33 : g
+512 : 38 : 33 : SPACE
+513 : 39 : 33 : SPACE
+514 : 40 : 33 : +
+515 : 41 : 33 : SPACE
+516 : 42 : 33 : "
+517 : 43 : 33 : SPACE
+518 : 44 : 33 : SPACE
+519 : 45 : 33 : -
+520 : 46 : 33 : SPACE
+521 : 47 : 33 : t
+522 : 48 : 33 : o
+523 : 49 : 33 : SPACE
+524 : 50 : 33 : f
+525 : 51 : 33 : i
+526 : 52 : 33 : l
+527 : 53 : 33 : e
+528 : 54 : 33 : "
+529 : 55 : 33 : )
+530 : 56 : 33 : ;
+531 : 57 : 33 : 
+532 : 58 : 33 : NEW_LINE
+533 : 1 : 34 : S
+534 : 2 : 34 : a
+535 : 3 : 34 : v
+536 : 4 : 34 : e
+537 : 5 : 34 : T
+538 : 6 : 34 : o
+539 : 7 : 34 : F
+540 : 8 : 34 : i
+541 : 9 : 34 : l
+542 : 10 : 34 : e
+543 : 11 : 34 : (
+544 : 12 : 34 : m
+545 : 13 : 34 : y
+546 : 14 : 34 : S
+547 : 15 : 34 : t
+548 : 16 : 34 : r
+549 : 17 : 34 : i
+550 : 18 : 34 : n
+551 : 19 : 34 : g
+552 : 20 : 34 : ,
+553 : 21 : 34 : "
+554 : 22 : 34 : s
+555 : 23 : 34 : a
+556 : 24 : 34 : v
+557 : 25 : 34 : e
+558 : 26 : 34 : .
+559 : 27 : 34 : t
+560 : 28 : 34 : x
+561 : 29 : 34 : t
+562 : 30 : 34 : "
+563 : 31 : 34 : )
+564 : 32 : 34 : ;
+565 : 33 : 34 : 
+566 : 34 : 34 : NEW_LINE
+567 : 1 : 35 : 
+568 : 2 : 35 : NEW_LINE
+569 : 1 : 36 : m
+570 : 2 : 36 : y
+571 : 3 : 36 : S
+572 : 4 : 36 : t
+573 : 5 : 36 : r
+574 : 6 : 36 : i
+575 : 7 : 36 : n
+576 : 8 : 36 : g
+577 : 9 : 36 : SPACE
+578 : 10 : 36 : =
+579 : 11 : 36 : SPACE
+580 : 12 : 36 : "
+581 : 13 : 36 : I
+582 : 14 : 36 : SPACE
+583 : 15 : 36 : h
+584 : 16 : 36 : a
+585 : 17 : 36 : v
+586 : 18 : 36 : e
+587 : 19 : 36 : SPACE
+588 : 20 : 36 : b
+589 : 21 : 36 : e
+590 : 22 : 36 : e
+591 : 23 : 36 : n
+592 : 24 : 36 : SPACE
+593 : 25 : 36 : c
+594 : 26 : 36 : h
+595 : 27 : 36 : a
+596 : 28 : 36 : n
+597 : 29 : 36 : g
+598 : 30 : 36 : e
+599 : 31 : 36 : d
+600 : 32 : 36 : "
+601 : 33 : 36 : ;
+602 : 34 : 36 : 
+603 : 35 : 36 : NEW_LINE
+604 : 1 : 37 : O
+605 : 2 : 37 : U
+606 : 3 : 37 : T
+607 : 4 : 37 : P
+608 : 5 : 37 : U
+609 : 6 : 37 : T
+610 : 7 : 37 : (
+611 : 8 : 37 : "
+612 : 9 : 37 : m
+613 : 10 : 37 : y
+614 : 11 : 37 : S
+615 : 12 : 37 : t
+616 : 13 : 37 : r
+617 : 14 : 37 : i
+618 : 15 : 37 : n
+619 : 16 : 37 : g
+620 : 17 : 37 : SPACE
+621 : 18 : 37 : c
+622 : 19 : 37 : h
+623 : 20 : 37 : a
+624 : 21 : 37 : n
+625 : 22 : 37 : g
+626 : 23 : 37 : e
+627 : 24 : 37 : d
+628 : 25 : 37 : SPACE
+629 : 26 : 37 : t
+630 : 27 : 37 : o
+631 : 28 : 37 : :
+632 : 29 : 37 : SPACE
+633 : 30 : 37 : "
+634 : 31 : 37 : SPACE
+635 : 32 : 37 : +
+636 : 33 : 37 : SPACE
+637 : 34 : 37 : m
+638 : 35 : 37 : y
+639 : 36 : 37 : S
+640 : 37 : 37 : t
+641 : 38 : 37 : r
+642 : 39 : 37 : i
+643 : 40 : 37 : n
+644 : 41 : 37 : g
+645 : 42 : 37 : )
+646 : 43 : 37 : ;
+647 : 44 : 37 : 
+648 : 45 : 37 : NEW_LINE
+649 : 1 : 38 : 
+650 : 2 : 38 : NEW_LINE
+651 : 1 : 39 : R
+652 : 2 : 39 : e
+653 : 3 : 39 : a
+654 : 4 : 39 : d
+655 : 5 : 39 : F
+656 : 6 : 39 : r
+657 : 7 : 39 : o
+658 : 8 : 39 : m
+659 : 9 : 39 : F
+660 : 10 : 39 : i
+661 : 11 : 39 : l
+662 : 12 : 39 : e
+663 : 13 : 39 : (
+664 : 14 : 39 : "
+665 : 15 : 39 : s
+666 : 16 : 39 : a
+667 : 17 : 39 : v
+668 : 18 : 39 : e
+669 : 19 : 39 : .
+670 : 20 : 39 : t
+671 : 21 : 39 : x
+672 : 22 : 39 : t
+673 : 23 : 39 : "
+674 : 24 : 39 : ,
+675 : 25 : 39 : "
+676 : 26 : 39 : m
+677 : 27 : 39 : y
+678 : 28 : 39 : S
+679 : 29 : 39 : t
+680 : 30 : 39 : r
+681 : 31 : 39 : i
+682 : 32 : 39 : n
+683 : 33 : 39 : g
+684 : 34 : 39 : "
+685 : 35 : 39 : ,
+686 : 36 : 39 : m
+687 : 37 : 39 : y
+688 : 38 : 39 : S
+689 : 39 : 39 : t
+690 : 40 : 39 : r
+691 : 41 : 39 : i
+692 : 42 : 39 : n
+693 : 43 : 39 : g
+694 : 44 : 39 : )
+695 : 45 : 39 : ;
+696 : 46 : 39 : 
+697 : 47 : 39 : NEW_LINE
+698 : 1 : 40 : O
+699 : 2 : 40 : U
+700 : 3 : 40 : T
+701 : 4 : 40 : P
+702 : 5 : 40 : U
+703 : 6 : 40 : T
+704 : 7 : 40 : (
+705 : 8 : 40 : "
+706 : 9 : 40 : L
+707 : 10 : 40 : o
+708 : 11 : 40 : a
+709 : 12 : 40 : d
+710 : 13 : 40 : e
+711 : 14 : 40 : d
+712 : 15 : 40 : SPACE
+713 : 16 : 40 : -
+714 : 17 : 40 : SPACE
+715 : 18 : 40 : "
+716 : 19 : 40 : SPACE
+717 : 20 : 40 : +
+718 : 21 : 40 : SPACE
+719 : 22 : 40 : m
+720 : 23 : 40 : y
+721 : 24 : 40 : S
+722 : 25 : 40 : t
+723 : 26 : 40 : r
+724 : 27 : 40 : i
+725 : 28 : 40 : n
+726 : 29 : 40 : g
+727 : 30 : 40 : SPACE
+728 : 31 : 40 : +
+729 : 32 : 40 : SPACE
+730 : 33 : 40 : "
+731 : 34 : 40 : F
+732 : 35 : 40 : r
+733 : 36 : 40 : o
+734 : 37 : 40 : m
+735 : 38 : 40 : SPACE
+736 : 39 : 40 : s
+737 : 40 : 40 : a
+738 : 41 : 40 : v
+739 : 42 : 40 : e
+740 : 43 : 40 : .
+741 : 44 : 40 : t
+742 : 45 : 40 : x
+743 : 46 : 40 : t
+744 : 47 : 40 : "
+745 : 48 : 40 : )
+746 : 49 : 40 : ;
+747 : 50 : 40 : 
+748 : 51 : 40 : NEW_LINE
+749 : 1 : 41 : 
+750 : 2 : 41 : NEW_LINE
+751 : 1 : 42 : m
+752 : 2 : 42 : y
+753 : 3 : 42 : I
+754 : 4 : 42 : N
+755 : 5 : 42 : T
+756 : 6 : 42 : SPACE
+757 : 7 : 42 : =
+758 : 8 : 42 : SPACE
+759 : 9 : 42 : m
+760 : 10 : 42 : y
+761 : 11 : 42 : I
+762 : 12 : 42 : N
+763 : 13 : 42 : T
+764 : 14 : 42 : SPACE
+765 : 15 : 42 : +
+766 : 16 : 42 : SPACE
+767 : 17 : 42 : 1
+768 : 18 : 42 : ;
+769 : 19 : 42 : 
+770 : 20 : 42 : NEW_LINE
+771 : 1 : 43 : 
+772 : 2 : 43 : NEW_LINE
+773 : 1 : 44 : i
+774 : 2 : 44 : f
+775 : 3 : 44 : (
+776 : 4 : 44 : m
+777 : 5 : 44 : y
+778 : 6 : 44 : S
+779 : 7 : 44 : t
+780 : 8 : 44 : r
+781 : 9 : 44 : i
+782 : 10 : 44 : n
+783 : 11 : 44 : g
+784 : 12 : 44 : SPACE
+785 : 13 : 44 : =
+786 : 14 : 44 : =
+787 : 15 : 44 : SPACE
+788 : 16 : 44 : "
+789 : 17 : 44 : T
+790 : 18 : 44 : h
+791 : 19 : 44 : i
+792 : 20 : 44 : s
+793 : 21 : 44 : SPACE
+794 : 22 : 44 : i
+795 : 23 : 44 : s
+796 : 24 : 44 : SPACE
+797 : 25 : 44 : a
+798 : 26 : 44 : SPACE
+799 : 27 : 44 : S
+800 : 28 : 44 : t
+801 : 29 : 44 : r
+802 : 30 : 44 : i
+803 : 31 : 44 : n
+804 : 32 : 44 : g
+805 : 33 : 44 : SPACE
+806 : 34 : 44 : t
+807 : 35 : 44 : h
+808 : 36 : 44 : a
+809 : 37 : 44 : t
+810 : 38 : 44 : SPACE
+811 : 39 : 44 : i
+812 : 40 : 44 : s
+813 : 41 : 44 : SPACE
+814 : 42 : 44 : s
+815 : 43 : 44 : h
+816 : 44 : 44 : i
+817 : 45 : 44 : t
+818 : 46 : 44 : !
+819 : 47 : 44 : "
+820 : 48 : 44 : )
+821 : 49 : 44 : 
+822 : 50 : 44 : NEW_LINE
+823 : 1 : 45 : {
+824 : 2 : 45 : 
+825 : 3 : 45 : NEW_LINE
+826 : 1 : 46 : TAB
+827 : 2 : 46 : b
+828 : 3 : 46 : o
+829 : 4 : 46 : o
+830 : 5 : 46 : l
+831 : 6 : 46 : SPACE
+832 : 7 : 46 : t
+833 : 8 : 46 : h
+834 : 9 : 46 : i
+835 : 10 : 46 : s
+836 : 11 : 46 : I
+837 : 12 : 46 : s
+838 : 13 : 46 : A
+839 : 14 : 46 : B
+840 : 15 : 46 : o
+841 : 16 : 46 : o
+842 : 17 : 46 : l
+843 : 18 : 46 : SPACE
+844 : 19 : 46 : =
+845 : 20 : 46 : SPACE
+846 : 21 : 46 : f
+847 : 22 : 46 : a
+848 : 23 : 46 : l
+849 : 24 : 46 : s
+850 : 25 : 46 : e
+851 : 26 : 46 : ;
+852 : 27 : 46 : 
+853 : 28 : 46 : NEW_LINE
+854 : 1 : 47 : TAB
+855 : 2 : 47 : 
+856 : 3 : 47 : NEW_LINE
+857 : 1 : 48 : TAB
+858 : 2 : 48 : m
+859 : 3 : 48 : y
+860 : 4 : 48 : B
+861 : 5 : 48 : o
+862 : 6 : 48 : o
+863 : 7 : 48 : l
+864 : 8 : 48 : SPACE
+865 : 9 : 48 : =
+866 : 10 : 48 : SPACE
+867 : 11 : 48 : t
+868 : 12 : 48 : r
+869 : 13 : 48 : u
+870 : 14 : 48 : e
+871 : 15 : 48 : ;
+872 : 16 : 48 : 
+873 : 17 : 48 : NEW_LINE
+874 : 1 : 49 : TAB
+875 : 2 : 49 : m
+876 : 3 : 49 : y
+877 : 4 : 49 : S
+878 : 5 : 49 : t
+879 : 6 : 49 : r
+880 : 7 : 49 : i
+881 : 8 : 49 : n
+882 : 9 : 49 : g
+883 : 10 : 49 : SPACE
+884 : 11 : 49 : =
+885 : 12 : 49 : SPACE
+886 : 13 : 49 : m
+887 : 14 : 49 : y
+888 : 15 : 49 : S
+889 : 16 : 49 : t
+890 : 17 : 49 : r
+891 : 18 : 49 : i
+892 : 19 : 49 : n
+893 : 20 : 49 : g
+894 : 21 : 49 : SPACE
+895 : 22 : 49 : +
+896 : 23 : 49 : SPACE
+897 : 24 : 49 : "
+898 : 25 : 49 : SPACE
+899 : 26 : 49 : :
+900 : 27 : 49 : SPACE
+901 : 28 : 49 : "
+902 : 29 : 49 : SPACE
+903 : 30 : 49 : +
+904 : 31 : 49 : SPACE
+905 : 32 : 49 : m
+906 : 33 : 49 : y
+907 : 34 : 49 : B
+908 : 35 : 49 : o
+909 : 36 : 49 : o
+910 : 37 : 49 : l
+911 : 38 : 49 : ;
+912 : 39 : 49 : 
+913 : 40 : 49 : NEW_LINE
+914 : 1 : 50 : 
+915 : 2 : 50 : NEW_LINE
+916 : 1 : 51 : TAB
+917 : 2 : 51 : i
+918 : 3 : 51 : n
+919 : 4 : 51 : t
+920 : 5 : 51 : SPACE
+921 : 6 : 51 : i
+922 : 7 : 51 : SPACE
+923 : 8 : 51 : =
+924 : 9 : 51 : SPACE
+925 : 10 : 51 : 0
+926 : 11 : 51 : ;
+927 : 12 : 51 : 
+928 : 13 : 51 : NEW_LINE
+929 : 1 : 52 : 
+930 : 2 : 52 : NEW_LINE
+931 : 1 : 53 : TAB
+932 : 2 : 53 : f
+933 : 3 : 53 : o
+934 : 4 : 53 : r
+935 : 5 : 53 : (
+936 : 6 : 53 : SPACE
+937 : 7 : 53 : ;
+938 : 8 : 53 : i
+939 : 9 : 53 : SPACE
+940 : 10 : 53 : <
+941 : 11 : 53 : SPACE
+942 : 12 : 53 : 1
+943 : 13 : 53 : 0
+944 : 14 : 53 : ;
+945 : 15 : 53 : SPACE
+946 : 16 : 53 : i
+947 : 17 : 53 : SPACE
+948 : 18 : 53 : =
+949 : 19 : 53 : SPACE
+950 : 20 : 53 : i
+951 : 21 : 53 : SPACE
+952 : 22 : 53 : +
+953 : 23 : 53 : SPACE
+954 : 24 : 53 : 1
+955 : 25 : 53 : )
+956 : 26 : 53 : 
+957 : 27 : 53 : NEW_LINE
+958 : 1 : 54 : TAB
+959 : 2 : 54 : {
+960 : 3 : 54 : 
+961 : 4 : 54 : NEW_LINE
+962 : 1 : 55 : TAB
+963 : 2 : 55 : TAB
+964 : 3 : 55 : O
+965 : 4 : 55 : U
+966 : 5 : 55 : T
+967 : 6 : 55 : P
+968 : 7 : 55 : U
+969 : 8 : 55 : T
+970 : 9 : 55 : (
+971 : 10 : 55 : i
+972 : 11 : 55 : )
+973 : 12 : 55 : ;
+974 : 13 : 55 : 
+975 : 14 : 55 : NEW_LINE
+976 : 1 : 56 : TAB
+977 : 2 : 56 : }
+978 : 3 : 56 : TAB
+979 : 4 : 56 : 
+980 : 5 : 56 : NEW_LINE
+981 : 1 : 57 : }
+982 : 2 : 57 : 
+983 : 3 : 57 : NEW_LINE
+984 : 1 : 58 : 
+985 : 2 : 58 : NEW_LINE
+986 : 1 : 59 : END_MARK
+987 : 2 : 59 : END_MARK
+0 : 4 : 1 : IDENTIFIER : PERSISTANT_VARIABLES
+1 : 5 : 1 : SYMBOL : {
+2 : 7 : 2 : TYPE : int
+3 : 7 : 6 : IDENTIFIER : myINT
+4 : 7 : 12 : SYMBOL : =
+5 : 7 : 15 : NUMBER : 79
+6 : 7 : 17 : SYMBOL : ;
+7 : 8 : 2 : TYPE : float
+8 : 8 : 8 : IDENTIFIER : myFloat
+9 : 8 : 16 : SYMBOL : =
+10 : 8 : 19 : DECIMAL : 3.0
+11 : 8 : 22 : SYMBOL : ;
+12 : 9 : 2 : TYPE : bool
+13 : 9 : 7 : IDENTIFIER : myBool
+14 : 9 : 14 : SYMBOL : =
+15 : 9 : 16 : BOOL : true
+16 : 9 : 20 : SYMBOL : ;
+17 : 10 : 2 : TYPE : string
+18 : 10 : 9 : IDENTIFIER : myString
+19 : 10 : 19 : SYMBOL : =
+20 : 10 : 21 : STRING : This is a String
+21 : 10 : 38 : SYMBOL : ;
+22 : 11 : 2 : TYPE : int
+23 : 11 : 6 : IDENTIFIER : thisInt
+24 : 11 : 14 : SYMBOL : =
+25 : 11 : 16 : NUMBER : 0
+26 : 11 : 17 : SYMBOL : ;
+27 : 12 : 1 : SYMBOL : }
+28 : 14 : 1 : IDENTIFIER : myINT
+29 : 14 : 7 : SYMBOL : =
+30 : 14 : 9 : IDENTIFIER : myINT
+31 : 14 : 15 : SYMBOL : +
+32 : 14 : 17 : NUMBER : 1
+33 : 14 : 19 : SYMBOL : +
+34 : 14 : 21 : IDENTIFIER : myFloat
+35 : 14 : 28 : SYMBOL : ;
+36 : 16 : 1 : IDENTIFIER : myString
+37 : 16 : 10 : SYMBOL : =
+38 : 16 : 12 : IDENTIFIER : myString
+39 : 16 : 21 : SYMBOL : +
+40 : 16 : 24 : STRING :  that is bad!
+41 : 16 : 38 : SYMBOL : ;
+42 : 18 : 1 : KEYWORD : if
+43 : 18 : 3 : SYMBOL : (
+44 : 18 : 4 : IDENTIFIER : myINT
+45 : 18 : 10 : IDENTIFIER : <
+46 : 18 : 12 : NUMBER : 80
+47 : 18 : 14 : SYMBOL : )
+48 : 19 : 1 : SYMBOL : {
+49 : 20 : 2 : IDENTIFIER : myINT
+50 : 20 : 8 : SYMBOL : =
+51 : 20 : 10 : IDENTIFIER : myINT
+52 : 20 : 16 : SYMBOL : *
+53 : 20 : 18 : IDENTIFIER : myFloat
+54 : 20 : 25 : SYMBOL : ;
+55 : 21 : 1 : SYMBOL : }
+56 : 23 : 1 : IDENTIFIER : myINT
+57 : 23 : 7 : SYMBOL : =
+58 : 23 : 9 : IDENTIFIER : myFloat
+59 : 23 : 17 : SYMBOL : +
+60 : 23 : 19 : IDENTIFIER : myINT
+61 : 23 : 24 : SYMBOL : ;
+62 : 25 : 1 : KEYWORD : if
+63 : 25 : 3 : SYMBOL : (
+64 : 25 : 4 : IDENTIFIER : myFloat
+65 : 25 : 12 : SYMBOL : =
+66 : 25 : 13 : SYMBOL : =
+67 : 25 : 15 : NUMBER : 3
+68 : 25 : 16 : SYMBOL : )
+69 : 26 : 1 : SYMBOL : {
+70 : 27 : 2 : KEYWORD : if
+71 : 27 : 4 : SYMBOL : (
+72 : 27 : 5 : IDENTIFIER : myBool
+73 : 27 : 12 : SYMBOL : =
+74 : 27 : 13 : SYMBOL : =
+75 : 27 : 15 : BOOL : true
+76 : 27 : 19 : SYMBOL : )
+77 : 28 : 2 : SYMBOL : {
+78 : 29 : 3 : IDENTIFIER : myBool
+79 : 29 : 10 : SYMBOL : =
+80 : 29 : 12 : BOOL : false
+81 : 29 : 17 : SYMBOL : ;
+82 : 30 : 2 : SYMBOL : }
+83 : 31 : 1 : SYMBOL : }
+84 : 33 : 1 : FUNCTION : OUTPUT
+85 : 33 : 7 : SYMBOL : (
+86 : 33 : 9 : STRING : Saving myString: 
+87 : 33 : 28 : SYMBOL : +
+88 : 33 : 30 : IDENTIFIER : myString
+89 : 33 : 40 : SYMBOL : +
+90 : 33 : 43 : STRING :   - to file
+91 : 33 : 55 : SYMBOL : )
+92 : 33 : 56 : SYMBOL : ;
+93 : 34 : 1 : FUNCTION : SaveToFile
+94 : 34 : 11 : SYMBOL : (
+95 : 34 : 12 : IDENTIFIER : myString
+96 : 34 : 20 : SYMBOL : ,
+97 : 34 : 22 : STRING : save.txt
+98 : 34 : 31 : SYMBOL : )
+99 : 34 : 32 : SYMBOL : ;
+100 : 36 : 1 : IDENTIFIER : myString
+101 : 36 : 10 : SYMBOL : =
+102 : 36 : 13 : STRING : I have been changed
+103 : 36 : 33 : SYMBOL : ;
+104 : 37 : 1 : FUNCTION : OUTPUT
+105 : 37 : 7 : SYMBOL : (
+106 : 37 : 9 : STRING : myString changed to: 
+107 : 37 : 32 : SYMBOL : +
+108 : 37 : 34 : IDENTIFIER : myString
+109 : 37 : 42 : SYMBOL : )
+110 : 37 : 43 : SYMBOL : ;
+111 : 39 : 1 : FUNCTION : ReadFromFile
+112 : 39 : 13 : SYMBOL : (
+113 : 39 : 15 : STRING : save.txt
+114 : 39 : 24 : SYMBOL : ,
+115 : 39 : 26 : STRING : myString
+116 : 39 : 35 : SYMBOL : ,
+117 : 39 : 36 : IDENTIFIER : myString
+118 : 39 : 44 : SYMBOL : )
+119 : 39 : 45 : SYMBOL : ;
+120 : 40 : 1 : FUNCTION : OUTPUT
+121 : 40 : 7 : SYMBOL : (
+122 : 40 : 9 : STRING : Loaded - 
+123 : 40 : 20 : SYMBOL : +
+124 : 40 : 22 : IDENTIFIER : myString
+125 : 40 : 31 : SYMBOL : +
+126 : 40 : 34 : STRING : From save.txt
+127 : 40 : 48 : SYMBOL : )
+128 : 40 : 49 : SYMBOL : ;
+129 : 42 : 1 : IDENTIFIER : myINT
+130 : 42 : 7 : SYMBOL : =
+131 : 42 : 9 : IDENTIFIER : myINT
+132 : 42 : 15 : SYMBOL : +
+133 : 42 : 17 : NUMBER : 1
+134 : 42 : 18 : SYMBOL : ;
+135 : 44 : 1 : KEYWORD : if
+136 : 44 : 3 : SYMBOL : (
+137 : 44 : 4 : IDENTIFIER : myString
+138 : 44 : 13 : SYMBOL : =
+139 : 44 : 14 : SYMBOL : =
+140 : 44 : 17 : STRING : This is a String that is shit!
+141 : 44 : 48 : SYMBOL : )
+142 : 45 : 1 : SYMBOL : {
+143 : 46 : 2 : TYPE : bool
+144 : 46 : 7 : IDENTIFIER : thisIsABool
+145 : 46 : 19 : SYMBOL : =
+146 : 46 : 21 : BOOL : false
+147 : 46 : 26 : SYMBOL : ;
+148 : 48 : 2 : IDENTIFIER : myBool
+149 : 48 : 9 : SYMBOL : =
+150 : 48 : 11 : BOOL : true
+151 : 48 : 15 : SYMBOL : ;
+152 : 49 : 2 : IDENTIFIER : myString
+153 : 49 : 11 : SYMBOL : =
+154 : 49 : 13 : IDENTIFIER : myString
+155 : 49 : 22 : SYMBOL : +
+156 : 49 : 25 : STRING :  : 
+157 : 49 : 30 : SYMBOL : +
+158 : 49 : 32 : IDENTIFIER : myBool
+159 : 49 : 38 : SYMBOL : ;
+160 : 51 : 2 : TYPE : int
+161 : 51 : 6 : IDENTIFIER : i
+162 : 51 : 8 : SYMBOL : =
+163 : 51 : 10 : NUMBER : 0
+164 : 51 : 11 : SYMBOL : ;
+165 : 53 : 2 : KEYWORD : for
+166 : 53 : 5 : SYMBOL : (
+167 : 53 : 7 : SYMBOL : ;
+168 : 53 : 8 : IDENTIFIER : i
+169 : 53 : 10 : IDENTIFIER : <
+170 : 53 : 12 : NUMBER : 10
+171 : 53 : 14 : SYMBOL : ;
+172 : 53 : 16 : IDENTIFIER : i
+173 : 53 : 18 : SYMBOL : =
+174 : 53 : 20 : IDENTIFIER : i
+175 : 53 : 22 : SYMBOL : +
+176 : 53 : 24 : NUMBER : 1
+177 : 53 : 25 : SYMBOL : )
+178 : 54 : 2 : SYMBOL : {
+179 : 55 : 3 : FUNCTION : OUTPUT
+180 : 55 : 9 : SYMBOL : (
+181 : 55 : 10 : IDENTIFIER : i
+182 : 55 : 11 : SYMBOL : )
+183 : 55 : 12 : SYMBOL : ;
+184 : 56 : 2 : SYMBOL : }
+185 : 57 : 1 : SYMBOL : }
+186 : 59 : 1 : ENDMARK : END_MARK
+ASSIGN : myINT : TEMP_VAR |
+ASSIGN : myFloat : TEMP_VAR |
+ASSIGN : myBool : TEMP_VAR |
+ASSIGN : myString : TEMP_VAR |
+ASSIGN : thisInt : TEMP_VAR |
+ERROR_REDEFINITION : thisInt | At col: 6 row: 11 
+0 : 1 : 1 : i
+1 : 2 : 1 : n
+2 : 3 : 1 : t
+3 : 4 : 1 : SPACE
+4 : 5 : 1 : t
+5 : 6 : 1 : h
+6 : 7 : 1 : i
+7 : 8 : 1 : s
+8 : 9 : 1 : I
+9 : 10 : 1 : n
+10 : 11 : 1 : t
+11 : 12 : 1 : SPACE
+12 : 13 : 1 : =
+13 : 14 : 1 : SPACE
+14 : 15 : 1 : 0
+15 : 16 : 1 : ;
+16 : 17 : 1 : 
+17 : 18 : 1 : NEW_LINE
+18 : 1 : 2 : b
+19 : 2 : 2 : o
+20 : 3 : 2 : o
+21 : 4 : 2 : l
+22 : 5 : 2 : SPACE
+23 : 6 : 2 : t
+24 : 7 : 2 : h
+25 : 8 : 2 : i
+26 : 9 : 2 : s
+27 : 10 : 2 : B
+28 : 11 : 2 : o
+29 : 12 : 2 : o
+30 : 13 : 2 : l
+31 : 14 : 2 : SPACE
+32 : 15 : 2 : =
+33 : 16 : 2 : SPACE
+34 : 17 : 2 : f
+35 : 18 : 2 : a
+36 : 19 : 2 : l
+37 : 20 : 2 : s
+38 : 21 : 2 : e
+39 : 22 : 2 : ;
+40 : 23 : 2 : 
+41 : 24 : 2 : NEW_LINE
+42 : 1 : 3 : f
+43 : 2 : 3 : l
+44 : 3 : 3 : o
+45 : 4 : 3 : a
+46 : 5 : 3 : t
+47 : 6 : 3 : SPACE
+48 : 7 : 3 : t
+49 : 8 : 3 : h
+50 : 9 : 3 : i
+51 : 10 : 3 : s
+52 : 11 : 3 : F
+53 : 12 : 3 : l
+54 : 13 : 3 : o
+55 : 14 : 3 : a
+56 : 15 : 3 : t
+57 : 16 : 3 : SPACE
+58 : 17 : 3 : =
+59 : 18 : 3 : SPACE
+60 : 19 : 3 : 3
+61 : 20 : 3 : .
+62 : 21 : 3 : 0
+63 : 22 : 3 : ;
+64 : 23 : 3 : 
+65 : 24 : 3 : NEW_LINE
+66 : 1 : 4 : 
+67 : 2 : 4 : NEW_LINE
+68 : 1 : 5 : f
+69 : 2 : 5 : o
+70 : 3 : 5 : r
+71 : 4 : 5 : (
+72 : 5 : 5 : ;
+73 : 6 : 5 : t
+74 : 7 : 5 : h
+75 : 8 : 5 : i
+76 : 9 : 5 : s
+77 : 10 : 5 : I
+78 : 11 : 5 : n
+79 : 12 : 5 : t
+80 : 13 : 5 : SPACE
+81 : 14 : 5 : <
+82 : 15 : 5 : SPACE
+83 : 16 : 5 : 1
+84 : 17 : 5 : 0
+85 : 18 : 5 : ;
+86 : 19 : 5 : SPACE
+87 : 20 : 5 : t
+88 : 21 : 5 : h
+89 : 22 : 5 : i
+90 : 23 : 5 : s
+91 : 24 : 5 : I
+92 : 25 : 5 : n
+93 : 26 : 5 : t
+94 : 27 : 5 : SPACE
+95 : 28 : 5 : =
+96 : 29 : 5 : SPACE
+97 : 30 : 5 : t
+98 : 31 : 5 : h
+99 : 32 : 5 : i
+100 : 33 : 5 : s
+101 : 34 : 5 : I
+102 : 35 : 5 : n
+103 : 36 : 5 : t
+104 : 37 : 5 : SPACE
+105 : 38 : 5 : +
+106 : 39 : 5 : SPACE
+107 : 40 : 5 : 1
+108 : 41 : 5 : )
+109 : 42 : 5 : 
+110 : 43 : 5 : NEW_LINE
+111 : 1 : 6 : {
+112 : 2 : 6 : 
+113 : 3 : 6 : NEW_LINE
+114 : 1 : 7 : TAB
+115 : 2 : 7 : O
+116 : 3 : 7 : U
+117 : 4 : 7 : T
+118 : 5 : 7 : P
+119 : 6 : 7 : U
+120 : 7 : 7 : T
+121 : 8 : 7 : (
+122 : 9 : 7 : t
+123 : 10 : 7 : h
+124 : 11 : 7 : i
+125 : 12 : 7 : s
+126 : 13 : 7 : F
+127 : 14 : 7 : l
+128 : 15 : 7 : o
+129 : 16 : 7 : a
+130 : 17 : 7 : t
+131 : 18 : 7 : )
+132 : 19 : 7 : ;
+133 : 20 : 7 : 
+134 : 21 : 7 : NEW_LINE
+135 : 1 : 8 : TAB
+136 : 2 : 8 : t
+137 : 3 : 8 : h
+138 : 4 : 8 : i
+139 : 5 : 8 : s
+140 : 6 : 8 : F
+141 : 7 : 8 : l
+142 : 8 : 8 : o
+143 : 9 : 8 : a
+144 : 10 : 8 : t
+145 : 11 : 8 : SPACE
+146 : 12 : 8 : =
+147 : 13 : 8 : SPACE
+148 : 14 : 8 : t
+149 : 15 : 8 : h
+150 : 16 : 8 : i
+151 : 17 : 8 : s
+152 : 18 : 8 : F
+153 : 19 : 8 : l
+154 : 20 : 8 : o
+155 : 21 : 8 : a
+156 : 22 : 8 : t
+157 : 23 : 8 : *
+158 : 24 : 8 : t
+159 : 25 : 8 : h
+160 : 26 : 8 : i
+161 : 27 : 8 : s
+162 : 28 : 8 : I
+163 : 29 : 8 : n
+164 : 30 : 8 : t
+165 : 31 : 8 : ;
+166 : 32 : 8 : 
+167 : 33 : 8 : NEW_LINE
+168 : 1 : 9 : }
+169 : 2 : 9 : 
+170 : 3 : 9 : NEW_LINE
+171 : 1 : 10 : }
+172 : 2 : 10 : 
+173 : 3 : 10 : NEW_LINE
+174 : 1 : 11 : 
+175 : 2 : 11 : NEW_LINE
+176 : 1 : 12 : t
+177 : 2 : 12 : h
+178 : 3 : 12 : i
+179 : 4 : 12 : s
+180 : 5 : 12 : B
+181 : 6 : 12 : o
+182 : 7 : 12 : o
+183 : 8 : 12 : l
+184 : 9 : 12 : SPACE
+185 : 10 : 12 : =
+186 : 11 : 12 : SPACE
+187 : 12 : 12 : t
+188 : 13 : 12 : r
+189 : 14 : 12 : u
+190 : 15 : 12 : e
+191 : 16 : 12 : ;
+192 : 17 : 12 : 
+193 : 18 : 12 : NEW_LINE
+194 : 1 : 13 : 
+195 : 2 : 13 : NEW_LINE
+196 : 1 : 14 : END_MARK
+197 : 2 : 14 : END_MARK
+0 : 1 : 1 : TYPE : int
+1 : 1 : 5 : IDENTIFIER : thisInt
+2 : 1 : 13 : SYMBOL : =
+3 : 1 : 15 : NUMBER : 0
+4 : 1 : 16 : SYMBOL : ;
+5 : 2 : 1 : TYPE : bool
+6 : 2 : 6 : IDENTIFIER : thisBool
+7 : 2 : 15 : SYMBOL : =
+8 : 2 : 17 : BOOL : false
+9 : 2 : 22 : SYMBOL : ;
+10 : 3 : 1 : TYPE : float
+11 : 3 : 7 : IDENTIFIER : thisFloat
+12 : 3 : 17 : SYMBOL : =
+13 : 3 : 19 : DECIMAL : 3.0
+14 : 3 : 22 : SYMBOL : ;
+15 : 5 : 1 : KEYWORD : for
+16 : 5 : 4 : SYMBOL : (
+17 : 5 : 5 : SYMBOL : ;
+18 : 5 : 6 : IDENTIFIER : thisInt
+19 : 5 : 14 : IDENTIFIER : <
+20 : 5 : 16 : NUMBER : 10
+21 : 5 : 18 : SYMBOL : ;
+22 : 5 : 20 : IDENTIFIER : thisInt
+23 : 5 : 28 : SYMBOL : =
+24 : 5 : 30 : IDENTIFIER : thisInt
+25 : 5 : 38 : SYMBOL : +
+26 : 5 : 40 : NUMBER : 1
+27 : 5 : 41 : SYMBOL : )
+28 : 6 : 1 : SYMBOL : {
+29 : 7 : 2 : FUNCTION : OUTPUT
+30 : 7 : 8 : SYMBOL : (
+31 : 7 : 9 : IDENTIFIER : thisFloat
+32 : 7 : 18 : SYMBOL : )
+33 : 7 : 19 : SYMBOL : ;
+34 : 8 : 2 : IDENTIFIER : thisFloat
+35 : 8 : 12 : SYMBOL : =
+36 : 8 : 14 : IDENTIFIER : thisFloat
+37 : 8 : 23 : SYMBOL : *
+38 : 8 : 24 : IDENTIFIER : thisInt
+39 : 8 : 31 : SYMBOL : ;
+40 : 9 : 1 : SYMBOL : }
+41 : 10 : 1 : SYMBOL : }
+42 : 12 : 1 : IDENTIFIER : thisBool
+43 : 12 : 10 : SYMBOL : =
+44 : 12 : 12 : BOOL : true
+45 : 12 : 16 : SYMBOL : ;
+46 : 14 : 1 : ENDMARK : END_MARK
+ERROR_REDEFINITION : thisInt | At col: 5 row: 1 
+ERROR_REDEFINITION : thisBool | At col: 6 row: 2 
+ERROR_REDEFINITION : thisFloat | At col: 7 row: 3 
+ERROR_UNEXPECTED_TOKEN : true | At col: 12 row: 12 
+0 : 1 : 1 : i
+1 : 2 : 1 : n
+2 : 3 : 1 : t
+3 : 4 : 1 : SPACE
+4 : 5 : 1 : t
+5 : 6 : 1 : h
+6 : 7 : 1 : i
+7 : 8 : 1 : s
+8 : 9 : 1 : I
+9 : 10 : 1 : n
+10 : 11 : 1 : t
+11 : 12 : 1 : SPACE
+12 : 13 : 1 : =
+13 : 14 : 1 : SPACE
+14 : 15 : 1 : 0
+15 : 16 : 1 : ;
+16 : 17 : 1 : 
+17 : 18 : 1 : NEW_LINE
+18 : 1 : 2 : b
+19 : 2 : 2 : o
+20 : 3 : 2 : o
+21 : 4 : 2 : l
+22 : 5 : 2 : SPACE
+23 : 6 : 2 : t
+24 : 7 : 2 : h
+25 : 8 : 2 : i
+26 : 9 : 2 : s
+27 : 10 : 2 : B
+28 : 11 : 2 : o
+29 : 12 : 2 : o
+30 : 13 : 2 : l
+31 : 14 : 2 : SPACE
+32 : 15 : 2 : =
+33 : 16 : 2 : SPACE
+34 : 17 : 2 : f
+35 : 18 : 2 : a
+36 : 19 : 2 : l
+37 : 20 : 2 : s
+38 : 21 : 2 : e
+39 : 22 : 2 : ;
+40 : 23 : 2 : 
+41 : 24 : 2 : NEW_LINE
+42 : 1 : 3 : f
+43 : 2 : 3 : l
+44 : 3 : 3 : o
+45 : 4 : 3 : a
+46 : 5 : 3 : t
+47 : 6 : 3 : SPACE
+48 : 7 : 3 : t
+49 : 8 : 3 : h
+50 : 9 : 3 : i
+51 : 10 : 3 : s
+52 : 11 : 3 : F
+53 : 12 : 3 : l
+54 : 13 : 3 : o
+55 : 14 : 3 : a
+56 : 15 : 3 : t
+57 : 16 : 3 : SPACE
+58 : 17 : 3 : =
+59 : 18 : 3 : SPACE
+60 : 19 : 3 : 3
+61 : 20 : 3 : .
+62 : 21 : 3 : 0
+63 : 22 : 3 : ;
+64 : 23 : 3 : 
+65 : 24 : 3 : NEW_LINE
+66 : 1 : 4 : 
+67 : 2 : 4 : NEW_LINE
+68 : 1 : 5 : f
+69 : 2 : 5 : o
+70 : 3 : 5 : r
+71 : 4 : 5 : (
+72 : 5 : 5 : ;
+73 : 6 : 5 : t
+74 : 7 : 5 : h
+75 : 8 : 5 : i
+76 : 9 : 5 : s
+77 : 10 : 5 : I
+78 : 11 : 5 : n
+79 : 12 : 5 : t
+80 : 13 : 5 : SPACE
+81 : 14 : 5 : <
+82 : 15 : 5 : SPACE
+83 : 16 : 5 : 1
+84 : 17 : 5 : 0
+85 : 18 : 5 : ;
+86 : 19 : 5 : SPACE
+87 : 20 : 5 : t
+88 : 21 : 5 : h
+89 : 22 : 5 : i
+90 : 23 : 5 : s
+91 : 24 : 5 : I
+92 : 25 : 5 : n
+93 : 26 : 5 : t
+94 : 27 : 5 : SPACE
+95 : 28 : 5 : =
+96 : 29 : 5 : SPACE
+97 : 30 : 5 : t
+98 : 31 : 5 : h
+99 : 32 : 5 : i
+100 : 33 : 5 : s
+101 : 34 : 5 : I
+102 : 35 : 5 : n
+103 : 36 : 5 : t
+104 : 37 : 5 : SPACE
+105 : 38 : 5 : +
+106 : 39 : 5 : SPACE
+107 : 40 : 5 : 1
+108 : 41 : 5 : )
+109 : 42 : 5 : 
+110 : 43 : 5 : NEW_LINE
+111 : 1 : 6 : {
+112 : 2 : 6 : 
+113 : 3 : 6 : NEW_LINE
+114 : 1 : 7 : TAB
+115 : 2 : 7 : O
+116 : 3 : 7 : U
+117 : 4 : 7 : T
+118 : 5 : 7 : P
+119 : 6 : 7 : U
+120 : 7 : 7 : T
+121 : 8 : 7 : (
+122 : 9 : 7 : t
+123 : 10 : 7 : h
+124 : 11 : 7 : i
+125 : 12 : 7 : s
+126 : 13 : 7 : F
+127 : 14 : 7 : l
+128 : 15 : 7 : o
+129 : 16 : 7 : a
+130 : 17 : 7 : t
+131 : 18 : 7 : )
+132 : 19 : 7 : ;
+133 : 20 : 7 : 
+134 : 21 : 7 : NEW_LINE
+135 : 1 : 8 : TAB
+136 : 2 : 8 : t
+137 : 3 : 8 : h
+138 : 4 : 8 : i
+139 : 5 : 8 : s
+140 : 6 : 8 : F
+141 : 7 : 8 : l
+142 : 8 : 8 : o
+143 : 9 : 8 : a
+144 : 10 : 8 : t
+145 : 11 : 8 : SPACE
+146 : 12 : 8 : =
+147 : 13 : 8 : SPACE
+148 : 14 : 8 : t
+149 : 15 : 8 : h
+150 : 16 : 8 : i
+151 : 17 : 8 : s
+152 : 18 : 8 : F
+153 : 19 : 8 : l
+154 : 20 : 8 : o
+155 : 21 : 8 : a
+156 : 22 : 8 : t
+157 : 23 : 8 : *
+158 : 24 : 8 : t
+159 : 25 : 8 : h
+160 : 26 : 8 : i
+161 : 27 : 8 : s
+162 : 28 : 8 : I
+163 : 29 : 8 : n
+164 : 30 : 8 : t
+165 : 31 : 8 : ;
+166 : 32 : 8 : 
+167 : 33 : 8 : NEW_LINE
+168 : 1 : 9 : }
+169 : 2 : 9 : 
+170 : 3 : 9 : NEW_LINE
+171 : 1 : 10 : }
+172 : 2 : 10 : 
+173 : 3 : 10 : NEW_LINE
+174 : 1 : 11 : 
+175 : 2 : 11 : NEW_LINE
+176 : 1 : 12 : t
+177 : 2 : 12 : h
+178 : 3 : 12 : i
+179 : 4 : 12 : s
+180 : 5 : 12 : B
+181 : 6 : 12 : o
+182 : 7 : 12 : o
+183 : 8 : 12 : l
+184 : 9 : 12 : SPACE
+185 : 10 : 12 : =
+186 : 11 : 12 : SPACE
+187 : 12 : 12 : t
+188 : 13 : 12 : r
+189 : 14 : 12 : u
+190 : 15 : 12 : e
+191 : 16 : 12 : ;
+192 : 17 : 12 : 
+193 : 18 : 12 : NEW_LINE
+194 : 1 : 13 : 
+195 : 2 : 13 : NEW_LINE
+196 : 1 : 14 : END_MARK
+197 : 2 : 14 : END_MARK
+0 : 1 : 1 : TYPE : int
+1 : 1 : 5 : IDENTIFIER : thisInt
+2 : 1 : 13 : SYMBOL : =
+3 : 1 : 15 : NUMBER : 0
+4 : 1 : 16 : SYMBOL : ;
+5 : 2 : 1 : TYPE : bool
+6 : 2 : 6 : IDENTIFIER : thisBool
+7 : 2 : 15 : SYMBOL : =
+8 : 2 : 17 : BOOL : false
+9 : 2 : 22 : SYMBOL : ;
+10 : 3 : 1 : TYPE : float
+11 : 3 : 7 : IDENTIFIER : thisFloat
+12 : 3 : 17 : SYMBOL : =
+13 : 3 : 19 : DECIMAL : 3.0
+14 : 3 : 22 : SYMBOL : ;
+15 : 5 : 1 : KEYWORD : for
+16 : 5 : 4 : SYMBOL : (
+17 : 5 : 5 : SYMBOL : ;
+18 : 5 : 6 : IDENTIFIER : thisInt
+19 : 5 : 14 : IDENTIFIER : <
+20 : 5 : 16 : NUMBER : 10
+21 : 5 : 18 : SYMBOL : ;
+22 : 5 : 20 : IDENTIFIER : thisInt
+23 : 5 : 28 : SYMBOL : =
+24 : 5 : 30 : IDENTIFIER : thisInt
+25 : 5 : 38 : SYMBOL : +
+26 : 5 : 40 : NUMBER : 1
+27 : 5 : 41 : SYMBOL : )
+28 : 6 : 1 : SYMBOL : {
+29 : 7 : 2 : FUNCTION : OUTPUT
+30 : 7 : 8 : SYMBOL : (
+31 : 7 : 9 : IDENTIFIER : thisFloat
+32 : 7 : 18 : SYMBOL : )
+33 : 7 : 19 : SYMBOL : ;
+34 : 8 : 2 : IDENTIFIER : thisFloat
+35 : 8 : 12 : SYMBOL : =
+36 : 8 : 14 : IDENTIFIER : thisFloat
+37 : 8 : 23 : SYMBOL : *
+38 : 8 : 24 : IDENTIFIER : thisInt
+39 : 8 : 31 : SYMBOL : ;
+40 : 9 : 1 : SYMBOL : }
+41 : 10 : 1 : SYMBOL : }
+42 : 12 : 1 : IDENTIFIER : thisBool
+43 : 12 : 10 : SYMBOL : =
+44 : 12 : 12 : BOOL : true
+45 : 12 : 16 : SYMBOL : ;
+46 : 14 : 1 : ENDMARK : END_MARK
+ERROR_REDEFINITION : thisInt | At col: 5 row: 1 
+ERROR_REDEFINITION : thisBool | At col: 6 row: 2 
+ERROR_REDEFINITION : thisFloat | At col: 7 row: 3 
+ERROR_UNEXPECTED_TOKEN : true | At col: 12 row: 12 
+0 : 1 : 1 : i
+1 : 2 : 1 : n
+2 : 3 : 1 : t
+3 : 4 : 1 : SPACE
+4 : 5 : 1 : t
+5 : 6 : 1 : h
+6 : 7 : 1 : i
+7 : 8 : 1 : s
+8 : 9 : 1 : I
+9 : 10 : 1 : n
+10 : 11 : 1 : t
+11 : 12 : 1 : SPACE
+12 : 13 : 1 : =
+13 : 14 : 1 : SPACE
+14 : 15 : 1 : 0
+15 : 16 : 1 : ;
+16 : 17 : 1 : 
+17 : 18 : 1 : NEW_LINE
+18 : 1 : 2 : b
+19 : 2 : 2 : o
+20 : 3 : 2 : o
+21 : 4 : 2 : l
+22 : 5 : 2 : SPACE
+23 : 6 : 2 : t
+24 : 7 : 2 : h
+25 : 8 : 2 : i
+26 : 9 : 2 : s
+27 : 10 : 2 : B
+28 : 11 : 2 : o
+29 : 12 : 2 : o
+30 : 13 : 2 : l
+31 : 14 : 2 : SPACE
+32 : 15 : 2 : =
+33 : 16 : 2 : SPACE
+34 : 17 : 2 : f
+35 : 18 : 2 : a
+36 : 19 : 2 : l
+37 : 20 : 2 : s
+38 : 21 : 2 : e
+39 : 22 : 2 : ;
+40 : 23 : 2 : 
+41 : 24 : 2 : NEW_LINE
+42 : 1 : 3 : f
+43 : 2 : 3 : l
+44 : 3 : 3 : o
+45 : 4 : 3 : a
+46 : 5 : 3 : t
+47 : 6 : 3 : SPACE
+48 : 7 : 3 : t
+49 : 8 : 3 : h
+50 : 9 : 3 : i
+51 : 10 : 3 : s
+52 : 11 : 3 : F
+53 : 12 : 3 : l
+54 : 13 : 3 : o
+55 : 14 : 3 : a
+56 : 15 : 3 : t
+57 : 16 : 3 : SPACE
+58 : 17 : 3 : =
+59 : 18 : 3 : SPACE
+60 : 19 : 3 : 3
+61 : 20 : 3 : .
+62 : 21 : 3 : 0
+63 : 22 : 3 : ;
+64 : 23 : 3 : 
+65 : 24 : 3 : NEW_LINE
+66 : 1 : 4 : 
+67 : 2 : 4 : NEW_LINE
+68 : 1 : 5 : f
+69 : 2 : 5 : o
+70 : 3 : 5 : r
+71 : 4 : 5 : (
+72 : 5 : 5 : ;
+73 : 6 : 5 : t
+74 : 7 : 5 : h
+75 : 8 : 5 : i
+76 : 9 : 5 : s
+77 : 10 : 5 : I
+78 : 11 : 5 : n
+79 : 12 : 5 : t
+80 : 13 : 5 : SPACE
+81 : 14 : 5 : <
+82 : 15 : 5 : SPACE
+83 : 16 : 5 : 1
+84 : 17 : 5 : 0
+85 : 18 : 5 : ;
+86 : 19 : 5 : SPACE
+87 : 20 : 5 : t
+88 : 21 : 5 : h
+89 : 22 : 5 : i
+90 : 23 : 5 : s
+91 : 24 : 5 : I
+92 : 25 : 5 : n
+93 : 26 : 5 : t
+94 : 27 : 5 : SPACE
+95 : 28 : 5 : =
+96 : 29 : 5 : SPACE
+97 : 30 : 5 : t
+98 : 31 : 5 : h
+99 : 32 : 5 : i
+100 : 33 : 5 : s
+101 : 34 : 5 : I
+102 : 35 : 5 : n
+103 : 36 : 5 : t
+104 : 37 : 5 : SPACE
+105 : 38 : 5 : +
+106 : 39 : 5 : SPACE
+107 : 40 : 5 : 1
+108 : 41 : 5 : )
+109 : 42 : 5 : 
+110 : 43 : 5 : NEW_LINE
+111 : 1 : 6 : {
+112 : 2 : 6 : 
+113 : 3 : 6 : NEW_LINE
+114 : 1 : 7 : TAB
+115 : 2 : 7 : O
+116 : 3 : 7 : U
+117 : 4 : 7 : T
+118 : 5 : 7 : P
+119 : 6 : 7 : U
+120 : 7 : 7 : T
+121 : 8 : 7 : (
+122 : 9 : 7 : t
+123 : 10 : 7 : h
+124 : 11 : 7 : i
+125 : 12 : 7 : s
+126 : 13 : 7 : F
+127 : 14 : 7 : l
+128 : 15 : 7 : o
+129 : 16 : 7 : a
+130 : 17 : 7 : t
+131 : 18 : 7 : )
+132 : 19 : 7 : ;
+133 : 20 : 7 : 
+134 : 21 : 7 : NEW_LINE
+135 : 1 : 8 : TAB
+136 : 2 : 8 : t
+137 : 3 : 8 : h
+138 : 4 : 8 : i
+139 : 5 : 8 : s
+140 : 6 : 8 : F
+141 : 7 : 8 : l
+142 : 8 : 8 : o
+143 : 9 : 8 : a
+144 : 10 : 8 : t
+145 : 11 : 8 : SPACE
+146 : 12 : 8 : =
+147 : 13 : 8 : SPACE
+148 : 14 : 8 : t
+149 : 15 : 8 : h
+150 : 16 : 8 : i
+151 : 17 : 8 : s
+152 : 18 : 8 : F
+153 : 19 : 8 : l
+154 : 20 : 8 : o
+155 : 21 : 8 : a
+156 : 22 : 8 : t
+157 : 23 : 8 : *
+158 : 24 : 8 : t
+159 : 25 : 8 : h
+160 : 26 : 8 : i
+161 : 27 : 8 : s
+162 : 28 : 8 : I
+163 : 29 : 8 : n
+164 : 30 : 8 : t
+165 : 31 : 8 : ;
+166 : 32 : 8 : 
+167 : 33 : 8 : NEW_LINE
+168 : 1 : 9 : }
+169 : 2 : 9 : 
+170 : 3 : 9 : NEW_LINE
+171 : 1 : 10 : 
+172 : 2 : 10 : NEW_LINE
+173 : 1 : 11 : 
+174 : 2 : 11 : NEW_LINE
+175 : 1 : 12 : t
+176 : 2 : 12 : h
+177 : 3 : 12 : i
+178 : 4 : 12 : s
+179 : 5 : 12 : B
+180 : 6 : 12 : o
+181 : 7 : 12 : o
+182 : 8 : 12 : l
+183 : 9 : 12 : SPACE
+184 : 10 : 12 : =
+185 : 11 : 12 : SPACE
+186 : 12 : 12 : t
+187 : 13 : 12 : r
+188 : 14 : 12 : u
+189 : 15 : 12 : e
+190 : 16 : 12 : ;
+191 : 17 : 12 : 
+192 : 18 : 12 : NEW_LINE
+193 : 1 : 13 : 
+194 : 2 : 13 : NEW_LINE
+195 : 1 : 14 : END_MARK
+196 : 2 : 14 : END_MARK
+0 : 1 : 1 : TYPE : int
+1 : 1 : 5 : IDENTIFIER : thisInt
+2 : 1 : 13 : SYMBOL : =
+3 : 1 : 15 : NUMBER : 0
+4 : 1 : 16 : SYMBOL : ;
+5 : 2 : 1 : TYPE : bool
+6 : 2 : 6 : IDENTIFIER : thisBool
+7 : 2 : 15 : SYMBOL : =
+8 : 2 : 17 : BOOL : false
+9 : 2 : 22 : SYMBOL : ;
+10 : 3 : 1 : TYPE : float
+11 : 3 : 7 : IDENTIFIER : thisFloat
+12 : 3 : 17 : SYMBOL : =
+13 : 3 : 19 : DECIMAL : 3.0
+14 : 3 : 22 : SYMBOL : ;
+15 : 5 : 1 : KEYWORD : for
+16 : 5 : 4 : SYMBOL : (
+17 : 5 : 5 : SYMBOL : ;
+18 : 5 : 6 : IDENTIFIER : thisInt
+19 : 5 : 14 : IDENTIFIER : <
+20 : 5 : 16 : NUMBER : 10
+21 : 5 : 18 : SYMBOL : ;
+22 : 5 : 20 : IDENTIFIER : thisInt
+23 : 5 : 28 : SYMBOL : =
+24 : 5 : 30 : IDENTIFIER : thisInt
+25 : 5 : 38 : SYMBOL : +
+26 : 5 : 40 : NUMBER : 1
+27 : 5 : 41 : SYMBOL : )
+28 : 6 : 1 : SYMBOL : {
+29 : 7 : 2 : FUNCTION : OUTPUT
+30 : 7 : 8 : SYMBOL : (
+31 : 7 : 9 : IDENTIFIER : thisFloat
+32 : 7 : 18 : SYMBOL : )
+33 : 7 : 19 : SYMBOL : ;
+34 : 8 : 2 : IDENTIFIER : thisFloat
+35 : 8 : 12 : SYMBOL : =
+36 : 8 : 14 : IDENTIFIER : thisFloat
+37 : 8 : 23 : SYMBOL : *
+38 : 8 : 24 : IDENTIFIER : thisInt
+39 : 8 : 31 : SYMBOL : ;
+40 : 9 : 1 : SYMBOL : }
+41 : 12 : 1 : IDENTIFIER : thisBool
+42 : 12 : 10 : SYMBOL : =
+43 : 12 : 12 : BOOL : true
+44 : 12 : 16 : SYMBOL : ;
+45 : 14 : 1 : ENDMARK : END_MARK
+ERROR_REDEFINITION : thisInt | At col: 5 row: 1 
+ERROR_REDEFINITION : thisBool | At col: 6 row: 2 
+ERROR_REDEFINITION : thisFloat | At col: 7 row: 3 
+ERROR_UNEXPECTED_TOKEN : true | At col: 12 row: 12 
+0 : 1 : 1 : SPACE
+1 : 2 : 1 : /
+2 : 3 : 1 : /
+3 : 4 : 1 : I
+4 : 5 : 1 : SPACE
+5 : 6 : 1 : A
+6 : 7 : 1 : m
+7 : 8 : 1 : SPACE
+8 : 9 : 1 : A
+9 : 10 : 1 : SPACE
+10 : 11 : 1 : C
+11 : 12 : 1 : O
+12 : 13 : 1 : M
+13 : 14 : 1 : M
+14 : 15 : 1 : E
+15 : 16 : 1 : N
+16 : 17 : 1 : T
+17 : 18 : 1 : 
+18 : 19 : 1 : NEW_LINE
+19 : 1 : 2 : /
+20 : 2 : 2 : *
+21 : 3 : 2 : S
+22 : 4 : 2 : O
+23 : 5 : 2 : SPACE
+24 : 6 : 2 : a
+25 : 7 : 2 : m
+26 : 8 : 2 : SPACE
+27 : 9 : 2 : I
+28 : 10 : 2 : *
+29 : 11 : 2 : /
+30 : 12 : 2 : 
+31 : 13 : 2 : NEW_LINE
+32 : 1 : 3 : 
+33 : 2 : 3 : NEW_LINE
+34 : 1 : 4 : P
+35 : 2 : 4 : E
+36 : 3 : 4 : R
+37 : 4 : 4 : S
+38 : 5 : 4 : I
+39 : 6 : 4 : S
+40 : 7 : 4 : T
+41 : 8 : 4 : A
+42 : 9 : 4 : N
+43 : 10 : 4 : T
+44 : 11 : 4 : _
+45 : 12 : 4 : V
+46 : 13 : 4 : A
+47 : 14 : 4 : R
+48 : 15 : 4 : I
+49 : 16 : 4 : A
+50 : 17 : 4 : B
+51 : 18 : 4 : L
+52 : 19 : 4 : E
+53 : 20 : 4 : S
+54 : 21 : 4 : 
+55 : 22 : 4 : NEW_LINE
+56 : 1 : 5 : {
+57 : 2 : 5 : 
+58 : 3 : 5 : NEW_LINE
+59 : 1 : 6 : TAB
+60 : 2 : 6 : /
+61 : 3 : 6 : /
+62 : 4 : 6 : T
+63 : 5 : 6 : Y
+64 : 6 : 6 : P
+65 : 7 : 6 : E
+66 : 8 : 6 : SPACE
+67 : 9 : 6 : |
+68 : 10 : 6 : SPACE
+69 : 11 : 6 : I
+70 : 12 : 6 : D
+71 : 13 : 6 : E
+72 : 14 : 6 : N
+73 : 15 : 6 : T
+74 : 16 : 6 : I
+75 : 17 : 6 : F
+76 : 18 : 6 : I
+77 : 19 : 6 : E
+78 : 20 : 6 : R
+79 : 21 : 6 : SPACE
+80 : 22 : 6 : |
+81 : 23 : 6 : SPACE
+82 : 24 : 6 : S
+83 : 25 : 6 : E
+84 : 26 : 6 : M
+85 : 27 : 6 : I
+86 : 28 : 6 : C
+87 : 29 : 6 : O
+88 : 30 : 6 : L
+89 : 31 : 6 : O
+90 : 32 : 6 : N
+91 : 33 : 6 : (
+92 : 34 : 6 : U
+93 : 35 : 6 : n
+94 : 36 : 6 : i
+95 : 37 : 6 : n
+96 : 38 : 6 : i
+97 : 39 : 6 : t
+98 : 40 : 6 : i
+99 : 41 : 6 : a
+100 : 42 : 6 : l
+101 : 43 : 6 : i
+102 : 44 : 6 : z
+103 : 45 : 6 : e
+104 : 46 : 6 : d
+105 : 47 : 6 : )
+106 : 48 : 6 : SPACE
+107 : 49 : 6 : o
+108 : 50 : 6 : r
+109 : 51 : 6 : SPACE
+110 : 52 : 6 : =
+111 : 53 : 6 : SPACE
+112 : 54 : 6 : V
+113 : 55 : 6 : A
+114 : 56 : 6 : L
+115 : 57 : 6 : U
+116 : 58 : 6 : E
+117 : 59 : 6 : 
+118 : 60 : 6 : NEW_LINE
+119 : 1 : 7 : TAB
+120 : 2 : 7 : i
+121 : 3 : 7 : n
+122 : 4 : 7 : t
+123 : 5 : 7 : SPACE
+124 : 6 : 7 : m
+125 : 7 : 7 : y
+126 : 8 : 7 : I
+127 : 9 : 7 : N
+128 : 10 : 7 : T
+129 : 11 : 7 : SPACE
+130 : 12 : 7 : =
+131 : 13 : 7 : SPACE
+132 : 14 : 7 : SPACE
+133 : 15 : 7 : 7
+134 : 16 : 7 : 9
+135 : 17 : 7 : ;
+136 : 18 : 7 : 
+137 : 19 : 7 : NEW_LINE
+138 : 1 : 8 : TAB
+139 : 2 : 8 : f
+140 : 3 : 8 : l
+141 : 4 : 8 : o
+142 : 5 : 8 : a
+143 : 6 : 8 : t
+144 : 7 : 8 : SPACE
+145 : 8 : 8 : m
+146 : 9 : 8 : y
+147 : 10 : 8 : F
+148 : 11 : 8 : l
+149 : 12 : 8 : o
+150 : 13 : 8 : a
+151 : 14 : 8 : t
+152 : 15 : 8 : SPACE
+153 : 16 : 8 : =
+154 : 17 : 8 : SPACE
+155 : 18 : 8 : SPACE
+156 : 19 : 8 : 3
+157 : 20 : 8 : .
+158 : 21 : 8 : 0
+159 : 22 : 8 : ;
+160 : 23 : 8 : 
+161 : 24 : 8 : NEW_LINE
+162 : 1 : 9 : TAB
+163 : 2 : 9 : b
+164 : 3 : 9 : o
+165 : 4 : 9 : o
+166 : 5 : 9 : l
+167 : 6 : 9 : SPACE
+168 : 7 : 9 : m
+169 : 8 : 9 : y
+170 : 9 : 9 : B
+171 : 10 : 9 : o
+172 : 11 : 9 : o
+173 : 12 : 9 : l
+174 : 13 : 9 : SPACE
+175 : 14 : 9 : =
+176 : 15 : 9 : SPACE
+177 : 16 : 9 : t
+178 : 17 : 9 : r
+179 : 18 : 9 : u
+180 : 19 : 9 : e
+181 : 20 : 9 : ;
+182 : 21 : 9 : 
+183 : 22 : 9 : NEW_LINE
+184 : 1 : 10 : TAB
+185 : 2 : 10 : s
+186 : 3 : 10 : t
+187 : 4 : 10 : r
+188 : 5 : 10 : i
+189 : 6 : 10 : n
+190 : 7 : 10 : g
+191 : 8 : 10 : SPACE
+192 : 9 : 10 : m
+193 : 10 : 10 : y
+194 : 11 : 10 : S
+195 : 12 : 10 : t
+196 : 13 : 10 : r
+197 : 14 : 10 : i
+198 : 15 : 10 : n
+199 : 16 : 10 : g
+200 : 17 : 10 : SPACE
+201 : 18 : 10 : SPACE
+202 : 19 : 10 : =
+203 : 20 : 10 : "
+204 : 21 : 10 : T
+205 : 22 : 10 : h
+206 : 23 : 10 : i
+207 : 24 : 10 : s
+208 : 25 : 10 : SPACE
+209 : 26 : 10 : i
+210 : 27 : 10 : s
+211 : 28 : 10 : SPACE
+212 : 29 : 10 : a
+213 : 30 : 10 : SPACE
+214 : 31 : 10 : S
+215 : 32 : 10 : t
+216 : 33 : 10 : r
+217 : 34 : 10 : i
+218 : 35 : 10 : n
+219 : 36 : 10 : g
+220 : 37 : 10 : "
+221 : 38 : 10 : ;
+222 : 39 : 10 : 
+223 : 40 : 10 : NEW_LINE
+224 : 1 : 11 : TAB
+225 : 2 : 11 : i
+226 : 3 : 11 : n
+227 : 4 : 11 : t
+228 : 5 : 11 : SPACE
+229 : 6 : 11 : t
+230 : 7 : 11 : h
+231 : 8 : 11 : i
+232 : 9 : 11 : s
+233 : 10 : 11 : I
+234 : 11 : 11 : n
+235 : 12 : 11 : t
+236 : 13 : 11 : SPACE
+237 : 14 : 11 : =
+238 : 15 : 11 : SPACE
+239 : 16 : 11 : 0
+240 : 17 : 11 : ;
+241 : 18 : 11 : 
+242 : 19 : 11 : NEW_LINE
+243 : 1 : 12 : }
+244 : 2 : 12 : 
+245 : 3 : 12 : NEW_LINE
+246 : 1 : 13 : 
+247 : 2 : 13 : NEW_LINE
+248 : 1 : 14 : m
+249 : 2 : 14 : y
+250 : 3 : 14 : I
+251 : 4 : 14 : N
+252 : 5 : 14 : T
+253 : 6 : 14 : SPACE
+254 : 7 : 14 : =
+255 : 8 : 14 : SPACE
+256 : 9 : 14 : m
+257 : 10 : 14 : y
+258 : 11 : 14 : I
+259 : 12 : 14 : N
+260 : 13 : 14 : T
+261 : 14 : 14 : SPACE
+262 : 15 : 14 : +
+263 : 16 : 14 : SPACE
+264 : 17 : 14 : 1
+265 : 18 : 14 : SPACE
+266 : 19 : 14 : +
+267 : 20 : 14 : SPACE
+268 : 21 : 14 : m
+269 : 22 : 14 : y
+270 : 23 : 14 : F
+271 : 24 : 14 : l
+272 : 25 : 14 : o
+273 : 26 : 14 : a
+274 : 27 : 14 : t
+275 : 28 : 14 : ;
+276 : 29 : 14 : 
+277 : 30 : 14 : NEW_LINE
+278 : 1 : 15 : 
+279 : 2 : 15 : NEW_LINE
+280 : 1 : 16 : m
+281 : 2 : 16 : y
+282 : 3 : 16 : S
+283 : 4 : 16 : t
+284 : 5 : 16 : r
+285 : 6 : 16 : i
+286 : 7 : 16 : n
+287 : 8 : 16 : g
+288 : 9 : 16 : SPACE
+289 : 10 : 16 : =
+290 : 11 : 16 : SPACE
+291 : 12 : 16 : m
+292 : 13 : 16 : y
+293 : 14 : 16 : S
+294 : 15 : 16 : t
+295 : 16 : 16 : r
+296 : 17 : 16 : i
+297 : 18 : 16 : n
+298 : 19 : 16 : g
+299 : 20 : 16 : SPACE
+300 : 21 : 16 : +
+301 : 22 : 16 : SPACE
+302 : 23 : 16 : "
+303 : 24 : 16 : SPACE
+304 : 25 : 16 : t
+305 : 26 : 16 : h
+306 : 27 : 16 : a
+307 : 28 : 16 : t
+308 : 29 : 16 : SPACE
+309 : 30 : 16 : i
+310 : 31 : 16 : s
+311 : 32 : 16 : SPACE
+312 : 33 : 16 : b
+313 : 34 : 16 : a
+314 : 35 : 16 : d
+315 : 36 : 16 : !
+316 : 37 : 16 : "
+317 : 38 : 16 : ;
+318 : 39 : 16 : 
+319 : 40 : 16 : NEW_LINE
+320 : 1 : 17 : 
+321 : 2 : 17 : NEW_LINE
+322 : 1 : 18 : i
+323 : 2 : 18 : f
+324 : 3 : 18 : (
+325 : 4 : 18 : m
+326 : 5 : 18 : y
+327 : 6 : 18 : I
+328 : 7 : 18 : N
+329 : 8 : 18 : T
+330 : 9 : 18 : SPACE
+331 : 10 : 18 : <
+332 : 11 : 18 : SPACE
+333 : 12 : 18 : 8
+334 : 13 : 18 : 0
+335 : 14 : 18 : )
+336 : 15 : 18 : 
+337 : 16 : 18 : NEW_LINE
+338 : 1 : 19 : {
+339 : 2 : 19 : 
+340 : 3 : 19 : NEW_LINE
+341 : 1 : 20 : TAB
+342 : 2 : 20 : m
+343 : 3 : 20 : y
+344 : 4 : 20 : I
+345 : 5 : 20 : N
+346 : 6 : 20 : T
+347 : 7 : 20 : SPACE
+348 : 8 : 20 : =
+349 : 9 : 20 : SPACE
+350 : 10 : 20 : m
+351 : 11 : 20 : y
+352 : 12 : 20 : I
+353 : 13 : 20 : N
+354 : 14 : 20 : T
+355 : 15 : 20 : SPACE
+356 : 16 : 20 : *
+357 : 17 : 20 : SPACE
+358 : 18 : 20 : m
+359 : 19 : 20 : y
+360 : 20 : 20 : F
+361 : 21 : 20 : l
+362 : 22 : 20 : o
+363 : 23 : 20 : a
+364 : 24 : 20 : t
+365 : 25 : 20 : ;
+366 : 26 : 20 : 
+367 : 27 : 20 : NEW_LINE
+368 : 1 : 21 : }
+369 : 2 : 21 : 
+370 : 3 : 21 : NEW_LINE
+371 : 1 : 22 : 
+372 : 2 : 22 : NEW_LINE
+373 : 1 : 23 : m
+374 : 2 : 23 : y
+375 : 3 : 23 : I
+376 : 4 : 23 : N
+377 : 5 : 23 : T
+378 : 6 : 23 : SPACE
+379 : 7 : 23 : =
+380 : 8 : 23 : SPACE
+381 : 9 : 23 : m
+382 : 10 : 23 : y
+383 : 11 : 23 : F
+384 : 12 : 23 : l
+385 : 13 : 23 : o
+386 : 14 : 23 : a
+387 : 15 : 23 : t
+388 : 16 : 23 : SPACE
+389 : 17 : 23 : +
+390 : 18 : 23 : SPACE
+391 : 19 : 23 : m
+392 : 20 : 23 : y
+393 : 21 : 23 : I
+394 : 22 : 23 : N
+395 : 23 : 23 : T
+396 : 24 : 23 : ;
+397 : 25 : 23 : 
+398 : 26 : 23 : NEW_LINE
+399 : 1 : 24 : 
+400 : 2 : 24 : NEW_LINE
+401 : 1 : 25 : i
+402 : 2 : 25 : f
+403 : 3 : 25 : (
+404 : 4 : 25 : m
+405 : 5 : 25 : y
+406 : 6 : 25 : F
+407 : 7 : 25 : l
+408 : 8 : 25 : o
+409 : 9 : 25 : a
+410 : 10 : 25 : t
+411 : 11 : 25 : SPACE
+412 : 12 : 25 : =
+413 : 13 : 25 : =
+414 : 14 : 25 : SPACE
+415 : 15 : 25 : 3
+416 : 16 : 25 : )
+417 : 17 : 25 : 
+418 : 18 : 25 : NEW_LINE
+419 : 1 : 26 : {
+420 : 2 : 26 : 
+421 : 3 : 26 : NEW_LINE
+422 : 1 : 27 : TAB
+423 : 2 : 27 : i
+424 : 3 : 27 : f
+425 : 4 : 27 : (
+426 : 5 : 27 : m
+427 : 6 : 27 : y
+428 : 7 : 27 : B
+429 : 8 : 27 : o
+430 : 9 : 27 : o
+431 : 10 : 27 : l
+432 : 11 : 27 : SPACE
+433 : 12 : 27 : =
+434 : 13 : 27 : =
+435 : 14 : 27 : SPACE
+436 : 15 : 27 : t
+437 : 16 : 27 : r
+438 : 17 : 27 : u
+439 : 18 : 27 : e
+440 : 19 : 27 : )
+441 : 20 : 27 : 
+442 : 21 : 27 : NEW_LINE
+443 : 1 : 28 : TAB
+444 : 2 : 28 : {
+445 : 3 : 28 : 
+446 : 4 : 28 : NEW_LINE
+447 : 1 : 29 : TAB
+448 : 2 : 29 : TAB
+449 : 3 : 29 : m
+450 : 4 : 29 : y
+451 : 5 : 29 : B
+452 : 6 : 29 : o
+453 : 7 : 29 : o
+454 : 8 : 29 : l
+455 : 9 : 29 : SPACE
+456 : 10 : 29 : =
+457 : 11 : 29 : SPACE
+458 : 12 : 29 : f
+459 : 13 : 29 : a
+460 : 14 : 29 : l
+461 : 15 : 29 : s
+462 : 16 : 29 : e
+463 : 17 : 29 : ;
+464 : 18 : 29 : 
+465 : 19 : 29 : NEW_LINE
+466 : 1 : 30 : TAB
+467 : 2 : 30 : }
+468 : 3 : 30 : 
+469 : 4 : 30 : NEW_LINE
+470 : 1 : 31 : }
+471 : 2 : 31 : 
+472 : 3 : 31 : NEW_LINE
+473 : 1 : 32 : 
+474 : 2 : 32 : NEW_LINE
+475 : 1 : 33 : O
+476 : 2 : 33 : U
+477 : 3 : 33 : T
+478 : 4 : 33 : P
+479 : 5 : 33 : U
+480 : 6 : 33 : T
+481 : 7 : 33 : (
+482 : 8 : 33 : "
+483 : 9 : 33 : S
+484 : 10 : 33 : a
+485 : 11 : 33 : v
+486 : 12 : 33 : i
+487 : 13 : 33 : n
+488 : 14 : 33 : g
+489 : 15 : 33 : SPACE
+490 : 16 : 33 : m
+491 : 17 : 33 : y
+492 : 18 : 33 : S
+493 : 19 : 33 : t
+494 : 20 : 33 : r
+495 : 21 : 33 : i
+496 : 22 : 33 : n
+497 : 23 : 33 : g
+498 : 24 : 33 : :
+499 : 25 : 33 : SPACE
+500 : 26 : 33 : "
+501 : 27 : 33 : SPACE
+502 : 28 : 33 : +
+503 : 29 : 33 : SPACE
+504 : 30 : 33 : m
+505 : 31 : 33 : y
+506 : 32 : 33 : S
+507 : 33 : 33 : t
+508 : 34 : 33 : r
+509 : 35 : 33 : i
+510 : 36 : 33 : n
+511 : 37 : 33 : g
+512 : 38 : 33 : SPACE
+513 : 39 : 33 : SPACE
+514 : 40 : 33 : +
+515 : 41 : 33 : SPACE
+516 : 42 : 33 : "
+517 : 43 : 33 : SPACE
+518 : 44 : 33 : SPACE
+519 : 45 : 33 : -
+520 : 46 : 33 : SPACE
+521 : 47 : 33 : t
+522 : 48 : 33 : o
+523 : 49 : 33 : SPACE
+524 : 50 : 33 : f
+525 : 51 : 33 : i
+526 : 52 : 33 : l
+527 : 53 : 33 : e
+528 : 54 : 33 : "
+529 : 55 : 33 : )
+530 : 56 : 33 : ;
+531 : 57 : 33 : 
+532 : 58 : 33 : NEW_LINE
+533 : 1 : 34 : S
+534 : 2 : 34 : a
+535 : 3 : 34 : v
+536 : 4 : 34 : e
+537 : 5 : 34 : T
+538 : 6 : 34 : o
+539 : 7 : 34 : F
+540 : 8 : 34 : i
+541 : 9 : 34 : l
+542 : 10 : 34 : e
+543 : 11 : 34 : (
+544 : 12 : 34 : m
+545 : 13 : 34 : y
+546 : 14 : 34 : S
+547 : 15 : 34 : t
+548 : 16 : 34 : r
+549 : 17 : 34 : i
+550 : 18 : 34 : n
+551 : 19 : 34 : g
+552 : 20 : 34 : ,
+553 : 21 : 34 : "
+554 : 22 : 34 : s
+555 : 23 : 34 : a
+556 : 24 : 34 : v
+557 : 25 : 34 : e
+558 : 26 : 34 : .
+559 : 27 : 34 : t
+560 : 28 : 34 : x
+561 : 29 : 34 : t
+562 : 30 : 34 : "
+563 : 31 : 34 : )
+564 : 32 : 34 : ;
+565 : 33 : 34 : 
+566 : 34 : 34 : NEW_LINE
+567 : 1 : 35 : 
+568 : 2 : 35 : NEW_LINE
+569 : 1 : 36 : m
+570 : 2 : 36 : y
+571 : 3 : 36 : S
+572 : 4 : 36 : t
+573 : 5 : 36 : r
+574 : 6 : 36 : i
+575 : 7 : 36 : n
+576 : 8 : 36 : g
+577 : 9 : 36 : SPACE
+578 : 10 : 36 : =
+579 : 11 : 36 : SPACE
+580 : 12 : 36 : "
+581 : 13 : 36 : I
+582 : 14 : 36 : SPACE
+583 : 15 : 36 : h
+584 : 16 : 36 : a
+585 : 17 : 36 : v
+586 : 18 : 36 : e
+587 : 19 : 36 : SPACE
+588 : 20 : 36 : b
+589 : 21 : 36 : e
+590 : 22 : 36 : e
+591 : 23 : 36 : n
+592 : 24 : 36 : SPACE
+593 : 25 : 36 : c
+594 : 26 : 36 : h
+595 : 27 : 36 : a
+596 : 28 : 36 : n
+597 : 29 : 36 : g
+598 : 30 : 36 : e
+599 : 31 : 36 : d
+600 : 32 : 36 : "
+601 : 33 : 36 : ;
+602 : 34 : 36 : 
+603 : 35 : 36 : NEW_LINE
+604 : 1 : 37 : O
+605 : 2 : 37 : U
+606 : 3 : 37 : T
+607 : 4 : 37 : P
+608 : 5 : 37 : U
+609 : 6 : 37 : T
+610 : 7 : 37 : (
+611 : 8 : 37 : "
+612 : 9 : 37 : m
+613 : 10 : 37 : y
+614 : 11 : 37 : S
+615 : 12 : 37 : t
+616 : 13 : 37 : r
+617 : 14 : 37 : i
+618 : 15 : 37 : n
+619 : 16 : 37 : g
+620 : 17 : 37 : SPACE
+621 : 18 : 37 : c
+622 : 19 : 37 : h
+623 : 20 : 37 : a
+624 : 21 : 37 : n
+625 : 22 : 37 : g
+626 : 23 : 37 : e
+627 : 24 : 37 : d
+628 : 25 : 37 : SPACE
+629 : 26 : 37 : t
+630 : 27 : 37 : o
+631 : 28 : 37 : :
+632 : 29 : 37 : SPACE
+633 : 30 : 37 : "
+634 : 31 : 37 : SPACE
+635 : 32 : 37 : +
+636 : 33 : 37 : SPACE
+637 : 34 : 37 : m
+638 : 35 : 37 : y
+639 : 36 : 37 : S
+640 : 37 : 37 : t
+641 : 38 : 37 : r
+642 : 39 : 37 : i
+643 : 40 : 37 : n
+644 : 41 : 37 : g
+645 : 42 : 37 : )
+646 : 43 : 37 : ;
+647 : 44 : 37 : 
+648 : 45 : 37 : NEW_LINE
+649 : 1 : 38 : 
+650 : 2 : 38 : NEW_LINE
+651 : 1 : 39 : R
+652 : 2 : 39 : e
+653 : 3 : 39 : a
+654 : 4 : 39 : d
+655 : 5 : 39 : F
+656 : 6 : 39 : r
+657 : 7 : 39 : o
+658 : 8 : 39 : m
+659 : 9 : 39 : F
+660 : 10 : 39 : i
+661 : 11 : 39 : l
+662 : 12 : 39 : e
+663 : 13 : 39 : (
+664 : 14 : 39 : "
+665 : 15 : 39 : s
+666 : 16 : 39 : a
+667 : 17 : 39 : v
+668 : 18 : 39 : e
+669 : 19 : 39 : .
+670 : 20 : 39 : t
+671 : 21 : 39 : x
+672 : 22 : 39 : t
+673 : 23 : 39 : "
+674 : 24 : 39 : ,
+675 : 25 : 39 : "
+676 : 26 : 39 : m
+677 : 27 : 39 : y
+678 : 28 : 39 : S
+679 : 29 : 39 : t
+680 : 30 : 39 : r
+681 : 31 : 39 : i
+682 : 32 : 39 : n
+683 : 33 : 39 : g
+684 : 34 : 39 : "
+685 : 35 : 39 : ,
+686 : 36 : 39 : m
+687 : 37 : 39 : y
+688 : 38 : 39 : S
+689 : 39 : 39 : t
+690 : 40 : 39 : r
+691 : 41 : 39 : i
+692 : 42 : 39 : n
+693 : 43 : 39 : g
+694 : 44 : 39 : )
+695 : 45 : 39 : ;
+696 : 46 : 39 : 
+697 : 47 : 39 : NEW_LINE
+698 : 1 : 40 : O
+699 : 2 : 40 : U
+700 : 3 : 40 : T
+701 : 4 : 40 : P
+702 : 5 : 40 : U
+703 : 6 : 40 : T
+704 : 7 : 40 : (
+705 : 8 : 40 : "
+706 : 9 : 40 : L
+707 : 10 : 40 : o
+708 : 11 : 40 : a
+709 : 12 : 40 : d
+710 : 13 : 40 : e
+711 : 14 : 40 : d
+712 : 15 : 40 : SPACE
+713 : 16 : 40 : -
+714 : 17 : 40 : SPACE
+715 : 18 : 40 : "
+716 : 19 : 40 : SPACE
+717 : 20 : 40 : +
+718 : 21 : 40 : SPACE
+719 : 22 : 40 : m
+720 : 23 : 40 : y
+721 : 24 : 40 : S
+722 : 25 : 40 : t
+723 : 26 : 40 : r
+724 : 27 : 40 : i
+725 : 28 : 40 : n
+726 : 29 : 40 : g
+727 : 30 : 40 : SPACE
+728 : 31 : 40 : +
+729 : 32 : 40 : SPACE
+730 : 33 : 40 : "
+731 : 34 : 40 : F
+732 : 35 : 40 : r
+733 : 36 : 40 : o
+734 : 37 : 40 : m
+735 : 38 : 40 : SPACE
+736 : 39 : 40 : s
+737 : 40 : 40 : a
+738 : 41 : 40 : v
+739 : 42 : 40 : e
+740 : 43 : 40 : .
+741 : 44 : 40 : t
+742 : 45 : 40 : x
+743 : 46 : 40 : t
+744 : 47 : 40 : "
+745 : 48 : 40 : )
+746 : 49 : 40 : ;
+747 : 50 : 40 : 
+748 : 51 : 40 : NEW_LINE
+749 : 1 : 41 : 
+750 : 2 : 41 : NEW_LINE
+751 : 1 : 42 : m
+752 : 2 : 42 : y
+753 : 3 : 42 : I
+754 : 4 : 42 : N
+755 : 5 : 42 : T
+756 : 6 : 42 : SPACE
+757 : 7 : 42 : =
+758 : 8 : 42 : SPACE
+759 : 9 : 42 : m
+760 : 10 : 42 : y
+761 : 11 : 42 : I
+762 : 12 : 42 : N
+763 : 13 : 42 : T
+764 : 14 : 42 : SPACE
+765 : 15 : 42 : +
+766 : 16 : 42 : SPACE
+767 : 17 : 42 : 1
+768 : 18 : 42 : ;
+769 : 19 : 42 : 
+770 : 20 : 42 : NEW_LINE
+771 : 1 : 43 : 
+772 : 2 : 43 : NEW_LINE
+773 : 1 : 44 : i
+774 : 2 : 44 : f
+775 : 3 : 44 : (
+776 : 4 : 44 : m
+777 : 5 : 44 : y
+778 : 6 : 44 : S
+779 : 7 : 44 : t
+780 : 8 : 44 : r
+781 : 9 : 44 : i
+782 : 10 : 44 : n
+783 : 11 : 44 : g
+784 : 12 : 44 : SPACE
+785 : 13 : 44 : =
+786 : 14 : 44 : =
+787 : 15 : 44 : SPACE
+788 : 16 : 44 : "
+789 : 17 : 44 : T
+790 : 18 : 44 : h
+791 : 19 : 44 : i
+792 : 20 : 44 : s
+793 : 21 : 44 : SPACE
+794 : 22 : 44 : i
+795 : 23 : 44 : s
+796 : 24 : 44 : SPACE
+797 : 25 : 44 : a
+798 : 26 : 44 : SPACE
+799 : 27 : 44 : S
+800 : 28 : 44 : t
+801 : 29 : 44 : r
+802 : 30 : 44 : i
+803 : 31 : 44 : n
+804 : 32 : 44 : g
+805 : 33 : 44 : SPACE
+806 : 34 : 44 : t
+807 : 35 : 44 : h
+808 : 36 : 44 : a
+809 : 37 : 44 : t
+810 : 38 : 44 : SPACE
+811 : 39 : 44 : i
+812 : 40 : 44 : s
+813 : 41 : 44 : SPACE
+814 : 42 : 44 : s
+815 : 43 : 44 : h
+816 : 44 : 44 : i
+817 : 45 : 44 : t
+818 : 46 : 44 : !
+819 : 47 : 44 : "
+820 : 48 : 44 : )
+821 : 49 : 44 : 
+822 : 50 : 44 : NEW_LINE
+823 : 1 : 45 : {
+824 : 2 : 45 : 
+825 : 3 : 45 : NEW_LINE
+826 : 1 : 46 : TAB
+827 : 2 : 46 : b
+828 : 3 : 46 : o
+829 : 4 : 46 : o
+830 : 5 : 46 : l
+831 : 6 : 46 : SPACE
+832 : 7 : 46 : t
+833 : 8 : 46 : h
+834 : 9 : 46 : i
+835 : 10 : 46 : s
+836 : 11 : 46 : I
+837 : 12 : 46 : s
+838 : 13 : 46 : A
+839 : 14 : 46 : B
+840 : 15 : 46 : o
+841 : 16 : 46 : o
+842 : 17 : 46 : l
+843 : 18 : 46 : SPACE
+844 : 19 : 46 : =
+845 : 20 : 46 : SPACE
+846 : 21 : 46 : f
+847 : 22 : 46 : a
+848 : 23 : 46 : l
+849 : 24 : 46 : s
+850 : 25 : 46 : e
+851 : 26 : 46 : ;
+852 : 27 : 46 : 
+853 : 28 : 46 : NEW_LINE
+854 : 1 : 47 : TAB
+855 : 2 : 47 : 
+856 : 3 : 47 : NEW_LINE
+857 : 1 : 48 : TAB
+858 : 2 : 48 : m
+859 : 3 : 48 : y
+860 : 4 : 48 : B
+861 : 5 : 48 : o
+862 : 6 : 48 : o
+863 : 7 : 48 : l
+864 : 8 : 48 : SPACE
+865 : 9 : 48 : =
+866 : 10 : 48 : SPACE
+867 : 11 : 48 : t
+868 : 12 : 48 : r
+869 : 13 : 48 : u
+870 : 14 : 48 : e
+871 : 15 : 48 : ;
+872 : 16 : 48 : 
+873 : 17 : 48 : NEW_LINE
+874 : 1 : 49 : TAB
+875 : 2 : 49 : m
+876 : 3 : 49 : y
+877 : 4 : 49 : S
+878 : 5 : 49 : t
+879 : 6 : 49 : r
+880 : 7 : 49 : i
+881 : 8 : 49 : n
+882 : 9 : 49 : g
+883 : 10 : 49 : SPACE
+884 : 11 : 49 : =
+885 : 12 : 49 : SPACE
+886 : 13 : 49 : m
+887 : 14 : 49 : y
+888 : 15 : 49 : S
+889 : 16 : 49 : t
+890 : 17 : 49 : r
+891 : 18 : 49 : i
+892 : 19 : 49 : n
+893 : 20 : 49 : g
+894 : 21 : 49 : SPACE
+895 : 22 : 49 : +
+896 : 23 : 49 : SPACE
+897 : 24 : 49 : "
+898 : 25 : 49 : SPACE
+899 : 26 : 49 : :
+900 : 27 : 49 : SPACE
+901 : 28 : 49 : "
+902 : 29 : 49 : SPACE
+903 : 30 : 49 : +
+904 : 31 : 49 : SPACE
+905 : 32 : 49 : m
+906 : 33 : 49 : y
+907 : 34 : 49 : B
+908 : 35 : 49 : o
+909 : 36 : 49 : o
+910 : 37 : 49 : l
+911 : 38 : 49 : ;
+912 : 39 : 49 : 
+913 : 40 : 49 : NEW_LINE
+914 : 1 : 50 : 
+915 : 2 : 50 : NEW_LINE
+916 : 1 : 51 : TAB
+917 : 2 : 51 : i
+918 : 3 : 51 : n
+919 : 4 : 51 : t
+920 : 5 : 51 : SPACE
+921 : 6 : 51 : i
+922 : 7 : 51 : SPACE
+923 : 8 : 51 : =
+924 : 9 : 51 : SPACE
+925 : 10 : 51 : 0
+926 : 11 : 51 : ;
+927 : 12 : 51 : 
+928 : 13 : 51 : NEW_LINE
+929 : 1 : 52 : 
+930 : 2 : 52 : NEW_LINE
+931 : 1 : 53 : TAB
+932 : 2 : 53 : f
+933 : 3 : 53 : o
+934 : 4 : 53 : r
+935 : 5 : 53 : (
+936 : 6 : 53 : SPACE
+937 : 7 : 53 : ;
+938 : 8 : 53 : i
+939 : 9 : 53 : SPACE
+940 : 10 : 53 : <
+941 : 11 : 53 : SPACE
+942 : 12 : 53 : 1
+943 : 13 : 53 : 0
+944 : 14 : 53 : ;
+945 : 15 : 53 : SPACE
+946 : 16 : 53 : i
+947 : 17 : 53 : SPACE
+948 : 18 : 53 : =
+949 : 19 : 53 : SPACE
+950 : 20 : 53 : i
+951 : 21 : 53 : SPACE
+952 : 22 : 53 : +
+953 : 23 : 53 : SPACE
+954 : 24 : 53 : 1
+955 : 25 : 53 : )
+956 : 26 : 53 : 
+957 : 27 : 53 : NEW_LINE
+958 : 1 : 54 : TAB
+959 : 2 : 54 : {
+960 : 3 : 54 : 
+961 : 4 : 54 : NEW_LINE
+962 : 1 : 55 : TAB
+963 : 2 : 55 : TAB
+964 : 3 : 55 : O
+965 : 4 : 55 : U
+966 : 5 : 55 : T
+967 : 6 : 55 : P
+968 : 7 : 55 : U
+969 : 8 : 55 : T
+970 : 9 : 55 : (
+971 : 10 : 55 : i
+972 : 11 : 55 : )
+973 : 12 : 55 : ;
+974 : 13 : 55 : 
+975 : 14 : 55 : NEW_LINE
+976 : 1 : 56 : TAB
+977 : 2 : 56 : }
+978 : 3 : 56 : TAB
+979 : 4 : 56 : 
+980 : 5 : 56 : NEW_LINE
+981 : 1 : 57 : }
+982 : 2 : 57 : 
+983 : 3 : 57 : NEW_LINE
+984 : 1 : 58 : 
+985 : 2 : 58 : NEW_LINE
+986 : 1 : 59 : END_MARK
+987 : 2 : 59 : END_MARK
+0 : 4 : 1 : IDENTIFIER : PERSISTANT_VARIABLES
+1 : 5 : 1 : SYMBOL : {
+2 : 7 : 2 : TYPE : int
+3 : 7 : 6 : IDENTIFIER : myINT
+4 : 7 : 12 : SYMBOL : =
+5 : 7 : 15 : NUMBER : 79
+6 : 7 : 17 : SYMBOL : ;
+7 : 8 : 2 : TYPE : float
+8 : 8 : 8 : IDENTIFIER : myFloat
+9 : 8 : 16 : SYMBOL : =
+10 : 8 : 19 : DECIMAL : 3.0
+11 : 8 : 22 : SYMBOL : ;
+12 : 9 : 2 : TYPE : bool
+13 : 9 : 7 : IDENTIFIER : myBool
+14 : 9 : 14 : SYMBOL : =
+15 : 9 : 16 : BOOL : true
+16 : 9 : 20 : SYMBOL : ;
+17 : 10 : 2 : TYPE : string
+18 : 10 : 9 : IDENTIFIER : myString
+19 : 10 : 19 : SYMBOL : =
+20 : 10 : 21 : STRING : This is a String
+21 : 10 : 38 : SYMBOL : ;
+22 : 11 : 2 : TYPE : int
+23 : 11 : 6 : IDENTIFIER : thisInt
+24 : 11 : 14 : SYMBOL : =
+25 : 11 : 16 : NUMBER : 0
+26 : 11 : 17 : SYMBOL : ;
+27 : 12 : 1 : SYMBOL : }
+28 : 14 : 1 : IDENTIFIER : myINT
+29 : 14 : 7 : SYMBOL : =
+30 : 14 : 9 : IDENTIFIER : myINT
+31 : 14 : 15 : SYMBOL : +
+32 : 14 : 17 : NUMBER : 1
+33 : 14 : 19 : SYMBOL : +
+34 : 14 : 21 : IDENTIFIER : myFloat
+35 : 14 : 28 : SYMBOL : ;
+36 : 16 : 1 : IDENTIFIER : myString
+37 : 16 : 10 : SYMBOL : =
+38 : 16 : 12 : IDENTIFIER : myString
+39 : 16 : 21 : SYMBOL : +
+40 : 16 : 24 : STRING :  that is bad!
+41 : 16 : 38 : SYMBOL : ;
+42 : 18 : 1 : KEYWORD : if
+43 : 18 : 3 : SYMBOL : (
+44 : 18 : 4 : IDENTIFIER : myINT
+45 : 18 : 10 : IDENTIFIER : <
+46 : 18 : 12 : NUMBER : 80
+47 : 18 : 14 : SYMBOL : )
+48 : 19 : 1 : SYMBOL : {
+49 : 20 : 2 : IDENTIFIER : myINT
+50 : 20 : 8 : SYMBOL : =
+51 : 20 : 10 : IDENTIFIER : myINT
+52 : 20 : 16 : SYMBOL : *
+53 : 20 : 18 : IDENTIFIER : myFloat
+54 : 20 : 25 : SYMBOL : ;
+55 : 21 : 1 : SYMBOL : }
+56 : 23 : 1 : IDENTIFIER : myINT
+57 : 23 : 7 : SYMBOL : =
+58 : 23 : 9 : IDENTIFIER : myFloat
+59 : 23 : 17 : SYMBOL : +
+60 : 23 : 19 : IDENTIFIER : myINT
+61 : 23 : 24 : SYMBOL : ;
+62 : 25 : 1 : KEYWORD : if
+63 : 25 : 3 : SYMBOL : (
+64 : 25 : 4 : IDENTIFIER : myFloat
+65 : 25 : 12 : SYMBOL : =
+66 : 25 : 13 : SYMBOL : =
+67 : 25 : 15 : NUMBER : 3
+68 : 25 : 16 : SYMBOL : )
+69 : 26 : 1 : SYMBOL : {
+70 : 27 : 2 : KEYWORD : if
+71 : 27 : 4 : SYMBOL : (
+72 : 27 : 5 : IDENTIFIER : myBool
+73 : 27 : 12 : SYMBOL : =
+74 : 27 : 13 : SYMBOL : =
+75 : 27 : 15 : BOOL : true
+76 : 27 : 19 : SYMBOL : )
+77 : 28 : 2 : SYMBOL : {
+78 : 29 : 3 : IDENTIFIER : myBool
+79 : 29 : 10 : SYMBOL : =
+80 : 29 : 12 : BOOL : false
+81 : 29 : 17 : SYMBOL : ;
+82 : 30 : 2 : SYMBOL : }
+83 : 31 : 1 : SYMBOL : }
+84 : 33 : 1 : FUNCTION : OUTPUT
+85 : 33 : 7 : SYMBOL : (
+86 : 33 : 9 : STRING : Saving myString: 
+87 : 33 : 28 : SYMBOL : +
+88 : 33 : 30 : IDENTIFIER : myString
+89 : 33 : 40 : SYMBOL : +
+90 : 33 : 43 : STRING :   - to file
+91 : 33 : 55 : SYMBOL : )
+92 : 33 : 56 : SYMBOL : ;
+93 : 34 : 1 : FUNCTION : SaveToFile
+94 : 34 : 11 : SYMBOL : (
+95 : 34 : 12 : IDENTIFIER : myString
+96 : 34 : 20 : SYMBOL : ,
+97 : 34 : 22 : STRING : save.txt
+98 : 34 : 31 : SYMBOL : )
+99 : 34 : 32 : SYMBOL : ;
+100 : 36 : 1 : IDENTIFIER : myString
+101 : 36 : 10 : SYMBOL : =
+102 : 36 : 13 : STRING : I have been changed
+103 : 36 : 33 : SYMBOL : ;
+104 : 37 : 1 : FUNCTION : OUTPUT
+105 : 37 : 7 : SYMBOL : (
+106 : 37 : 9 : STRING : myString changed to: 
+107 : 37 : 32 : SYMBOL : +
+108 : 37 : 34 : IDENTIFIER : myString
+109 : 37 : 42 : SYMBOL : )
+110 : 37 : 43 : SYMBOL : ;
+111 : 39 : 1 : FUNCTION : ReadFromFile
+112 : 39 : 13 : SYMBOL : (
+113 : 39 : 15 : STRING : save.txt
+114 : 39 : 24 : SYMBOL : ,
+115 : 39 : 26 : STRING : myString
+116 : 39 : 35 : SYMBOL : ,
+117 : 39 : 36 : IDENTIFIER : myString
+118 : 39 : 44 : SYMBOL : )
+119 : 39 : 45 : SYMBOL : ;
+120 : 40 : 1 : FUNCTION : OUTPUT
+121 : 40 : 7 : SYMBOL : (
+122 : 40 : 9 : STRING : Loaded - 
+123 : 40 : 20 : SYMBOL : +
+124 : 40 : 22 : IDENTIFIER : myString
+125 : 40 : 31 : SYMBOL : +
+126 : 40 : 34 : STRING : From save.txt
+127 : 40 : 48 : SYMBOL : )
+128 : 40 : 49 : SYMBOL : ;
+129 : 42 : 1 : IDENTIFIER : myINT
+130 : 42 : 7 : SYMBOL : =
+131 : 42 : 9 : IDENTIFIER : myINT
+132 : 42 : 15 : SYMBOL : +
+133 : 42 : 17 : NUMBER : 1
+134 : 42 : 18 : SYMBOL : ;
+135 : 44 : 1 : KEYWORD : if
+136 : 44 : 3 : SYMBOL : (
+137 : 44 : 4 : IDENTIFIER : myString
+138 : 44 : 13 : SYMBOL : =
+139 : 44 : 14 : SYMBOL : =
+140 : 44 : 17 : STRING : This is a String that is shit!
+141 : 44 : 48 : SYMBOL : )
+142 : 45 : 1 : SYMBOL : {
+143 : 46 : 2 : TYPE : bool
+144 : 46 : 7 : IDENTIFIER : thisIsABool
+145 : 46 : 19 : SYMBOL : =
+146 : 46 : 21 : BOOL : false
+147 : 46 : 26 : SYMBOL : ;
+148 : 48 : 2 : IDENTIFIER : myBool
+149 : 48 : 9 : SYMBOL : =
+150 : 48 : 11 : BOOL : true
+151 : 48 : 15 : SYMBOL : ;
+152 : 49 : 2 : IDENTIFIER : myString
+153 : 49 : 11 : SYMBOL : =
+154 : 49 : 13 : IDENTIFIER : myString
+155 : 49 : 22 : SYMBOL : +
+156 : 49 : 25 : STRING :  : 
+157 : 49 : 30 : SYMBOL : +
+158 : 49 : 32 : IDENTIFIER : myBool
+159 : 49 : 38 : SYMBOL : ;
+160 : 51 : 2 : TYPE : int
+161 : 51 : 6 : IDENTIFIER : i
+162 : 51 : 8 : SYMBOL : =
+163 : 51 : 10 : NUMBER : 0
+164 : 51 : 11 : SYMBOL : ;
+165 : 53 : 2 : KEYWORD : for
+166 : 53 : 5 : SYMBOL : (
+167 : 53 : 7 : SYMBOL : ;
+168 : 53 : 8 : IDENTIFIER : i
+169 : 53 : 10 : IDENTIFIER : <
+170 : 53 : 12 : NUMBER : 10
+171 : 53 : 14 : SYMBOL : ;
+172 : 53 : 16 : IDENTIFIER : i
+173 : 53 : 18 : SYMBOL : =
+174 : 53 : 20 : IDENTIFIER : i
+175 : 53 : 22 : SYMBOL : +
+176 : 53 : 24 : NUMBER : 1
+177 : 53 : 25 : SYMBOL : )
+178 : 54 : 2 : SYMBOL : {
+179 : 55 : 3 : FUNCTION : OUTPUT
+180 : 55 : 9 : SYMBOL : (
+181 : 55 : 10 : IDENTIFIER : i
+182 : 55 : 11 : SYMBOL : )
+183 : 55 : 12 : SYMBOL : ;
+184 : 56 : 2 : SYMBOL : }
+185 : 57 : 1 : SYMBOL : }
+186 : 59 : 1 : ENDMARK : END_MARK
+ASSIGN : myINT : TEMP_VAR |
+ASSIGN : myFloat : TEMP_VAR |
+ASSIGN : myBool : TEMP_VAR |
+ASSIGN : myString : TEMP_VAR |
+ASSIGN : thisInt : TEMP_VAR |
+ERROR_REDEFINITION : thisInt | At col: 6 row: 11 
+____________________
+SCRIPT: ExampleScript.txt
+VARIABLE LIST - 
+
+Variable Count: 5
+0x14424b8	: myINT	: 79	: INT
+0x1442428	: myFloat	: 3.00	: FLOAT
+0x14423f8	: myBool	: true	: BOOL
+0x1442848	: myString	: This is a String	: STRING
+0x14428a8	: thisInt	: 0	: INT
+END OF LIST 
+
+
+|***********************************************|
+|              BEGINNING OF SCRIPT              |
+____________________
+STEP: 0
+
+DATA FOR STEP:
+funcData[0]: 0x1442638	: TEMP_VAR	: 1	: INT
+funcData[1]: 0x1442608	: TEMP_VAR	: 1	: INT
+funcData[2]: 0x1442428	: myFloat	: 3.00	: FLOAT
+
+
+ADD : TEMP_VAR : TEMP_VAR : myFloat |
+STEP COMPLETED: NO_ERROR
+0x1442638	: TEMP_VAR	: 4	: INT
+0x1442608	: TEMP_VAR	: 1	: INT
+0x1442428	: myFloat	: 3.00	: FLOAT
+
+
+____________________
+STEP: 1
+
+DATA FOR STEP:
+funcData[0]: 0x1442458	: TEMP_VAR	: 79	: INT
+funcData[1]: 0x14424b8	: myINT	: 79	: INT
+funcData[2]: 0x1442638	: TEMP_VAR	: 4	: INT
+
+
+ADD : TEMP_VAR : myINT : TEMP_VAR |
+STEP COMPLETED: NO_ERROR
+0x1442458	: TEMP_VAR	: 83	: INT
+0x14424b8	: myINT	: 79	: INT
+0x1442638	: TEMP_VAR	: 4	: INT
+
+
+____________________
+STEP: 2
+
+DATA FOR STEP:
+funcData[0]: 0x14424b8	: myINT	: 79	: INT
+funcData[1]: 0x1442458	: TEMP_VAR	: 83	: INT
+
+
+ASSIGN : myINT : TEMP_VAR |
+STEP COMPLETED: NO_ERROR
+0x14424b8	: myINT	: 83	: INT
+0x1442458	: TEMP_VAR	: 83	: INT
+
+
+____________________
+STEP: 3
+
+DATA FOR STEP:
+funcData[0]: 0x1442758	: TEMP_VAR	: This is a String	: STRING
+funcData[1]: 0x1442848	: myString	: This is a String	: STRING
+funcData[2]: 0x14424e8	: TEMP_VAR	:  that is bad!	: STRING
+
+
+ADD : TEMP_VAR : myString : TEMP_VAR |
+STEP COMPLETED: NO_ERROR
+0x1442758	: TEMP_VAR	: This is a String that is bad!	: STRING
+0x1442848	: myString	: This is a String	: STRING
+0x14424e8	: TEMP_VAR	:  that is bad!	: STRING
+
+
+____________________
+STEP: 4
+
+DATA FOR STEP:
+funcData[0]: 0x1442848	: myString	: This is a String	: STRING
+funcData[1]: 0x1442758	: TEMP_VAR	: This is a String that is bad!	: STRING
+
+
+ASSIGN : myString : TEMP_VAR |
+STEP COMPLETED: NO_ERROR
+0x1442848	: myString	: This is a String that is bad!	: STRING
+0x1442758	: TEMP_VAR	: This is a String that is bad!	: STRING
+
+
+____________________
+STEP: 5
+
+DATA FOR STEP:
+funcData[0]: 0x1442308	: TEMP_BOOL	: false	: BOOL
+funcData[1]: 0x14424b8	: myINT	: 83	: INT
+funcData[2]: 0x1442668	: TEMP_VAR	: 80	: INT
+
+
+LESSTHAN : TEMP_BOOL : myINT |
+STEP COMPLETED: NO_ERROR
+0x1442308	: TEMP_BOOL	: false	: BOOL
+0x14424b8	: myINT	: 83	: INT
+0x1442668	: TEMP_VAR	: 80	: INT
+
+
+____________________
+STEP: 6
+
+DATA FOR STEP:
+funcData[0]: 0x1442308	: TEMP_BOOL	: false	: BOOL
+
+
+IF : TEMP_BOOL |
+EXITING SCOPE
+STEP COMPLETED: NO_ERROR
+0x1442308	: TEMP_BOOL	: false	: BOOL
+
+
+SKIPPING STEP
+SKIPPING STEP
+____________________
+STEP: 9
+
+DATA FOR STEP:
+
+
+FOR LOOP END : NO DATA REQUIRED |
+\\__MARKS END OF LOOP__//
+
+STEP COMPLETED: NO_ERROR
+
+
+____________________
+STEP: 10
+
+DATA FOR STEP:
+funcData[0]: 0x14427b8	: TEMP_VAR	: 3.00	: FLOAT
+funcData[1]: 0x1442428	: myFloat	: 3.00	: FLOAT
+funcData[2]: 0x14424b8	: myINT	: 83	: INT
+
+
+ADD : TEMP_VAR : myFloat : myINT |
+STEP COMPLETED: NO_ERROR
+0x14427b8	: TEMP_VAR	: 86.00	: FLOAT
+0x1442428	: myFloat	: 3.00	: FLOAT
+0x14424b8	: myINT	: 83	: INT
+
+
+____________________
+STEP: 11
+
+DATA FOR STEP:
+funcData[0]: 0x14424b8	: myINT	: 83	: INT
+funcData[1]: 0x14427b8	: TEMP_VAR	: 86.00	: FLOAT
+
+
+ASSIGN : myINT : TEMP_VAR |
+STEP COMPLETED: NO_ERROR
+0x14424b8	: myINT	: 86	: INT
+0x14427b8	: TEMP_VAR	: 86.00	: FLOAT
+
+
+____________________
+STEP: 12
+
+DATA FOR STEP:
+funcData[0]: 0x1442398	: TEMP_BOOL	: false	: BOOL
+funcData[1]: 0x1442428	: myFloat	: 3.00	: FLOAT
+funcData[2]: 0x1442788	: TEMP_VAR	: 3	: INT
+
+
+EQUALS : TEMP_BOOL : myFloat |
+STEP COMPLETED: NO_ERROR
+0x1442398	: TEMP_BOOL	: true	: BOOL
+0x1442428	: myFloat	: 3.00	: FLOAT
+0x1442788	: TEMP_VAR	: 3	: INT
+
+
+____________________
+STEP: 13
+
+DATA FOR STEP:
+funcData[0]: 0x1442398	: TEMP_BOOL	: true	: BOOL
+
+
+IF : TEMP_BOOL |
+STEP COMPLETED: NO_ERROR
+0x1442398	: TEMP_BOOL	: true	: BOOL
+
+
+____________________
+STEP: 14
+
+DATA FOR STEP:
+funcData[0]: 0x14429c8	: TEMP_BOOL	: false	: BOOL
+funcData[1]: 0x14423f8	: myBool	: true	: BOOL
+funcData[2]: 0x1442968	: TEMP_VAR	: true	: BOOL
+
+
+EQUALS : TEMP_BOOL : myBool |
+STEP COMPLETED: NO_ERROR
+0x14429c8	: TEMP_BOOL	: true	: BOOL
+0x14423f8	: myBool	: true	: BOOL
+0x1442968	: TEMP_VAR	: true	: BOOL
+
+
+____________________
+STEP: 15
+
+DATA FOR STEP:
+funcData[0]: 0x14429c8	: TEMP_BOOL	: true	: BOOL
+
+
+IF : TEMP_BOOL |
+STEP COMPLETED: NO_ERROR
+0x14429c8	: TEMP_BOOL	: true	: BOOL
+
+
+____________________
+STEP: 16
+
+DATA FOR STEP:
+funcData[0]: 0x14423f8	: myBool	: true	: BOOL
+funcData[1]: 0x1442de8	: TEMP_VAR	: false	: BOOL
+
+
+ASSIGN : myBool : TEMP_VAR |
+STEP COMPLETED: NO_ERROR
+0x14423f8	: myBool	: false	: BOOL
+0x1442de8	: TEMP_VAR	: false	: BOOL
+
+
+____________________
+STEP: 17
+
+DATA FOR STEP:
+funcData[0]: 0x1442e48	: TEMP_VAR	: This is a String	: STRING
+funcData[1]: 0x1442848	: myString	: This is a String that is bad!	: STRING
+funcData[2]: 0x1442b48	: TEMP_VAR	:   - to file	: STRING
+
+
+ADD : TEMP_VAR : myString : TEMP_VAR |
+STEP COMPLETED: NO_ERROR
+0x1442e48	: TEMP_VAR	: This is a String that is bad!  - to file	: STRING
+0x1442848	: myString	: This is a String that is bad!	: STRING
+0x1442b48	: TEMP_VAR	:   - to file	: STRING
+
+
+____________________
+STEP: 18
+
+DATA FOR STEP:
+funcData[0]: 0x1442d58	: TEMP_VAR	: Saving myString: 	: STRING
+funcData[1]: 0x1442a28	: TEMP_VAR	: Saving myString: 	: STRING
+funcData[2]: 0x1442e48	: TEMP_VAR	: This is a String that is bad!  - to file	: STRING
+
+
+ADD : TEMP_VAR : TEMP_VAR : TEMP_VAR |
+STEP COMPLETED: NO_ERROR
+0x1442d58	: TEMP_VAR	: Saving myString: This is a String that is bad!  - to file	: STRING
+0x1442a28	: TEMP_VAR	: Saving myString: 	: STRING
+0x1442e48	: TEMP_VAR	: This is a String that is bad!  - to file	: STRING
+
+
+____________________
+STEP: 19
+
+DATA FOR STEP:
+funcData[0]: 0x1442d58	: TEMP_VAR	: Saving myString: This is a String that is bad!  - to file	: STRING
+funcData[1]: 0x1442db8	: RETURN_VAR	: false	: BOOL
+
+
+OUTPUT : TEMP_VAR : RETURN_VAR |
+STEP COMPLETED: NO_ERROR
+0x1442d58	: TEMP_VAR	: Saving myString: This is a String that is bad!  - to file	: STRING
+0x1442db8	: RETURN_VAR	: false	: BOOL
+
+
+____________________
+STEP: 20
+
+DATA FOR STEP:
+funcData[0]: 0x1442848	: myString	: This is a String that is bad!	: STRING
+funcData[1]: 0x1442998	: TEMP_VAR	: save.txt	: STRING
+funcData[2]: 0x1442b78	: RETURN_VAR	: false	: BOOL
+
+
+SAVETOFILE : myString : TEMP_VAR |
+STEP COMPLETED: NO_ERROR
+0x1442848	: myString	: This is a String that is bad!	: STRING
+0x1442998	: TEMP_VAR	: save.txt	: STRING
+0x1442b78	: RETURN_VAR	: false	: BOOL
+
+
+____________________
+STEP: 21
+
+DATA FOR STEP:
+funcData[0]: 0x1442848	: myString	: This is a String that is bad!	: STRING
+funcData[1]: 0x1442ba8	: TEMP_VAR	: I have been changed	: STRING
+
+
+ASSIGN : myString : TEMP_VAR |
+STEP COMPLETED: NO_ERROR
+0x1442848	: myString	: I have been changed	: STRING
+0x1442ba8	: TEMP_VAR	: I have been changed	: STRING
+
+
+____________________
+STEP: 22
+
+DATA FOR STEP:
+funcData[0]: 0x1442cc8	: TEMP_VAR	: myString changed to: 	: STRING
+funcData[1]: 0x1442bd8	: TEMP_VAR	: myString changed to: 	: STRING
+funcData[2]: 0x1442848	: myString	: I have been changed	: STRING
+
+
+ADD : TEMP_VAR : TEMP_VAR : myString |
+STEP COMPLETED: NO_ERROR
+0x1442cc8	: TEMP_VAR	: myString changed to: I have been changed	: STRING
+0x1442bd8	: TEMP_VAR	: myString changed to: 	: STRING
+0x1442848	: myString	: I have been changed	: STRING
+
+
+____________________
+STEP: 23
+
+DATA FOR STEP:
+funcData[0]: 0x1442cc8	: TEMP_VAR	: myString changed to: I have been changed	: STRING
+funcData[1]: 0x1442e78	: RETURN_VAR	: false	: BOOL
+
+
+OUTPUT : TEMP_VAR : RETURN_VAR |
+STEP COMPLETED: NO_ERROR
+0x1442cc8	: TEMP_VAR	: myString changed to: I have been changed	: STRING
+0x1442e78	: RETURN_VAR	: false	: BOOL
+
+
+____________________
+STEP: 24
+
+DATA FOR STEP:
+funcData[0]: 0x1442c08	: TEMP_VAR	: save.txt	: STRING
+funcData[1]: 0x1442d88	: TEMP_VAR	: myString	: STRING
+funcData[2]: 0x1442848	: myString	: I have been changed	: STRING
+funcData[3]: 0x1442c38	: RETURN_VAR	: false	: BOOL
+
+
+READFROMFILE : TEMP_VAR : TEMP_VAR |
+STEP COMPLETED: NO_ERROR
+0x1442c08	: TEMP_VAR	: save.txt	: STRING
+0x1442d88	: TEMP_VAR	: myString	: STRING
+0x1442848	: myString	: This is a 

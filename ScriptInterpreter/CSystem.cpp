@@ -34,6 +34,7 @@ bool CSystem::RunMain()
 	char** args = new char*[2];
     do
     {
+		cout << endl;
         char buffer[512];
         CMDGetLine(buffer, 512);
 		args[1] = SplitCmdLine(buffer)[1];
@@ -99,7 +100,7 @@ void CSystem::RunCompile(char* arg)
 			if (result != NO_ERROR)
 				cout << "Compiled with error: " << GetErrorText(result) << endl;
 			else
-				cout << "Compiled with NO_ERROR!\n";
+				cout << "Compiled with successfully!\n";
 
 			if (m_system_settings._compile_and_run)
 			{
@@ -117,7 +118,7 @@ void CSystem::RunCompile(char* arg)
 			if (result != NO_ERROR)
 				cout << "Compiled with error: " << GetErrorText(result) << endl;
 			else
-				cout << "Compiled with NO_ERROR!\n";
+				cout << "Compiled with successfully!\n";
 		}
         else
             cout << "Invalid Argument - Please check spelling and spaces\n";
@@ -133,8 +134,6 @@ void CSystem::RunCompile(char* arg)
 
 void CSystem::RunPrint(char* arg)
 {
-    cout << "I don't know how to print stuff...\n";
-
     if(!strcmp(arg,"SCRIPT_LIST"))
     {
         OutputScript();
@@ -147,7 +146,7 @@ void CSystem::RunPrint(char* arg)
     {
         OutputScriptVars();
     }
-    else if (!strcmp(arg, "COMPILE_ERROR"))
+    else if (!strcmp(arg, "COMPILE_RESULT"))
     {
         OutputScriptErrors();
     }
@@ -184,24 +183,32 @@ void CSystem::OutputScript()
 
 void CSystem::OutputScriptErrors()
 {
-	cout << "SCRIPT ERRORS\n";
+	cout << "SCRIPT COMPILE RESULTS\n";
 	for (int i = 0; i < m_interpreter.GetFileTree().GetNumberOfFiles(); i++)
 	{
-
 		if (m_interpreter.GetScriptError())
 		{
 			cout << m_interpreter.GetFileTree().GetFile(i)->GetFilename() << ": ";
 			cout << GetErrorText(m_interpreter.GetScriptError()[i]) << endl;
 		}
 		else
+		{
+			cout << m_interpreter.GetFileTree().GetFile(i)->GetFilename() << ": ";
 			cout << "Please compile at least once.\n";
+		}
 	}
+
+	if (m_interpreter.GetFileTree().GetNumberOfFiles() == 0)
+	{
+		cout << "No files have been added. To Add files go to SETTINGS.\n";
+	}
+
 	cout << endl;
 }
 
 void CSystem::OutputScriptVars()
 {
-    cout << "Some Script Variables M8\n";
+    cout << "\t-This is not supported yet...\n";
 }
 
 void CSystem::OutputHelp()
@@ -218,7 +225,7 @@ void CSystem::OutputHelp()
 	cout << "\t\tHELP - Prints help(this) to the console\n";
 	cout << "\t\tSCRIPT_LIST - Prints a list of the scripts to be compiled\n";
 	cout << "\t\tSCRIPT_VAR - Prints the variable list for each file\n";
-	cout << "\t\tCOMPILE_ERROR - Print the errors for each file compiled\n";
+	cout << "\t\tCOMPILE_RESULT - Print the compiling results for each file\n";
 
 	cout << "SETTINGS COMMANDS - \n";
 	cout << "\
@@ -275,14 +282,10 @@ char** CSystem::SplitCmdLine(char* cmdLine)
 CSystem::CSystemSettings::CSystemSettings(CSystem& system)
 :
     m_system(system)
-{
-
-}
+{}
 
 CSystem::CSystemSettings::~CSystemSettings()
-{
-
-}
+{}
 
 void CSystem::CSystemSettings::ProcessSetting(char* cmdLine)
 {
